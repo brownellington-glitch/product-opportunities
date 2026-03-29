@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Opportunities Dashboard</title>
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
+  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
+  <style>
+    :root {
+      --bg: #0d1117;
+      --surface: #161b22;
+      --border: #30363d;
+      --text: #e6edf3;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+      --reddit: #ff4500;
+      --ph: #da552f;
+      --github: #238636;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+    }
+    .container { max-width: 1280px; margin: 0 auto; padding: 20px; }
+
+    /* Header */
+    header {
+      text-align: center;
+      padding: 40px 20px 30px;
+      border-bottom: 1px solid var(--border);
+      margin-bottom: 30px;
+    }
+    header h1 {
+      font-size: 2em;
+      font-weight: 700;
+      margin-bottom: 8px;
+    }
+    header p { color: var(--text-muted); font-size: 1.05em; }
+    .last-updated { color: var(--text-muted); font-size: 0.85em; margin-top: 8px; }
+
+    /* Stats Cards */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 16px;
+      margin-bottom: 30px;
+    }
+    .stat-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      text-align: center;
+    }
+    .stat-card .number {
+      font-size: 2.2em;
+      font-weight: 700;
+      color: var(--accent);
+    }
+    .stat-card .label {
+      color: var(--text-muted);
+      font-size: 0.9em;
+      margin-top: 4px;
+    }
+    .stat-card.reddit .number { color: var(--reddit); }
+    .stat-card.ph .number { color: var(--ph); }
+    .stat-card.github .number { color: var(--github); }
+
+    /* Charts */
+    .charts-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-bottom: 30px;
+    }
+    @media (max-width: 768px) {
+      .charts-row { grid-template-columns: 1fr; }
+    }
+    .chart-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+    }
+    .chart-card h3 {
+      margin-bottom: 16px;
+      font-size: 1.1em;
+      color: var(--text-muted);
+    }
+
+    /* Channel Filter */
+    .filter-bar {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+    .filter-btn {
+      padding: 8px 18px;
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      background: var(--surface);
+      color: var(--text);
+      cursor: pointer;
+      font-size: 0.9em;
+      transition: all 0.2s;
+    }
+    .filter-btn:hover { border-color: var(--accent); }
+    .filter-btn.active {
+      background: var(--accent);
+      color: #fff;
+      border-color: var(--accent);
+    }
+    .filter-btn.reddit.active { background: var(--reddit); border-color: var(--reddit); }
+    .filter-btn.ph.active { background: var(--ph); border-color: var(--ph); }
+    .filter-btn.github.active { background: var(--github); border-color: var(--github); }
+
+    /* DataTable overrides for dark theme */
+    .dataTables_wrapper { color: var(--text); }
+    table.dataTable { border-collapse: collapse !important; width: 100% !important; }
+    table.dataTable thead th {
+      background: var(--surface) !important;
+      color: var(--text-muted) !important;
+      border-bottom: 2px solid var(--border) !important;
+      padding: 12px 14px !important;
+      font-size: 0.85em;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    table.dataTable tbody td {
+      background: var(--bg) !important;
+      color: var(--text) !important;
+      border-bottom: 1px solid var(--border) !important;
+      padding: 12px 14px !important;
+      font-size: 0.9em;
+    }
+    table.dataTable tbody tr:hover td {
+      background: var(--surface) !important;
+    }
+    .dataTables_filter input {
+      background: var(--surface) !important;
+      color: var(--text) !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 8px;
+      padding: 6px 12px !important;
+      margin-left: 8px;
+    }
+    .dataTables_filter label { color: var(--text-muted) !important; }
+    .dataTables_length select {
+      background: var(--surface) !important;
+      color: var(--text) !important;
+      border: 1px solid var(--border) !important;
+      border-radius: 6px;
+      padding: 4px 8px;
+    }
+    .dataTables_length label { color: var(--text-muted) !important; }
+    .dataTables_info { color: var(--text-muted) !important; }
+    .dataTables_paginate .paginate_button {
+      color: var(--text) !important;
+      border: 1px solid var(--border) !important;
+      background: var(--surface) !important;
+      border-radius: 6px !important;
+      margin: 0 2px !important;
+    }
+    .dataTables_paginate .paginate_button.current {
+      background: var(--accent) !important;
+      color: #fff !important;
+      border-color: var(--accent) !important;
+    }
+    .dataTables_paginate .paginate_button:hover {
+      background: var(--border) !important;
+      color: var(--text) !important;
+    }
+    .dataTables_empty { color: var(--text-muted) !important; }
+
+    /* Channel badges */
+    .badge {
+      display: inline-block;
+      padding: 3px 10px;
+      border-radius: 12px;
+      font-size: 0.8em;
+      font-weight: 600;
+    }
+    .badge-reddit { background: rgba(255,69,0,0.15); color: var(--reddit); }
+    .badge-ph { background: rgba(218,85,47,0.15); color: var(--ph); }
+    .badge-github { background: rgba(35,134,54,0.15); color: var(--github); }
+
+    /* Doc link */
+    a.doc-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.85em;
+    }
+    a.doc-link:hover { text-decoration: underline; }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      padding: 30px;
+      color: var(--text-muted);
+      font-size: 0.85em;
+      border-top: 1px solid var(--border);
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Product Opportunities Dashboard</h1>
+    <p>Daily product opportunity scanning from Reddit, Product Hunt, and GitHub Trending</p>
+    <div class="last-updated" id="lastUpdated"></div>
+  </header>
+
+  <div class="container">
+    <!-- Stats -->
+    <div class="stats-grid" id="statsGrid"></div>
+
+    <!-- Charts -->
+    <div class="charts-row">
+      <div class="chart-card">
+        <h3>Products by Date</h3>
+        <canvas id="dateChart"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3>Channel Distribution</h3>
+        <canvas id="channelChart"></canvas>
+      </div>
+    </div>
+
+    <!-- Filter -->
+    <div class="filter-bar">
+      <button class="filter-btn active" data-channel="all">All</button>
+      <button class="filter-btn reddit" data-channel="Reddit">Reddit</button>
+      <button class="filter-btn ph" data-channel="Product Hunt">Product Hunt</button>
+      <button class="filter-btn github" data-channel="GitHub">GitHub</button>
+    </div>
+
+    <!-- Table -->
+    <table id="productsTable" class="display responsive nowrap" style="width:100%">
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Channel</th>
+          <th>Product</th>
+          <th>Description</th>
+          <th>Competitors</th>
+          <th>Report</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </div>
+
+  <footer>
+    Powered by VisionClaw &middot; Auto-updated daily at 00:03 & 07:07 Beijing Time
+  </footer>
+
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script>
+    const CHANNEL_COLORS = {
+      'Reddit': '#ff4500',
+      'Product Hunt': '#da552f',
+      'GitHub': '#238636'
+    };
+
+    function badgeClass(channel) {
+      if (channel === 'Reddit') return 'badge-reddit';
+      if (channel === 'Product Hunt') return 'badge-ph';
+      return 'badge-github';
+    }
+
+    let table;
+    let allData = [];
+
+    fetch('data.json')
+      .then(r => r.json())
+      .then(data => {
+        allData = data.sort((a, b) => b.date.localeCompare(a.date));
+        renderStats(allData);
+        renderCharts(allData);
+        renderTable(allData);
+        // Last updated
+        const dates = [...new Set(allData.map(d => d.date))].sort();
+        document.getElementById('lastUpdated').textContent =
+          `${allData.length} products tracked from ${dates[0]} to ${dates[dates.length - 1]}`;
+      });
+
+    function renderStats(data) {
+      const total = data.length;
+      const dates = new Set(data.map(d => d.date));
+      const reddit = data.filter(d => d.channel === 'Reddit').length;
+      const ph = data.filter(d => d.channel === 'Product Hunt').length;
+      const gh = data.filter(d => d.channel === 'GitHub').length;
+
+      document.getElementById('statsGrid').innerHTML = `
+        <div class="stat-card"><div class="number">${total}</div><div class="label">Total Products</div></div>
+        <div class="stat-card"><div class="number">${dates.size}</div><div class="label">Days Tracked</div></div>
+        <div class="stat-card reddit"><div class="number">${reddit}</div><div class="label">Reddit</div></div>
+        <div class="stat-card ph"><div class="number">${ph}</div><div class="label">Product Hunt</div></div>
+        <div class="stat-card github"><div class="number">${gh}</div><div class="label">GitHub</div></div>
+      `;
+    }
+
+    function renderCharts(data) {
+      const dates = [...new Set(data.map(d => d.date))].sort();
+      const channels = ['Reddit', 'Product Hunt', 'GitHub'];
+
+      // Stacked bar chart by date
+      const dateCtx = document.getElementById('dateChart').getContext('2d');
+      new Chart(dateCtx, {
+        type: 'bar',
+        data: {
+          labels: dates,
+          datasets: channels.map(ch => ({
+            label: ch,
+            data: dates.map(d => data.filter(p => p.date === d && p.channel === ch).length),
+            backgroundColor: CHANNEL_COLORS[ch],
+            borderRadius: 4
+          }))
+        },
+        options: {
+          responsive: true,
+          plugins: { legend: { labels: { color: '#8b949e' } } },
+          scales: {
+            x: { stacked: true, ticks: { color: '#8b949e' }, grid: { color: '#30363d' } },
+            y: { stacked: true, ticks: { color: '#8b949e' }, grid: { color: '#30363d' }, beginAtZero: true }
+          }
+        }
+      });
+
+      // Doughnut chart
+      const chCtx = document.getElementById('channelChart').getContext('2d');
+      new Chart(chCtx, {
+        type: 'doughnut',
+        data: {
+          labels: channels,
+          datasets: [{
+            data: channels.map(ch => data.filter(p => p.channel === ch).length),
+            backgroundColor: channels.map(ch => CHANNEL_COLORS[ch]),
+            borderWidth: 0
+          }]
+        },
+        options: {
+          responsive: true,
+          plugins: {
+            legend: { position: 'bottom', labels: { color: '#8b949e', padding: 20 } }
+          }
+        }
+      });
+    }
+
+    function renderTable(data) {
+      const tbody = data.map(p => {
+        const docLink = p.doc_link
+          ? `<a class="doc-link" href="${p.doc_link}" target="_blank">View Report</a>`
+          : '-';
+        return `<tr>
+          <td>${p.date}</td>
+          <td><span class="badge ${badgeClass(p.channel)}">${p.channel}</span></td>
+          <td>${p.name}</td>
+          <td>${p.description}</td>
+          <td>${p.competitors || '-'}</td>
+          <td>${docLink}</td>
+        </tr>`;
+      }).join('');
+
+      document.querySelector('#productsTable tbody').innerHTML = tbody;
+
+      table = $('#productsTable').DataTable({
+        pageLength: 25,
+        order: [[0, 'desc']],
+        responsive: true,
+        language: {
+          search: 'Search:',
+          lengthMenu: 'Show _MENU_ entries',
+          info: 'Showing _START_ to _END_ of _TOTAL_ products',
+          paginate: { previous: '&laquo;', next: '&raquo;' }
+        },
+        columnDefs: [
+          { targets: 3, width: '30%' },
+          { targets: 4, width: '15%' }
+        ]
+      });
+
+      // Filter buttons
+      document.querySelectorAll('.filter-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          const channel = btn.dataset.channel;
+          if (channel === 'all') {
+            table.column(1).search('').draw();
+          } else {
+            table.column(1).search(channel).draw();
+          }
+        });
+      });
+    }
+  </script>
+</body>
+</html>

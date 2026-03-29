@@ -1,0 +1,938 @@
+[
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "Web Flight Arcade Simulator",
+    "description": "基于Web的飞行模拟器街机游戏",
+    "doc_link": "https://docs.google.com/document/d/1Qonga8z4TCRrv2aA8Rxkz5KwT1bsDiqw22BwpjJSCl8/edit",
+    "competitors": "GeoFS, FlightGear"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "Terraink 地图海报",
+    "description": "将地形数据转为墨水风格艺术海报",
+    "doc_link": "https://docs.google.com/document/d/1wbvtXyoYJ3Pclepv-xUZXEj7qxCf2GU43xvIy3lZniY/edit",
+    "competitors": "Mapbox, Stamen"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "三屏桌面仪表盘",
+    "description": "跨三屏的桌面信息仪表盘系统",
+    "doc_link": "https://docs.google.com/document/d/146exSC4OOGrtHJe1HcbQiDsuYiW_GfeyRWW6RmTAMx8/edit",
+    "competitors": "Rainmeter, Widgetsmith"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "数字翻牌显示屏",
+    "description": "复古机械翻牌风格的数字显示",
+    "doc_link": "https://docs.google.com/document/d/1IS9n334xkqu32UP5rgnss8pVhcUuF8P6UriwXZEpeHc/edit",
+    "competitors": "Vestaboard, LaMetric"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "拉美SaaS机会",
+    "description": "面向拉美市场的SaaS产品机会",
+    "doc_link": "https://docs.google.com/document/d/1GR9JHDdviG_GXhhVbm2n0G5Drw8rJWokyCRdziPsmGo/edit",
+    "competitors": "Nubank, Clip"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "Apple Watch教育App",
+    "description": "Apple Watch上的教育学习应用",
+    "doc_link": "https://docs.google.com/document/d/1yi9dzjNbBGP-JyVSktgwfZyx8xOFq8Mdl6kE_rfakZ0/edit",
+    "competitors": "Duolingo, Quizlet"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "Windows桌面Widget",
+    "description": "Windows桌面小组件工具",
+    "doc_link": "https://docs.google.com/document/d/11x-1KvH_Wu348pkevlCbRA8Hnnd1RaA3VMwpiIb3Mj0/edit",
+    "competitors": "Widget Launcher, Rainmeter"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "Codebase-to-Course",
+    "description": "将代码库自动转为教学课程",
+    "doc_link": "https://docs.google.com/document/d/1SC9F7Bk9NnGGB6UkWVDCBCLVGUhmzjT1rEt54v9e8CA/edit",
+    "competitors": "CodeTour, Scrimba"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "微信Agent SDK",
+    "description": "基于微信的AI Agent开发框架",
+    "doc_link": "https://docs.google.com/document/d/1Wu5xVXoSqM2RB2iS5VjLydmfCGucUiB3BiPi9ZqcWWw/edit",
+    "competitors": "WeChaty, itchat"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Reddit",
+    "name": "OpenSpace 多Agent",
+    "description": "多Agent协作开放空间平台",
+    "doc_link": "https://docs.google.com/document/d/17TruPhbnQvx2S9TwHSOrzHn2sLROjtwUsB1SoRbnKNk/edit",
+    "competitors": "AutoGen, CrewAI"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Littlebird 上下文感知AI助手",
+    "description": "根据上下文自动提供帮助的AI助手",
+    "doc_link": "https://docs.google.com/document/d/1m6VDSzbDkDCzIht3RonRGKK6F2x0ezIJbAw3mkLzg8M/edit",
+    "competitors": "Notion AI, Copilot"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Eron 便携式Ollama",
+    "description": "便携式本地LLM运行环境",
+    "doc_link": "https://docs.google.com/document/d/1KD7gUEbcabLYUz9cfNkjNO9T-bZQ4fI0-puZhXrr9ZU/edit",
+    "competitors": "Ollama, LM Studio"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Anvil 并行Claude Code",
+    "description": "并行运行多个Claude Code实例",
+    "doc_link": "https://docs.google.com/document/d/1vAtjO6jd8RNXX_fhCfj6jFsQtbqePU2QX8vge5hZNFY/edit",
+    "competitors": "Claude Code, Cursor"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Zeus 自主长任务Agent",
+    "description": "可自主执行长时间任务的AI Agent",
+    "doc_link": "https://docs.google.com/document/d/1n1UXaj3UdFgEL9OPyZNlXX3SDzk-FbOMJN7SzA0FITQ/edit",
+    "competitors": "Devin, AutoGPT"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Mokkit 截图动态化",
+    "description": "将静态截图转为动态交互演示",
+    "doc_link": "https://docs.google.com/document/d/1rucBR2ivQnr-5psNApAFULsFwvPQyxtrVpWIJee7qkE/edit",
+    "competitors": "Loom, Arcade"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Linear Agent AI项目管理",
+    "description": "AI驱动的项目管理工具",
+    "doc_link": "https://docs.google.com/document/d/1nbbiW53gMJJZz0RyGf1WlLnfa-pupHAwpajJpspt2I8/edit",
+    "competitors": "Linear, Jira"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Zcode LLM原生App",
+    "description": "LLM原生应用开发框架",
+    "doc_link": "https://docs.google.com/document/d/1ExGMul6G0CpRZNgVN60z3B19ljEcTg8VadtBCWHoZsg/edit",
+    "competitors": "LangChain, Vercel AI"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Jentic Mini API网关",
+    "description": "轻量级API网关服务",
+    "doc_link": "https://docs.google.com/document/d/1fDLiPErOSkXMxnvn8t1O6HseJypaGIYKOdUjREw0fwE/edit",
+    "competitors": "Kong, Traefik"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Nebils AI社交网络",
+    "description": "AI驱动的新型社交网络",
+    "doc_link": "https://docs.google.com/document/d/1HV1aNHBcEAqZJwu-c7ysB2nzbwAy62qMhhVbeo8yv5A/edit",
+    "competitors": "Character.ai, Replika"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "Product Hunt",
+    "name": "Triqai 银行交易结构化",
+    "description": "银行交易数据智能结构化",
+    "doc_link": "https://docs.google.com/document/d/18fgCRqVrAR_lppT1F7FDqDDATqKPX0elYcBM9wEAkA8/edit",
+    "competitors": "Plaid, Teller"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "last30days-skill",
+    "description": "过去30天技能趋势追踪工具",
+    "doc_link": "https://docs.google.com/document/d/12GT5bS1-n952eJXA4TOBMj1c3n99oK3GjyXZVHty14g/edit",
+    "competitors": "GitHub Trending, StarHistory"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "oh-my-claudecode",
+    "description": "Claude Code增强插件集",
+    "doc_link": "https://docs.google.com/document/d/1shcEtCjDwJmKirte0GZe1VauRebFVJ4xW7nm9u1GwJQ/edit",
+    "competitors": "Claude Code, Cursor"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "Dexter金融Agent",
+    "description": "金融领域AI Agent框架",
+    "doc_link": "https://docs.google.com/document/d/1Ut_itjNlOEHKWCIUTU331a9tW5VW5VZzgPfmbNXrZPM/edit",
+    "competitors": "FinGPT, Bloomberg GPT"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "RuView WiFi感知",
+    "description": "WiFi CSI信号感知系统",
+    "doc_link": "https://docs.google.com/document/d/1HPwH96kHb80rRpOe28RCBba5NUZslId_IualUmhWMSs/edit",
+    "competitors": "WiFi Sensing, mmWave"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "deer-flow超级Agent",
+    "description": "超级Agent工作流引擎",
+    "doc_link": "https://docs.google.com/document/d/15w3OySXHHkKK2U1SIjVAJhCfdT6AnKLjcLgMu1eMDXE/edit",
+    "competitors": "LangGraph, AutoGen"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "insanely-fast-whisper",
+    "description": "超快速语音转文字",
+    "doc_link": "https://docs.google.com/document/d/1L-tHSm6vKIDy22G6-9d25c5U2PjTyKyMvvftgxC1fro/edit",
+    "competitors": "Whisper, Deepgram"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "AgentScope",
+    "description": "多Agent开发框架",
+    "doc_link": "https://docs.google.com/document/d/1vYML_QQuAnai5rDHdBr9SkfdFLN18VxneNirzJYweE8/edit",
+    "competitors": "AutoGen, CrewAI"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "Twenty开源CRM",
+    "description": "开源CRM系统",
+    "doc_link": "https://docs.google.com/document/d/1TIdozW3Ju7DJP4VCBmmKGsu7PvProeWil8nxYXxpLto/edit",
+    "competitors": "HubSpot, Salesforce"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "Chandra OCR",
+    "description": "高精度OCR引擎",
+    "doc_link": "https://docs.google.com/document/d/1RD9NLuM_hPdb2IYJe4LPg6TqkeRZUZTeWiwhogoZB_g/edit",
+    "competitors": "Tesseract, PaddleOCR"
+  },
+  {
+    "date": "2026-03-27",
+    "channel": "GitHub",
+    "name": "MoneyPrinterV2",
+    "description": "自动化短视频生成",
+    "doc_link": "https://docs.google.com/document/d/1XZ1Cns7_UR4HD-2Lm476-yyrAfXB9k-GRD9bNdzwbZo/edit",
+    "competitors": "Opus Clip, Pictory"
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "Typevera - React Native Expo启动模板",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/1gtWr8L-I2btQlmXSi2vdGoOMYC87HYFHq-egWkCAMn8/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "Sortful - AI智能分类排序App",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/1Nl9-CHgEvVbCNP0IeyCNXwDe_1c_Ua-LbGDZQYnf4Ck/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "自托管Slack+Notion+Zoom替代方案",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/13SzlhE79jSl6O-hZCrTw4KDyoh2RfaCsh52p0-gXCwY/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "How Many Left - 生命可视化App",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/18e3FfgbQQXeVP_tV8A44L3Q8RpaTZXEM_ekbTtHAbl0/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "Crazly - AI工作流/提示词生成器",
+    "description": "r/SaaS",
+    "doc_link": "https://docs.google.com/document/d/1aiqhN0e1cuVTHcZJ-bgDXd4YekvVqhM42m8mnF8qOQg/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "Novum - AI应用构建器",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/1PSI-vwvpnDwsXxT_XarICA0oC6joGts1ZqDuqsCwCGw/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "EvenUS - AI家务公平评分器",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/1WQcX2SScYPVyjGggPLBwDBBU9gxkDO1DtIBb0SPwbEI/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "社交媒体统一API服务",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/1Xwr_NzkDN7S0iu7Tzbik-PUg8D1YTJpj7-wLHGtyvP0/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "DevToolsPricing - 开发工具定价数据集",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/1FV6yP7s_PI1MUseU5ob-b7Vl3mfwdDdHzKdmGn3fXpY/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Reddit",
+    "name": "Lead Gen SaaS 2026 - AI潜客发现工具",
+    "description": "r/SideProject",
+    "doc_link": "https://docs.google.com/document/d/1pPJXCMtyKIfVTBeY-WkvwRHzTxKzeRNsvDLZRiIWqF8/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Agentation - AI Agent可视化反馈工具",
+    "description": "Product Hunt 3/27 #1",
+    "doc_link": "https://docs.google.com/document/d/1NCxt7yy8T-eoexGxPPS7jx9KxOSkop-9bDL2W6twUqA/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Claude Code auto-fix - 云端自动修复PR",
+    "description": "Product Hunt 3/27 #2",
+    "doc_link": "https://docs.google.com/document/d/1afAGwZZtx7yA-YjB1e5Sd3SEnLBNqYPWlxFMGd0pLag/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Gemini 3.1 Flash Live - 实时语音AI",
+    "description": "Product Hunt 3/27 #3",
+    "doc_link": "https://docs.google.com/document/d/1w1Y8aueX6l1VEad4KrDpSxEHJgT3c_-agCNRurH59TI/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "InsideOrg - 免费公司组织架构查看器",
+    "description": "Product Hunt 3/27 #4",
+    "doc_link": "https://docs.google.com/document/d/1oK1S8L7dF6FaFBR0RviQnpWhhYwCq5DfDBJzFSEmct8/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Cockpit AI - 全渠道营收Agent",
+    "description": "Product Hunt 3/27 #5",
+    "doc_link": "https://docs.google.com/document/d/1ZSFN48bRBaovbK477Tk28qUkYBfwoSju_Ihhxjano38/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Codex Plugins - OpenAI Codex技能插件化",
+    "description": "Product Hunt 3/27 #6",
+    "doc_link": "https://docs.google.com/document/d/1VAAyYOIk50_0y2DROQlcONiRzGZNdEAzIiKhwQXBvjc/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Suno v5.5 - AI音乐创作工具升级",
+    "description": "Product Hunt 3/27 #7",
+    "doc_link": "https://docs.google.com/document/d/1Uj9JpJA9L2FL0I8AkCS0-H8DdgcKYj4Neeox1GRYbLY/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Stripe Projects - 终端内生产级开发栈",
+    "description": "Product Hunt 3/27 #8",
+    "doc_link": "https://docs.google.com/document/d/1xeCvUEsBfaqCF-C4o0Q0INRkOjl9UKy1c3p2vER4Dt8/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "Voxtral TTS by Mistral AI - 多语言语音合成",
+    "description": "Product Hunt 3/27 #9",
+    "doc_link": "https://docs.google.com/document/d/1lRuqVaP6KslqmwQatoio-o_pQzy6j4yKNZ24L9y4Wfc/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "Product Hunt",
+    "name": "PickleMatch - 匹克球约会App",
+    "description": "Product Hunt 3/27 #10",
+    "doc_link": "https://docs.google.com/document/d/1622XmeE_2OlK2cCLLjHnfew8EsT7QmTpHTZArKlakX0/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "slavingia/skills - Claude Code技能集合",
+    "description": "GitHub Trending ⭐4411",
+    "doc_link": "https://docs.google.com/document/d/1msxPauYeCwrrMIzxMEgTYlwxEtfIsGdDnl49OP27nvs/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "awesome-opensource-ai - 开源AI项目精选",
+    "description": "GitHub Trending ⭐1448",
+    "doc_link": "https://docs.google.com/document/d/1pTK1SSohEOvdygb8CZeOd8H0ZxYiD1KWpAZRy6RFoSM/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "daVinci-MagiHuman - AI人体生成模型",
+    "description": "GitHub Trending ⭐1010",
+    "doc_link": "https://docs.google.com/document/d/1nzfZcZ8chVDLvPGdND9oePQDoigTurdFoPajpQK8ULY/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "HolyClaude - AI编程工作站",
+    "description": "GitHub Trending ⭐948",
+    "doc_link": "https://docs.google.com/document/d/1suNQOR9tBWueiIkEETeUPEP97kf8bAXd3qaxNs7CPNg/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "opencli-rs - Rust高性能网页信息提取CLI",
+    "description": "GitHub Trending ⭐894",
+    "doc_link": "https://docs.google.com/document/d/1f68wSV-q7ugkgFQ00NwEEoMT-fvBDabbIso2OhklKHY/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "weclaw - WeChat ClawBot连接器",
+    "description": "GitHub Trending ⭐832",
+    "doc_link": "https://docs.google.com/document/d/1GG4QTPnVvwdZ-Jouq89CtD2r51YN6IZWxKaHb1CyZ3o/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "G0DM0D3 - 无限制AI对话",
+    "description": "GitHub Trending ⭐810",
+    "doc_link": "https://docs.google.com/document/d/1a5EJa7rHOhQH1gAsMe25WggTWo_pu00j1ETagmAGNrM/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "TypeNo - macOS隐私优先语音输入",
+    "description": "GitHub Trending ⭐722",
+    "doc_link": "https://docs.google.com/document/d/1BTSKtCMEmjiEpbOEQ-fP5MmE2l50-VyOpGX72Rk0H9k/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "lil-agents - macOS Dock上的AI小伙伴",
+    "description": "GitHub Trending ⭐550",
+    "doc_link": "https://docs.google.com/document/d/16_piLwOiC1RsXNWAZbw5buQTzoBXh13_G6tIEEo2zNg/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-28",
+    "channel": "GitHub",
+    "name": "wewrite - 公众号文章全流程AI技能",
+    "description": "GitHub Trending ⭐532",
+    "doc_link": "https://docs.google.com/document/d/1WZSQGChTBYQ9m-mV85P56PDx9_S192IArBW4LuZxw7A/edit?usp=drivesdk",
+    "competitors": ""
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "Co-founder left after 14 months. No vesting agreement. He walked with 40% equity",
+    "description": "We were friends. Talked about the idea over beers. He'd handle business, I'd handle product. Split e",
+    "doc_link": "https://docs.google.com/document/d/1kqbh060581QDV5AHTQPYAifoCtKIjIh5rNCh4v3pEbk/edit?usp=drivesdk",
+    "competitors": "How to give co-founder equity the right way, We've never raised money, yet our equity is split. Ex-partne, Gust Equity Management"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "the SaaS model is quietly falling apart for small businesses and nobody in tech ",
+    "description": "I run a 12 person company and I just did our annual software audit and the number genuinely startled",
+    "doc_link": "https://docs.google.com/document/d/1jTD5A90M7VBkY4ZFCDGtfeitgfq0_DgQ5GlZ590dtfQ/edit?usp=drivesdk",
+    "competitors": "SaaS is DEAD! The $1 Trillion Question, SaaS Isn't Dead. It's Just Changing., SaaS is changing with custom AI tools"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "Stripe takes 2.9% + $0.30 per transaction. At $50K MRR that's $17,400/year. Is e",
+    "description": "Been running my SaaS for 3 years. Never thought about processing fees because early on they were ins",
+    "doc_link": "https://docs.google.com/document/d/1Hvdrq_rP_84aPpB89RHuR1xDAZ6xIYPqoHZVrvJBOYQ/edit?usp=drivesdk",
+    "competitors": "Ω Omega AI Automated, Stripe, Paddle"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "RunLobster (OpenClaw) made me mass-refactor how I think about what a SaaS produc",
+    "description": "I have been building SaaS for 8 years. Every product I have built follows the same pattern: build fe",
+    "doc_link": "https://docs.google.com/document/d/1ftJgRp6dv23wq0b3v41B15ahXyE5xYlnDhqNGq7YE9Q/edit?usp=drivesdk",
+    "competitors": "6 OpenClaw Competitors That Are Gaining Ground in 2026, Best OpenClaw Alternatives, I agree. I can see this shift too. What SaaS could be ..."
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "Our biggest enterprise client went 87 days past due on a $9,200 invoice. Collect",
+    "description": "Landing our first enterprise client felt like we'd made it. $9,200/quarter. Signed after 6 weeks of ",
+    "doc_link": "https://docs.google.com/document/d/14GHrltSCqFzZNPU6z2SA3f74dB4Hf3VbKzbdMg9lDqM/edit?usp=drivesdk",
+    "competitors": "words underlined are additions. hb991-02-c2 Page 1 of ..., List of Approved Courses for Water Certification as of ..., Text"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "Linear just announced \"Issue Tracking is Dead.\" Their Moat is dry. \"i will not p",
+    "description": "So we've been obsessing over \"the moat\" at my startup lately. It's the classic question: what actual",
+    "doc_link": "https://docs.google.com/document/d/1YMwAwt9rPblzFXF81kyxwC7HWqylrTRbfpfLoUSvvxM/edit?usp=drivesdk",
+    "competitors": "Linear, Jira, ClickUp"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "Sold lifetime deals to fund development. 18 months later those 340 users cost me",
+    "description": "Needed cash to build features. Didn't want to raise. Launched a lifetime deal on AppSumo. $59 one-ti",
+    "doc_link": "https://docs.google.com/document/d/1_F2nGPwmjoB21iRcEK31VrfwPmwscCGoXJhaUJ8wmgg/edit?usp=drivesdk",
+    "competitors": "The Lifetime Deal Trap For First-Time SaaS Founders, \"Most lifetime deals are scams\" It's a comment I've seen a ., The Hidden Truth About Lifetime Deals"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "Co Founder hasn’t delivered in 6 months- how do I handle equity and the conversa",
+    "description": "Hey everyone, looking for some honest advice on a co-founder situation.\n\nAbout 9 months ago I starte",
+    "doc_link": "https://docs.google.com/document/d/1DjNM4IoxufQTdh1huDT-Ye8ZavQ3RiBgsvNX2NVZ2eE/edit?usp=drivesdk",
+    "competitors": "How to split equity with a co-founder, How to deal with co-founders that aren't pulling their weigh, What To Do When a Co-founder Isn't Working Out"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "What software are you still happily paying for because it actually saves time?",
+    "description": "Trying to clean up our stack a bit and figure out which tools are actually worth keeping long term.\n",
+    "doc_link": "https://docs.google.com/document/d/1o7aT9fuFcFewjUjAExWkrGTzUT5NqAodkkiKmU7iGVI/edit?usp=drivesdk",
+    "competitors": "stop paying for tools you can replace for free, I've Tried 50+ Productivity Tools, Alternatives to Clean My Mac?"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Reddit",
+    "name": "I built a tool to validate ideas before building… but getting users is the harde",
+    "description": "Hey everyone,\nI built a tool that helps developers validate ideas before they spend weeks building s",
+    "doc_link": "https://docs.google.com/document/d/1cdlP_03YKtrNZC2MeUap_7nNeYW8RPDxtQBj9YpmDFw/edit?usp=drivesdk",
+    "competitors": "How do you validate business ideas on Reddit?, Validate Product Ideas Fast, ProductHunt Ship"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Expect",
+    "description": "Let agents test your code in a real browser",
+    "doc_link": "https://docs.google.com/document/d/1rwnAWjKlcFD1GJy-AUX3EQANv22pSjljEeEjFJjiEkk/edit?usp=drivesdk",
+    "competitors": "The Future of AI Agents in Code Reviews, AI Agents in Testing, AI Agents for Automated Code Review and Testing"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "WordPress Studio CLI",
+    "description": "WordPress Studio now has an independently installable CLI",
+    "doc_link": "https://docs.google.com/document/d/1_97r8eN-_U4KBBh8-vateJ2LaY5M_eDVBZjyG5dm160/edit?usp=drivesdk",
+    "competitors": "WordPress Studio 1.7.0, Studio CLI, WordPress Studio"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Apparent for Gmail",
+    "description": "Make Gmail easier to read and manage.",
+    "doc_link": "https://docs.google.com/document/d/1NT22nggCuny6Vvv5JViHGx6iVtMMxAblmDrCWRrF6BE/edit?usp=drivesdk",
+    "competitors": "Gmail's New Look, I want messages to be displayed larger so they are easier .., The Best Gmail Alternatives"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Aera Browser",
+    "description": "The browser built for automation",
+    "doc_link": "https://docs.google.com/document/d/1Gb9B68ezTUEhZhZ-ZIg9vJacPV4NDi10GkiGJGqgUHU/edit?usp=drivesdk",
+    "competitors": "Aera Browser, Aera Browser, 11 Best AI Browsers in 2026 (Tested & Compared)"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Able",
+    "description": "One-click WCAG & ADA accessibility audits for any webpage",
+    "doc_link": "https://docs.google.com/document/d/1WDcDu0j7a-axJstlx72_thCYHQGmhtkgCXkG9k5pJoY/edit?usp=drivesdk",
+    "competitors": "Web Accessibility Evaluation Tools List, 10 Must-Have Web Accessibility Tools in 2026, Top 18 Automation Accessibility Testing Tools (Guide 2025)"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Crossnode",
+    "description": "Vibe code AI agents and put them behind a payment wall",
+    "doc_link": "https://docs.google.com/document/d/1ZOSsTfv0RfRzGaMDco5eSAv0sqo5g1K-252x4UsrWyo/edit?usp=drivesdk",
+    "competitors": "I tested all 82 🤯 Vibe Coding Agents & AI IDEs. Here's the ., 10 Best Vibe Coding Tools in 2026, I've tried all (46 😵‍💫) AI Coding Agents & IDEs"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Lexaclaw",
+    "description": "Startup legal compliance built on OpenClaw",
+    "doc_link": "https://docs.google.com/document/d/1myrrjkq8v148t2DrT2_YMLm5YkTUIYjE5bspVe8kb44/edit?usp=drivesdk",
+    "competitors": "Lexaclaw, Law Firms and Cloud Security, Taking the “Alternative” Out of Alternative Legal Service .."
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "RepoLens",
+    "description": "Know what changed and what matters across your codebase",
+    "doc_link": "https://docs.google.com/document/d/1wiRsJE7euxKByk7rJeUvqRCKv2APhSf0E_aMzMvdx-0/edit?usp=drivesdk",
+    "competitors": "RepoLens Version 2, Choose Your Path, Introducing Repo Lens"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Santana by Deep Softworks",
+    "description": "Performant, real-time data visualization in your terminal",
+    "doc_link": "https://docs.google.com/document/d/1dMiFmHloeuVP3d2mZg4IRNCz2U-bLDGvwuXqyTRHkhc/edit?usp=drivesdk",
+    "competitors": "Santana, Best database for real time analytics in 2026 and how to ..., How to visualize MySQL relationships with Workbench"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "Product Hunt",
+    "name": "Cohere Transcribe",
+    "description": "New state-of-the-art in open source speech recognition",
+    "doc_link": "https://docs.google.com/document/d/1bES-mWCHx0c7oHnhvNNvxH03e-BnywHcxRG8cn4-9Oo/edit?usp=drivesdk",
+    "competitors": "Introducing Cohere-transcribe, Cohere launches an open source voice model specifically ..., Unmatched transcription accuracy"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "obra/superpowers",
+    "description": "An agentic skills framework & software development methodology that works.",
+    "doc_link": "https://docs.google.com/document/d/14rVaosZAh1GFsDB2uBnhNqwNV6kiDECIA2LJmYwf9qw/edit?usp=drivesdk",
+    "competitors": "Superpowers, GitHub, What all do you use from superpowers"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "hacksider/Deep-Live-Cam",
+    "description": "real time face swap and one-click video deepfake with only a single image",
+    "doc_link": "https://docs.google.com/document/d/1PaBaL4LojmJt1r5sVqj-3CcrFl5Etl_BuUJRRCoGGdM/edit?usp=drivesdk",
+    "competitors": "DeepLiveCam, Deep-Live-Cam, Deep-Live-Cam [show&tell+looking for partners]"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "onyx-dot-app/onyx",
+    "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+    "doc_link": "https://docs.google.com/document/d/1P79hj_IFIJOeOih4lXf24Rv8BNq3Dqwmhi1Bzs1EJ-4/edit?usp=drivesdk",
+    "competitors": "Top 10 Onyx AI Alternatives & Competitors in 2026, Onyx Alternatives & Comparisons, Top 10 Onyx AI Alternatives & Competitors (2026)"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "datalab-to/chandra",
+    "description": "OCR model that handles complex tables, forms, handwriting with full layout.",
+    "doc_link": "https://docs.google.com/document/d/1R1NCpf8JG8fesO1rPfq6Z9APzQU0b8xxe-e0w8gdOGc/edit?usp=drivesdk",
+    "competitors": "Open-Source OCR Comparison, Comparing the Top Open-source OCR Solutions, 8 Top Open-Source OCR Models Compared"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "virattt/dexter",
+    "description": "An autonomous agent for deep financial research",
+    "doc_link": "https://docs.google.com/document/d/1XLk0gNC9T-4jrI5SOppiopzerGZlupNmRrjSFcEpQU0/edit?usp=drivesdk",
+    "competitors": "Dexter Autonomous Agent for Financial Research with Built .., This GitHub repo is an autonomous agent for deep ..., Dexter"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "twentyhq/twenty",
+    "description": "Building a modern alternative to Salesforce, powered by the community.",
+    "doc_link": "https://docs.google.com/document/d/1dreBvpRX6HNKJhqcm-yNawATT4t-fr15bHakBNFKk28/edit?usp=drivesdk",
+    "competitors": "Twenty, modern alternative to Salesforce, -/github.com/twentyhq/ ..., twenty"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "SakanaAI/AI-Scientist-v2",
+    "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+    "doc_link": "https://docs.google.com/document/d/1kE2RhG9Ceg7ZrsIALixa1cNTQAzfmOkStJo8gIBHV7k/edit?usp=drivesdk",
+    "competitors": "The AI Scientist-v2, The AI Scientist-v2, The AI Scientist"
+  },
+  {
+    "date": "2026-03-29",
+    "channel": "GitHub",
+    "name": "apache/superset",
+    "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "doc_link": "https://docs.google.com/document/d/1Lr1aEOppP6PIzt8zEWtAECCk-3DRUWb_ZIM5XxVZH0Y/edit?usp=drivesdk",
+    "competitors": "Welcome, Apache Superset vs Tableau, 10 Alternatives to Apache Superset That'll Empower Start- .."
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "Let a customer \"prepay\" for a year at a discount. They disputed the charge 11 mo",
+    "description": "Customer wanted to pay annually upfront. Offered 2 months free as incentive. $2,900 for the year ins",
+    "doc_link": "https://docs.google.com/document/d/1izVUj_GGe1JUdnhdpiXOfnHXEwHl8ndy_xAAnkqOCdI/edit?usp=drivesdk",
+    "competitors": "Am I being petty or crazy for considering this? Client ..., CONTRACT FORMATION, NRS"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "Drop your project link. I'll write you a one-liner that actually sells it.",
+    "description": "I've written one-liners for 500+ projects on here. I'll look at your project and craft a phrase usin",
+    "doc_link": "https://docs.google.com/document/d/1Obg4GGd4lep9OhnWWD78U8c8kknJaFI1vV1vi6OIh84/edit?usp=drivesdk",
+    "competitors": "\"Write the entire post in the first 3 lines\" (Yes ..., Scott Blasey, Steve Jobs"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "Customer asked if they could pay us more. I thought it was a joke. It wasn't.",
+    "description": "Quarterly review call. Customer says \"Is there a way to pay for a higher tier? We're on your $89 pla",
+    "doc_link": "https://docs.google.com/document/d/1B_4U08A4g-NGNvDyTMDqLekOlFTrqoO07dqekUSjoTA/edit?usp=drivesdk",
+    "competitors": "What do you say when a customer asks for a lower price?, Well Said transcripts, A new approach for the world's climate strategy"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "Built a SaaS after 6 months, stuck at 10 users — how would you market it?",
+    "description": "Hey everyone,\n\nI’ve been working on a SaaS product for the past 6 months and recently launched it. R",
+    "doc_link": "https://docs.google.com/document/d/1uBfIOaCw7JzhJBlkrjq6y3IiW-0mlKCzJIueNfC14IY/edit?usp=drivesdk",
+    "competitors": "How do I market and sell my SaaS system once it's built ..., Why Your SaaS Growth Has Stalled, How to scale a SaaS business after $10K MRR"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "If only someone told me this before my 1st startup",
+    "description": "I wish someone slapped me with this list before I started building startups.\n\nWould’ve saved me year",
+    "doc_link": "https://docs.google.com/document/d/16jo0JXC5mgMja8DKcZxEimGdOVwNL8_QCU_9qxxeygI/edit?usp=drivesdk",
+    "competitors": "What's something you wish someone told you before ..., 5 Things I Wish Someone Told Me Before I Launched My ..., I Wish I Knew These 5 Things Before I Built My Startup"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "I can build tools and automations… but how do I turn this into a startup? (I wil",
+    "description": "Hi everyone! 😁\n\nI’m 25 and I really want to start some kind of business to generate income outside o",
+    "doc_link": "https://docs.google.com/document/d/1nIBhDJy8gQuh6iY63_0KgGWHNR1un_kyyPEjAabjtZQ/edit?usp=drivesdk",
+    "competitors": "Automating startups for smarter growth, How to AI's Post, Re"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "Bought a SaaS for $40K on a marketplace. Previous owner had inflated the metrics",
+    "description": "Found it on a popular SaaS marketplace. $2,800 MRR. 14 months of history. Clean financials. Reasonab",
+    "doc_link": "https://docs.google.com/document/d/1XYps0S-fR8AH6HVsM9fPm6mFc9XpYqeOAul0oD6Yl0w/edit?usp=drivesdk",
+    "competitors": "The Dumbest Tax in B2B SaaS, I see you out there hustling to get every single client ..., All Our Content"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "Lost our entire database at 3am because I ran a migration script on production i",
+    "description": "11:47pm. Working late. Running a database migration I'd tested on staging. Opened the wrong terminal",
+    "doc_link": "https://docs.google.com/document/d/1RDWZv3B_j2ynZLA5UNA1hmEikmfObdjc2oE9JR1tFUc/edit?usp=drivesdk",
+    "competitors": "Issue with database migration on existing scripts, Is it OK to update a production database with EF migrations?, Migrating a production database without any downtime"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "I started running monthly town halls and AI workshops for my 26-person team. her",
+    "description": "i run a media company. 15 youtube channels, about 26 people total.\n\nabout 6 months ago i noticed a p",
+    "doc_link": "https://docs.google.com/document/d/17H-0W2Mt_sa2fJTIVdotbNwyrv7kdLG6L31ZXrlO9c0/edit?usp=drivesdk",
+    "competitors": "Your All-Hands/Town Hall Needs An Innovation Refresh, Here are 20 AI tools to replace a 10-person team without ..., business owners. ➡️ We'll show you simple, free ways to ..."
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Reddit",
+    "name": "Anyone else get a project working, then realize you kinda don’t want to touch it",
+    "description": "I keep seeing this happen.\n\nPeople can build way more than before now. Sometimes with AI tools, some",
+    "doc_link": "https://docs.google.com/document/d/18nhO6mg05eYtYom2ospwpSp9IYtRco--mQlt9Aai8OY/edit?usp=drivesdk",
+    "competitors": "Burnout, Slaying Burnout in Project Management, Overcoming procrastination by taking small actions"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "Sheet Ninja",
+    "description": "Ship vibe-coded apps. Your data stays in Google Sheets.",
+    "doc_link": "https://docs.google.com/document/d/1D2K8Fwmt-bFd5rhVODWt25sG2gYvil39iUksyhOgeuM/edit?usp=drivesdk",
+    "competitors": "Vibe coding, 2026 vibe coding tool comparison, I Tested 5 Vibe Coding Tools So You Don't Have To"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "Pensieve",
+    "description": "Full company context for every AI agent",
+    "doc_link": "https://docs.google.com/document/d/1sD39VgnuQBH61GHq1ie_G20fChjgiBJfg1zJlYbZC-M/edit?usp=drivesdk",
+    "competitors": "Stateful Large Language Model Serving with Pensieve, Innovative Study Techniques with Pensieve AI Tutor, The Journey Behind PENSIEVE-AI"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "GuideYou",
+    "description": "Guidance for everyday technology",
+    "doc_link": "https://docs.google.com/document/d/1qixdVu3Ws7WfGPG_zTHI9wFHl3NXwSFresayQqaQMF0/edit?usp=drivesdk",
+    "competitors": "11 Best UserGuiding Alternatives & Competitors for 2026, Top 10 Guides Alternatives & Competitors in 2026, The (non-tech savvy) guide to digital success"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "Google Search Live",
+    "description": "Interactive, multimodal conversation in AI Mode",
+    "doc_link": "https://docs.google.com/document/d/1-fEaz7MpdPCPauOdH--kEn1CTg8ybrUcERmbGCqtnLI/edit?usp=drivesdk",
+    "competitors": "The Future of Real-Time AI Search (Complete Guide), Google expands Search Live globally with voice and ..., 12 Best Conversational AI Platforms for 2026"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "Parallel Code",
+    "description": "Use Claude Code, Codex, and Gemini in parallel",
+    "doc_link": "https://docs.google.com/document/d/11fLSSoOHKJK3nzLVgMrpHnBkBaXDoRUGs34PP5Brg-4/edit?usp=drivesdk",
+    "competitors": "15 Best Claude Code Alternatives, Embracing the parallel coding agent lifestyle, Claude Code Alternatives (2026)"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "Genzi",
+    "description": "The social app built around music",
+    "doc_link": "https://docs.google.com/document/d/1uQAPTSJB2fQ0iADpQhuBxBE0Ltdh_0ypKKgcDWXR-wk/edit?usp=drivesdk",
+    "competitors": "Gen Z's New Favorite Social-Media App Shows a Shift in ..., Gen Z is turning their backs on social media except for this, Gen Z is rebelling against TikTok USA by installing another "
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "Dipshot",
+    "description": "Capture, Annotate & Export",
+    "doc_link": "https://docs.google.com/document/d/1K6-H05ealA1bkFnLqONwj7fxlnLB6odaXdzOMCYjPBo/edit?usp=drivesdk",
+    "competitors": "10 Best High-Quality Screenshot Tools for Clear, Crisp ..., Tools for Taking Screenshots to Try in 2026, The 12 Best Screenshot Capture Software Tools for ..."
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "SUN",
+    "description": "Personalized AI audio lessons generated on demand",
+    "doc_link": "https://docs.google.com/document/d/10blJ8H55c7SttA3B_ef6W3xA1IJEKMQfLpjcibCx2iA/edit?usp=drivesdk",
+    "competitors": "The 18 Best Suno AI Alternatives, 12 Best AI Podcast Generators 2025, Best Suno AI alternatives 2026"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "Clico",
+    "description": "Every textbox, supercharged",
+    "doc_link": "https://docs.google.com/document/d/1vlx04-LLcqEVNFDrPG0ol_ef6EV8-uWHaGkyzcFto54/edit?usp=drivesdk",
+    "competitors": "Clico Alternatives in 2026, Best Compose AI Alternative, Clico Reviews 2026"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "Product Hunt",
+    "name": "CodingPrep",
+    "description": "Open Source coding interview prep tool with AI interviewer",
+    "doc_link": "https://docs.google.com/document/d/1wQjokuqIk6np8cFf3rogQqIZOQcRHhFrcbuTwXCmPPU/edit?usp=drivesdk",
+    "competitors": "Best Coding Interview Sites (2026), Top 29 Coding Interview Platforms to Practice Your Next ..., Top 20 Coding Interview Tools in 2025"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "microsoft/VibeVoice",
+    "description": "Open-Source Frontier Voice AI",
+    "doc_link": "https://docs.google.com/document/d/1G3vaUQSPUWSCb4ZBq4-teic1Fcrog5feqrSqt4jVLGk/edit?usp=drivesdk",
+    "competitors": "VibeVoice Alternatives, VibeVoice, Microsoft VibeVoice TTS Model Outperforms Proprietary ..."
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "luongnv89/claude-howto",
+    "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-pa",
+    "doc_link": "https://docs.google.com/document/d/1tBJ-PhqJPNusSqVqQ1iNdq9OASyhclya1mB3do7p51Q/edit?usp=drivesdk",
+    "competitors": "Someone built a visual guide to master Claude Code ..., Streamlining Code Reviews with AI Assistants, luongnv89/claude-howto"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "doc_link": "https://docs.google.com/document/d/1SnfjTShB186_UrJfvEdlfGg9YL449I1gvm2KpRh8FA8/edit?usp=drivesdk",
+    "competitors": "Hermes Agent, Nous Research released Hermes Agent in February 2026 ..., Nous Research just open-sourced Hermes Agent."
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "shareAI-lab/learn-claude-code",
+    "description": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1",
+    "doc_link": "https://docs.google.com/document/d/1CP6xqQXMXkXSvj9NiTdIsV-VHC5sIqO21yFJRBE7kdI/edit?usp=drivesdk",
+    "competitors": "15 Best Claude Code Alternatives, Awesome Claude Code, learn-claude-code"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "thedotmack/claude-mem",
+    "description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions,",
+    "doc_link": "https://docs.google.com/document/d/1eAlfR1LIZQsS7y9irb1fF68gJdgFXLnwOuAq2SWi_IQ/edit?usp=drivesdk",
+    "competitors": "Someone Built Memory for Claude Code and People Are ..., You can now give infinite memory to Claude Code., 10 Claude Code Alternatives for AI-Powered Coding in 2026"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "twentyhq/twenty",
+    "description": "Building a modern alternative to Salesforce, powered by the community.",
+    "doc_link": "https://docs.google.com/document/d/1GH6QHJUxx5tWP3A09QnuHbFf1JoMT_IER-Lr_pUvIjA/edit?usp=drivesdk",
+    "competitors": "Twenty, open, intuitive, and built *with* the community. Designed as, Build the future of CRM! Join the community ..."
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "moeru-ai/airi",
+    "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them",
+    "doc_link": "https://docs.google.com/document/d/15YnrKI7cbq_5PQItuMzSA7VopHbrxceuJuRrz9YR1VE/edit?usp=drivesdk",
+    "competitors": "An AI streaming \"buddy\" like Neuro-sama, 5 Best Grok Imagine Alternatives to Use in 2026, Grok Alternatives"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "OpenBB-finance/OpenBB",
+    "description": "Financial data platform for analysts, quants and AI agents.",
+    "doc_link": "https://docs.google.com/document/d/11MFdZ0RmTHyU21lJC988NZD-T3yS9RlAlbOSm9vXUFE/edit?usp=drivesdk",
+    "competitors": "Find 56 OpenBB Alternatives (2025), Top OpenBB Alternatives, Top 10 OpenBB apps"
+  },
+  {
+    "date": "2026-03-30",
+    "channel": "GitHub",
+    "name": "fastfetch-cli/fastfetch",
+    "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+    "doc_link": "https://docs.google.com/document/d/1IECiwhh_VFWi5m0m_k3T_F-9gA4MUwbDRUoi6x8BL9w/edit?usp=drivesdk",
+    "competitors": "Alternative to neofetch (silly toys that eat productivity), Neofetch Alternatives, fastfetch-2.49.0"
+  }
+]
