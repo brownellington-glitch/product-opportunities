@@ -5,7 +5,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Product Opportunities Dashboard</title>
   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
-  <link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.5.0/css/responsive.dataTables.min.css">
   <style>
     :root {
       --bg: #0d1117;
@@ -207,6 +206,96 @@
       border-top: 1px solid var(--border);
       margin-top: 40px;
     }
+
+    /* Table wrapper for horizontal scroll on mobile */
+    .table-wrapper {
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+    }
+
+    /* Mobile Responsive */
+    @media (max-width: 768px) {
+      header {
+        padding: 24px 16px 20px;
+        margin-bottom: 20px;
+      }
+      header h1 { font-size: 1.4em; }
+      header p { font-size: 0.9em; }
+
+      .container { padding: 12px; }
+
+      .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        margin-bottom: 20px;
+      }
+      .stat-card {
+        padding: 14px 10px;
+        border-radius: 10px;
+      }
+      .stat-card .number { font-size: 1.6em; }
+      .stat-card .label { font-size: 0.8em; }
+
+      .charts-row {
+        gap: 14px;
+        margin-bottom: 20px;
+      }
+      .chart-card {
+        padding: 14px;
+        border-radius: 10px;
+      }
+      .chart-card h3 { font-size: 0.95em; margin-bottom: 12px; }
+
+      .filter-bar {
+        gap: 8px;
+        margin-bottom: 16px;
+      }
+      .filter-btn {
+        padding: 8px 14px;
+        font-size: 0.85em;
+      }
+
+      /* DataTable mobile adjustments */
+      .dataTables_wrapper .dataTables_length,
+      .dataTables_wrapper .dataTables_filter {
+        float: none !important;
+        text-align: left !important;
+        margin-bottom: 10px;
+      }
+      .dataTables_filter input {
+        width: 100% !important;
+        margin-left: 0 !important;
+        margin-top: 6px;
+      }
+      .dataTables_filter label {
+        display: block !important;
+      }
+      .dataTables_info {
+        float: none !important;
+        text-align: center !important;
+        padding-top: 10px !important;
+      }
+      .dataTables_paginate {
+        float: none !important;
+        text-align: center !important;
+        padding-top: 10px !important;
+      }
+
+      table.dataTable thead th,
+      table.dataTable tbody td {
+        padding: 10px 8px !important;
+        font-size: 0.8em;
+      }
+
+      footer { padding: 20px 12px; margin-top: 24px; }
+    }
+
+    @media (max-width: 480px) {
+      header h1 { font-size: 1.2em; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .stat-card .number { font-size: 1.4em; }
+      .filter-btn { padding: 7px 12px; font-size: 0.8em; }
+    }
   </style>
 </head>
 <body>
@@ -241,19 +330,21 @@
     </div>
 
     <!-- Table -->
-    <table id="productsTable" class="display responsive nowrap" style="width:100%">
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Channel</th>
-          <th>Product</th>
-          <th>Description</th>
-          <th>Competitors</th>
-          <th>Report</th>
-        </tr>
-      </thead>
-      <tbody></tbody>
-    </table>
+    <div class="table-wrapper">
+      <table id="productsTable" class="display" style="width:100%">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Channel</th>
+            <th>Product</th>
+            <th>Description</th>
+            <th>Competitors</th>
+            <th>Report</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
   </div>
 
   <footer>
@@ -262,7 +353,6 @@
 
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
   <script src="https://cdn.datatables.net/1.13.7/js/jquery.dataTables.min.js"></script>
-  <script src="https://cdn.datatables.net/responsive/2.5.0/js/dataTables.responsive.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
   <script>
     const CHANNEL_COLORS = {
@@ -377,7 +467,6 @@
       table = $('#productsTable').DataTable({
         pageLength: 25,
         order: [[0, 'desc']],
-        responsive: true,
         language: {
           search: 'Search:',
           lengthMenu: 'Show _MENU_ entries',
