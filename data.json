@@ -1318,5 +1318,125 @@
     "description": "Vim-fork focused on extensibility and usability",
     "doc_link": "https://docs.google.com/document/d/1Mytzf7jGlojlfgBRFle8Rin9V01gTlW96xiPVtqOnPg/edit?usp=drivesdk",
     "competitors": "Neovim, neovim, neovim/neovim"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Ollama v0.19",
+    "description": "Massive local model speedup on Apple Silicon with MLX",
+    "doc_link": "https://docs.google.com/document/d/1zByFZBdhh7SuyMRPp4JjDARj3_qi8BZrPE9-ZkmaxzM/edit?usp=drivesdk",
+    "competitors": "Ollama Now Runs Faster on Macs Thanks to Apple's MLX ..., Complete VS Code + Ollama + Continue Setup, Empowering Local AI"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Baton",
+    "description": "Orchestrate your AI coding agents",
+    "doc_link": "https://docs.google.com/document/d/16_xI_rB4OA_X98rrYS_ZvIVyHMYIC4rFuh_3HG2-1N0/edit?usp=drivesdk",
+    "competitors": "🔥Top 10 Make alternatives for building AI automation 🤖, 8 Best AI Coding Assistants [Updated March 2026], Leading an orchestra of AI agents with the feature flag bato"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Remodex",
+    "description": "Control Codex on your iPhone",
+    "doc_link": "https://docs.google.com/document/d/1rdWaMTxC6ZyqVSkyqYlrIXPuqFNdCJfw4VlS2RF0Nbc/edit?usp=drivesdk",
+    "competitors": "Using Codex CLI remotely using your mobile device, 12 best OpenAI Codex alternatives by use case (2026), Emanuele Di Pietro's Post"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Ray-Ban Meta G2 Blayzer & Scriber Optics",
+    "description": "Meta's first AI glasses built for prescriptions",
+    "doc_link": "https://docs.google.com/document/d/1sJwBYsTVpKi6E1zVKx6t7ALQ0lwmwoSl4Nn78Awfg-s/edit?usp=drivesdk",
+    "competitors": "Introducing Our First AI Glasses Built For Prescriptions, Best 8 Alternatives to Ray-Ban Meta Smart Glasses, Meta's Two New Smart Glasses Are Slimmer and More ..."
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "SubscriptionFlow IQ",
+    "description": "Turn Website Visitors into Customers with AI Conversations",
+    "doc_link": "https://docs.google.com/document/d/1_0Suf5-mO7d7daXay6hIkVh_Qp5XI0rvNAN6TStMkKU/edit?usp=drivesdk",
+    "competitors": "Top SubscriptionFlow Alternatives, Alternatives to SubscriptionFlow, Top 10 SubscriptionFlow Alternatives & Competitors in 2026"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Stiinks.co",
+    "description": "Link-in-bio, but worse.",
+    "doc_link": "https://docs.google.com/document/d/1X8mIWr7e3NpOWBbbaRIhviK-ZOs2UnvwL6Qc-B2zS9A/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Claudoscope",
+    "description": "Browse, search & track costs across Claude Code sessions",
+    "doc_link": "https://docs.google.com/document/d/1eZLOIrEH_xLETvDvGr_NVyIRQJVYb55swigxfhXknVo/edit?usp=drivesdk",
+    "competitors": "Top 10 Clearscope Alternatives for LLM-Optimized Content, 10 best Clearscope alternatives I've found in 2025 (Tested), Clearscope Alternatives"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Formo",
+    "description": "Formo makes analytics simple for DeFi so you can grow.",
+    "doc_link": "https://docs.google.com/document/d/1WTlir-6klWzKns8n5DJMOVOJbi_4IvLCsWZHLuQkwkY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Snapstick",
+    "description": "Turn your camera roll into group chat chaos",
+    "doc_link": "https://docs.google.com/document/d/1Vk0DyfU2DdcFW7CGM66PGrdfIPNfUfmj5xsTC32bvYk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "Product Hunt",
+    "name": "Slapppy",
+    "description": "Trigger macros with rhythmic taps on your trackpad or mouse",
+    "doc_link": "https://docs.google.com/document/d/18mizQ4nGDIJaYQjJAGTuZnYVPqLvlmkA9aSrp-bUoEk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "GitHub",
+    "name": "anthropics/claude-code",
+    "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and he",
+    "doc_link": "https://docs.google.com/document/d/171pVYHGZiP3PcA8HN8s23uyGjILFRvdt2yDx_heGsmU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "GitHub",
+    "name": "openai/codex",
+    "description": "Lightweight coding agent that runs in your terminal",
+    "doc_link": "https://docs.google.com/document/d/1oe9IqV1QZMZNqGkwBmX5qXo5CnMOu6ywkmSFwCc6Mo0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "GitHub",
+    "name": "f/prompts.chat",
+    "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and op",
+    "doc_link": "https://docs.google.com/document/d/18XDM4HO9yj5ygcC4F8s3bacG2NHQFlhiTEwhtaEHvqE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "GitHub",
+    "name": "google-research/timesfm",
+    "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Goo",
+    "doc_link": "https://docs.google.com/document/d/1UfIMU8QVtZ6F1VXXEhY16p8GLJfDDka6f55XMYM9tvw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-04-02",
+    "channel": "GitHub",
+    "name": "axios/axios",
+    "description": "Promise based HTTP client for the browser and node.js",
+    "doc_link": "https://docs.google.com/document/d/1_3v5LRX7s5qwkbeAqHgpDUSnar5Pcj3HMWQmlORra-I/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
