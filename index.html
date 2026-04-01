@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Product Opportunities Dashboard</title>
+  <title>每日产品机会看板</title>
   <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css">
   <style>
     :root {
@@ -300,8 +300,8 @@
 </head>
 <body>
   <header>
-    <h1>Product Opportunities Dashboard</h1>
-    <p>Daily product opportunity scanning from Reddit, Product Hunt, and GitHub Trending</p>
+    <h1>每日产品机会看板</h1>
+    <p>每日自动扫描 Reddit、Product Hunt、GitHub Trending 的产品机会</p>
     <div class="last-updated" id="lastUpdated"></div>
   </header>
 
@@ -312,18 +312,18 @@
     <!-- Charts -->
     <div class="charts-row">
       <div class="chart-card">
-        <h3>Products by Date</h3>
+        <h3>每日产品数量</h3>
         <canvas id="dateChart"></canvas>
       </div>
       <div class="chart-card">
-        <h3>Channel Distribution</h3>
+        <h3>渠道分布</h3>
         <canvas id="channelChart"></canvas>
       </div>
     </div>
 
     <!-- Filter -->
     <div class="filter-bar">
-      <button class="filter-btn active" data-channel="all">All</button>
+      <button class="filter-btn active" data-channel="all">全部</button>
       <button class="filter-btn reddit" data-channel="Reddit">Reddit</button>
       <button class="filter-btn ph" data-channel="Product Hunt">Product Hunt</button>
       <button class="filter-btn github" data-channel="GitHub">GitHub</button>
@@ -334,12 +334,12 @@
       <table id="productsTable" class="display" style="width:100%">
         <thead>
           <tr>
-            <th>Date</th>
-            <th>Channel</th>
-            <th>Product</th>
-            <th>Description</th>
-            <th>Competitors</th>
-            <th>Report</th>
+            <th>日期</th>
+            <th>渠道</th>
+            <th>产品</th>
+            <th>描述</th>
+            <th>竞品</th>
+            <th>报告</th>
           </tr>
         </thead>
         <tbody></tbody>
@@ -348,7 +348,7 @@
   </div>
 
   <footer>
-    Powered by VisionClaw &middot; Auto-updated daily at 00:03 & 07:07 Beijing Time
+    由 VisionClaw 驱动 &middot; 每日北京时间 00:03 自动更新
   </footer>
 
   <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
@@ -380,7 +380,7 @@
         // Last updated
         const dates = [...new Set(allData.map(d => d.date))].sort();
         document.getElementById('lastUpdated').textContent =
-          `${allData.length} products tracked from ${dates[0]} to ${dates[dates.length - 1]}`;
+          `共追踪 ${allData.length} 个产品，${dates[0]} 至 ${dates[dates.length - 1]}`;
       });
 
     function renderStats(data) {
@@ -391,8 +391,8 @@
       const gh = data.filter(d => d.channel === 'GitHub').length;
 
       document.getElementById('statsGrid').innerHTML = `
-        <div class="stat-card"><div class="number">${total}</div><div class="label">Total Products</div></div>
-        <div class="stat-card"><div class="number">${dates.size}</div><div class="label">Days Tracked</div></div>
+        <div class="stat-card"><div class="number">${total}</div><div class="label">产品总数</div></div>
+        <div class="stat-card"><div class="number">${dates.size}</div><div class="label">追踪天数</div></div>
         <div class="stat-card reddit"><div class="number">${reddit}</div><div class="label">Reddit</div></div>
         <div class="stat-card ph"><div class="number">${ph}</div><div class="label">Product Hunt</div></div>
         <div class="stat-card github"><div class="number">${gh}</div><div class="label">GitHub</div></div>
@@ -450,7 +450,7 @@
     function renderTable(data) {
       const tbody = data.map(p => {
         const docLink = p.doc_link
-          ? `<a class="doc-link" href="${p.doc_link}" target="_blank">View Report</a>`
+          ? `<a class="doc-link" href="${p.doc_link}" target="_blank">查看报告</a>`
           : '-';
         return `<tr>
           <td>${p.date}</td>
@@ -468,10 +468,12 @@
         pageLength: 25,
         order: [[0, 'desc']],
         language: {
-          search: 'Search:',
-          lengthMenu: 'Show _MENU_ entries',
-          info: 'Showing _START_ to _END_ of _TOTAL_ products',
-          paginate: { previous: '&laquo;', next: '&raquo;' }
+          search: '搜索:',
+          lengthMenu: '每页显示 _MENU_ 条',
+          info: '共 _TOTAL_ 个产品，当前显示 _START_ - _END_',
+          paginate: { previous: '上一页', next: '下一页' },
+          emptyTable: '暂无数据',
+          zeroRecords: '没有找到匹配的产品'
         },
         columnDefs: [
           { targets: 3, width: '30%' },
