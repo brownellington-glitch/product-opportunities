@@ -3598,5 +3598,85 @@
     "description": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x les",
     "doc_link": "https://docs.google.com/document/d/11HpQCXkRVoVyof3hV3PjFUhniw1aqjZ6DZxinAShtQc/edit?usp=drivesdk",
     "competitors": "EvoSkills, New framework lets AI agents rewrite their own skills ..., Self-Evolving Agents"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "Wafer Pass",
+    "description": "Flat rate to the best LLMs for OpenClaw, Hermes Agent, etc.",
+    "doc_link": "https://docs.google.com/document/d/1z_lyhTOd_WvTkVUca9iWGD0T_l5z-ot2KoL2AiwC17w/edit?usp=drivesdk",
+    "competitors": "Interchange Plus vs Flat Rate, Interchange Plus vs Flat Rate Pricing, Pass-through vs. Flat Rate Pricing"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "Carousels Generator",
+    "description": "From prompt to branded LinkedIn carousel powered by AI",
+    "doc_link": "https://docs.google.com/document/d/1vAT-FN6usGap8uJyeipSVt98OKR_yyyeEkn-AgL10qU/edit?usp=drivesdk",
+    "competitors": "10 Best AI LinkedIn Carousel Generators to Try in 2026, 12 Best LinkedIn Carousel Makers in 2026 (Free & Paid ..., Best LinkedIn Carousel Generators"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "Clide",
+    "description": "Grid-layout terminal with an AI that drives your shells.",
+    "doc_link": "https://docs.google.com/document/d/1QStGdTQPlk1GwkHwkxkB94P4KHMe1e_ufaoSznZXmFA/edit?usp=drivesdk",
+    "competitors": "Layout, Browse Extensions, Comparing the best CSS grid generators"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "DataGrout",
+    "description": "Enterprise AI Platform for Agentic AI & MCP Integration",
+    "doc_link": "https://docs.google.com/document/d/1bqKjy-_gkgzT71qH6lSSpv94uqICBDd-_VLXMSIxFLk/edit?usp=drivesdk",
+    "competitors": "Agentic AI Platform Comparison, 10 Enterprise AI Agent Platforms to Build Production ..., Best Agentic AI Platform for Business"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "Cenote",
+    "description": "AI Sales Agents for Abandoned Checkouts",
+    "doc_link": "https://docs.google.com/document/d/1rCRpqY1xzgmbgPAX9oK7vk0uFEKU3UmxhTIUmI6-nYw/edit?usp=drivesdk",
+    "competitors": "Cenote, The 10 Best AI Reactivation Agents to Bring Lost ..., 5 best AI sales agent platforms (with examples) for 2026"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "SnapEdit",
+    "description": "Native SwiftUI clipboard image editor; edit, share instantly",
+    "doc_link": "https://docs.google.com/document/d/1wQkDLM-6B0Cyhp3gXW85Ue-mrnB6telNxsSalhsU0GY/edit?usp=drivesdk",
+    "competitors": "Top 10 SnapEdit Alternatives & Competitors in 2026, 20 Best SnapEdit Alternatives & Competitors 2026, Top SnapEdit Alternatives"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "ClawTrace",
+    "description": "Make your OpenClaw better, cheaper, and faster",
+    "doc_link": "https://docs.google.com/document/d/1xP-FarkzrHUnGa2pMPZulZIr6w7Q4p_7OOjAOy9iPtE/edit?usp=drivesdk",
+    "competitors": "10 Best OpenClaw Alternatives in 2026, 16 Best OpenClaw Alternatives 2026 (Tested & Security- ..., The 12 Best OpenClaw Alternatives for 2026"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "Lexie",
+    "description": "Snap your notes and get tested before the exam",
+    "doc_link": "https://docs.google.com/document/d/1K12LS2QKLmndeI-rkBd41j-9csqZuwOgZ1oSxHWqP5U/edit?usp=drivesdk",
+    "competitors": "The Best Quizlet Alternative in 2026 (Free Learn Mode), Best LexieLearn Alternatives & Competitors, LexieLearn Alternatives"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "Collabute",
+    "description": "Your team's context, turned into action",
+    "doc_link": "https://docs.google.com/document/d/10MPWY_5EncmKjJ3gVYKda0DOu59oGgmBeEP2-04wUBc/edit?usp=drivesdk",
+    "competitors": "5 Best Collaborative AI App Builders for Teams in 2026, My Ah-Ha Moment On How Much AI Is Transforming Team ..., Collaborative Editing"
+  },
+  {
+    "date": "2026-04-16",
+    "channel": "Product Hunt",
+    "name": "LayerGen AI",
+    "description": "Generate print-ready D&D miniatures from text or image",
+    "doc_link": "https://docs.google.com/document/d/1iDbS5wexPYGr01i6oiQ0xkPYAxYLIX3KzpGgjF0NNFQ/edit?usp=drivesdk",
+    "competitors": "LayerGen AI, Can the AI mini be used for making and painting ..., How to Create Custom 3D Miniatures"
   }
 ]
