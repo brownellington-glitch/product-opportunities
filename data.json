@@ -9430,5 +9430,197 @@
     "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
     "doc_link": "https://docs.google.com/document/d/1HaQsPzx5QcwDTe6SFgZJ92qR5onMLwWWePrSGt2Cfno/edit?usp=drivesdk",
     "competitors": "Prometheus Node Exporter, Fluentd, Datadog Agent"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "How we got our first 200 users without paid ads * NO UGC *",
+    "description": "**EDIT: \\[ Too many of you guys are asking me for the tool , so i use SLIDETIK to make slides for my",
+    "doc_link": "https://docs.google.com/document/d/1ADChk48goIP2buCyO3QVYrkf84-ITTKNnozHsozxrwM/edit?usp=drivesdk",
+    "competitors": "GrowthHackers, Indie Hackers, Product Hunt"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "Sold my first product after working on it for 1.5 years",
+    "description": "I just sold my first app for $42,000!  \n  \nBuilt solo — no team.  \n  \nArcstory is an AI comic maker ",
+    "doc_link": "https://docs.google.com/document/d/1y0ghr3UT_aXFyOYTQTJe-hOO6Y6DzLSzLygPC5wiDyE/edit?usp=drivesdk",
+    "competitors": "Canva, Comic Life, Pixton"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "Fraud-as-a-Service is the new SaaS",
+    "description": "Every week I see a founder say they hit some insane revenue number after building for like 11 days. ",
+    "doc_link": "https://docs.google.com/document/d/1gFOLAnfh0oJ8xn8BWtAzM4jJ6E_z4TsOsNYS_LKtNw8/edit?usp=drivesdk",
+    "competitors": "Crunchbase, SimilarWeb, PitchBook"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "HR got offended and left the call because I asked about revenue? I will not prom",
+    "description": "Had a 10-min interview for an AI/ML drone startup today. Terms were 2 months unpaid, then maybe a st",
+    "doc_link": "https://docs.google.com/document/d/1GT9-Ht7E9mtF7hVilA3SywpqB4D-E6NjDdWbK9kdXdM/edit?usp=drivesdk",
+    "competitors": "Glassdoor, AngelList, Crunchbase"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "After 3 months of coding… I finally launched 🚀",
+    "description": "After 3 months of nonstop coding, sleepless nights, and sacrificing my social life… I’m finally read",
+    "doc_link": "https://docs.google.com/document/d/13eBapArGaB42j_UJAfp2ktyuP3j4BGmszSVl4wwmrv8/edit?usp=drivesdk",
+    "competitors": "Indie Hackers, Product Hunt, Bubble"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "they're eating me alive, what should I do here? 😅",
+    "description": "I don't like either of allowing company domains or charging $1 for access, what should I do here?\n\nI",
+    "doc_link": "https://docs.google.com/document/d/1Jafsccyzi788CqMmVUeXUz8bXz-3yhrs3nS7GVyrvBs/edit?usp=drivesdk",
+    "competitors": "Auth0, Clerk, Firebase Auth"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "I built a Craigslist scraper that alerts me when used cars are priced under mark",
+    "description": "I flip car on the sides during my free time. The most challenging aspect of flipping cars is finding",
+    "doc_link": "https://docs.google.com/document/d/1SImCYaeGh9QqzeHuV3QqHDRpHelwgpuRTy4Hqf0YRvA/edit?usp=drivesdk",
+    "competitors": "AutoTempest, CarGurus, SearchTempest"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "“I can do it myself with AI, why do I need an engineer” is the new “I Googled my",
+    "description": "Okay I get it, because for some things they’re right. I wasn’t even born when Google came out, but w",
+    "doc_link": "https://docs.google.com/document/d/1sVOXQb808YBXDBVMN_2cdMQ-KsK7sf757g0vV7fZINY/edit?usp=drivesdk",
+    "competitors": "GitHub Copilot, No-Code平台Bubble, Replit"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "From 50 to 500 users in just few Hours !!",
+    "description": "Just a few hours after posting on Reddit, my 100% vibe-coded project TaxCalcHQ.com started getting r",
+    "doc_link": "https://docs.google.com/document/d/1WHDf-fZ7Uq_UF2I_MHnmqEoRRgwWZhVgIK5rQ701NW8/edit?usp=drivesdk",
+    "competitors": "TurboTax, FreeTaxUSA, TaxAct"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Reddit",
+    "name": "I'm a hardworking person after 9 - 5,  NEED ADVICE, I will not promote",
+    "description": "I’ve been thinking a lot after a previous discussion here, and honestly a lot of the replies changed",
+    "doc_link": "https://docs.google.com/document/d/1gUewS6oVI-PJoatkAYYb1h6KoUKTSC4pMfYrFf1yqqg/edit?usp=drivesdk",
+    "competitors": "Indie Hackers, Y Combinator Startup School, Founder Groups"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "Instants by Instagram",
+    "description": "Send disappearing, unedited photos to Close Friends",
+    "doc_link": "https://docs.google.com/document/d/1ispxb-raWVIBkuno11bFcm4OifRo3Zfv1mz0hvK6i0Y/edit?usp=drivesdk",
+    "competitors": "BeReal, Snapchat, VSCO"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "LineageLens",
+    "description": "AI wrote it. LineageLens proves it.",
+    "doc_link": "https://docs.google.com/document/d/1-589BrUqyQuudOFKOd1nRMaEAD8jblRhI3a7l9fsXaI/edit?usp=drivesdk",
+    "competitors": "GPTZero, Originality.AI, Content at Scale"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "Ansvisor",
+    "description": "Scale your brand visibility across AI answer engines",
+    "doc_link": "https://docs.google.com/document/d/14oZRUg_GpJFdSwi7gBUniLHO5ykxz9GbVb3aMvp6LH0/edit?usp=drivesdk",
+    "competitors": "BrightEdge, Conductor, MarketMuse"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "Higgsfield Supercomputer",
+    "description": "Run your entire creative pipeline from one chat agent",
+    "doc_link": "https://docs.google.com/document/d/1p4WRGlrNGP_289_n4TF2H1Jfq60htQ6ThBxH1_ln7xo/edit?usp=drivesdk",
+    "competitors": "Adobe Creative Cloud, Canva, Figma"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "DesignMD",
+    "description": "Turn any website into an AI-ready design system",
+    "doc_link": "https://docs.google.com/document/d/1iFiFtRqW3D4kXMlSI3LPCPrgZ-gjlcQkVYFtWLkLXas/edit?usp=drivesdk",
+    "competitors": "Figma, Storybook, Zeroheight"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "Templates in ElevenCreative",
+    "description": "From idea to finished asset in one click",
+    "doc_link": "https://docs.google.com/document/d/1znxQeQm33S96y6z1XFZmgI6aOO0KvoilboOcw9-W76g/edit?usp=drivesdk",
+    "competitors": "Canva, Figma Templates, Adobe Express"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "Woleet",
+    "description": "Bitcoin-anchored proof that documents are authentic",
+    "doc_link": "https://docs.google.com/document/d/1dcWMqeY9X5X4b0Ge9EAQmpWkIWVywqtsZooflOyVrLY/edit?usp=drivesdk",
+    "competitors": "DocuSign, Stampery, Proof of Existence"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "Notion Developer Platform",
+    "description": "Build on Notion, not just inside it",
+    "doc_link": "https://docs.google.com/document/d/1dun8Xlpz7SAW7n0A_vVYvhPQeQw8OMICfX7QufzjVak/edit?usp=drivesdk",
+    "competitors": "Airtable Apps, Monday.com Apps, Zapier Developer Platform"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "MobileCLI",
+    "description": "Remote AI Terminal Control",
+    "doc_link": "https://docs.google.com/document/d/1W3dQ7u8bTH043cejM_h8k-62IcsYeFpydbHT4JAoNg4/edit?usp=drivesdk",
+    "competitors": "Termius, JuiceSSH, Blink Shell"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "Product Hunt",
+    "name": "Fei Design Mode",
+    "description": "Directly edit and tweak UI pixels live with AI agents",
+    "doc_link": "https://docs.google.com/document/d/1Wpg2ZjZbwpxY8thjRQWNU_J4Uu6DFBge_W1e4Dh3wQI/edit?usp=drivesdk",
+    "competitors": "Figma, Framer, Canva"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "GitHub",
+    "name": "garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manag",
+    "doc_link": "https://docs.google.com/document/d/1gTQFXbMw_iWeS0PTtRZvgZnStrz7PQAV6RxbZ4DbyXI/edit?usp=drivesdk",
+    "competitors": "Cursor, GitHub Copilot Workspace, Replit"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "GitHub",
+    "name": "Genymobile/scrcpy",
+    "description": "Display and control your Android device",
+    "doc_link": "https://docs.google.com/document/d/1Mqhx1JeXiCsARr2RvXgEoHGLldS0jHORCzgQz4E_JpM/edit?usp=drivesdk",
+    "competitors": "Vysor, AirDroid, ApowerMirror"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "GitHub",
+    "name": "roboflow/supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "doc_link": "https://docs.google.com/document/d/1DOG09va4iacmzfqKrE9-pbNoENCCDiKwdZtXRk5fThA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-05-15",
+    "channel": "GitHub",
+    "name": "NVIDIA-AI-Blueprints/video-search-and-summarization",
+    "description": "Suite of reference architectures for building GPU-accelerated vision agents and AI-powered video ana",
+    "doc_link": "https://docs.google.com/document/d/17TqSUSiDyYdTKTtu5S3JAAsWWWoofGotRgXgq4k1EUI/edit?usp=drivesdk",
+    "competitors": "Google Video Intelligence API, Amazon Rekognition Video, OpenCV Video Analytics"
   }
 ]
