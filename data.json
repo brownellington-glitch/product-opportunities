@@ -12494,5 +12494,133 @@
     "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the Open",
     "doc_link": "https://docs.google.com/document/d/1WsG-8qrh0rQA61sHT1o7fkVmg9J-0glQOu4njmqU3-Q/edit?usp=drivesdk",
     "competitors": "Coqui TTS, Microsoft Azure Speech, Tortoise TTS"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "Firecoach AI",
+    "description": "AI roleplays that turn reps into top performers",
+    "doc_link": "https://docs.google.com/document/d/1zk8HOc7eOOLer1YLfZMAugqQMaNTJjhnkjgZpgILXmU/edit?usp=drivesdk",
+    "competitors": "Gong.io, Chorus.ai, Second Nature AI"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "Ava Studio",
+    "description": "Your AI creative team for video ads",
+    "doc_link": "https://docs.google.com/document/d/1V2wCI0-rzEKsvaZW6V5-3zR_Sfv8kGej1AsRKIDWhlQ/edit?usp=drivesdk",
+    "competitors": "Synthesia, Pictory, InVideo"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "RabbitTravel",
+    "description": "Smart travel planning made effortless",
+    "doc_link": "https://docs.google.com/document/d/1cuE6kckDWDPVrHeaoyakyZOAyP7gbCAZ-B50zaFq1QM/edit?usp=drivesdk",
+    "competitors": "TripIt, Wanderlog, Sygic Travel"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "Basedash: Embedded Analytics",
+    "description": "Give customers AI analytics inside your product.",
+    "doc_link": "https://docs.google.com/document/d/1803ZsoFGjrsS-qD-COFs1NzoerH3dcTLPHjJhfiSwWs/edit?usp=drivesdk",
+    "competitors": "Sisense, Looker, Retool"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "Notchy",
+    "description": "Mac dynamic island with music, timers, clipboard, file drops",
+    "doc_link": "https://docs.google.com/document/d/1KDubG4W7Bq9HZGwMvMV46TMMrs5xr2oLZP9Kosg1xEM/edit?usp=drivesdk",
+    "competitors": "CleanMyMac X, Bartender 4, Overflow 3"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "Drafted",
+    "description": "Design a home instantly with AI",
+    "doc_link": "https://docs.google.com/document/d/1-jJ0PCOYE9H-cNyUdqHIz7W2cz69uVx8V7bHyfSsP0E/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "Vibeocus Lens",
+    "description": "Bridge your live frontend directly to your AI agent.",
+    "doc_link": "https://docs.google.com/document/d/15TmVMrXJmiKqmA2v1EX8JgQO17c5S_q8uqfloRIUnpI/edit?usp=drivesdk",
+    "competitors": "Vercel AI SDK, LangChain.js, OpenAI Assistants API"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "GPS",
+    "description": "Memory layer for LLMs that stores repo rules + past lessons",
+    "doc_link": "https://docs.google.com/document/d/13ni12ack5YF-I9Vr3cWCgKTzH_owe2JAf3s96ppU23o/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "Clipline",
+    "description": "AI Video Cutter for viral Shorts, Reels, TikTok in Telegram",
+    "doc_link": "https://docs.google.com/document/d/1IslSPni3UcV6kVI18GU8RMVuQw76XaTPuKlWJZ1gH2w/edit?usp=drivesdk",
+    "competitors": "OpusClip, Pictory, Vidyo.ai"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "Product Hunt",
+    "name": "TrackNotch",
+    "description": "LLM usage tracking that lives in your Mac's notch",
+    "doc_link": "https://docs.google.com/document/d/1PD1saIweuuXDQUM2kkIAccU99HLU19aZS53o_pZHoms/edit?usp=drivesdk",
+    "competitors": "OpenAI Usage Dashboard, AI Tracker, LangSmith"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "GitHub",
+    "name": "run-llama/liteparse",
+    "description": "A fast, helpful, and open-source document parser",
+    "doc_link": "https://docs.google.com/document/d/1ppdxG30xDwIuk0-ya5QTw9K3G5TAPQOgtZvPA97Oz1I/edit?usp=drivesdk",
+    "competitors": "PyMuPDF, Apache Tika, Unstructured"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "GitHub",
+    "name": "galilai-group/stable-worldmodel",
+    "description": "A platform for reproducible world model research and evaluation",
+    "doc_link": "https://docs.google.com/document/d/1t4kDlZmBku0CW9hpstxdd6nJdLgNE6xO5ZM4IV3pUF8/edit?usp=drivesdk",
+    "competitors": "OpenAI Gym, DeepMind Lab, AI2-THOR"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "GitHub",
+    "name": "Crosstalk-Solutions/project-nomad",
+    "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowle",
+    "doc_link": "https://docs.google.com/document/d/1nnBKhr-C42Lmb3__LwfZ4cgvChsu-tQrwYXxd58uK54/edit?usp=drivesdk",
+    "competitors": "Garmin inReach系列, Kiwix离线维基百科, BaoFeng UV-5R系列"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "GitHub",
+    "name": "DataTalksClub/data-engineering-zoomcamp",
+    "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The n",
+    "doc_link": "https://docs.google.com/document/d/15_rmn0kpShpHeeinux4Cz6TbkOlieO8k-VjLjYKNPgM/edit?usp=drivesdk",
+    "competitors": "Coursera数据工程专项课程, DataCamp数据工程轨道, Udacity数据工程纳米学位"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "GitHub",
+    "name": "cursor/plugins",
+    "description": "Cursor plugin specification and official plugins",
+    "doc_link": "https://docs.google.com/document/d/1_omZZ6evHYkZIp1xfHv_1S-ivoG1_JnhkUlVaw9m-lE/edit?usp=drivesdk",
+    "competitors": "VS Code Extensions, JetBrains Plugin Repository, Sublime Text Package Control"
+  },
+  {
+    "date": "2026-05-30",
+    "channel": "GitHub",
+    "name": "Biohub/esm",
+    "description": "",
+    "doc_link": "https://docs.google.com/document/d/1qZU7xqGg8jvR7hGFhG9LlzHNr0TO8UiLGgcO_dvimTg/edit?usp=drivesdk",
+    "competitors": "AlphaFold, ChimeraX, ProtTrans"
   }
 ]
