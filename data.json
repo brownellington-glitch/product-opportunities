@@ -12622,5 +12622,109 @@
     "description": "",
     "doc_link": "https://docs.google.com/document/d/1qZU7xqGg8jvR7hGFhG9LlzHNr0TO8UiLGgcO_dvimTg/edit?usp=drivesdk",
     "competitors": "AlphaFold, ChimeraX, ProtTrans"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Step 3.7 Flash",
+    "description": "Flash-speed agents model that can see and act",
+    "doc_link": "https://docs.google.com/document/d/1nrtg46dZV_kBfgHMFbldWSVtdgq66bklaaqVj5TQing/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Exstats",
+    "description": "Track your browser extensions and competitors in one place",
+    "doc_link": "https://docs.google.com/document/d/1Lao5d9bAOtx9h5ySFzwS8V6VAJ7InejVxsSbJgdL0JA/edit?usp=drivesdk",
+    "competitors": "SimilarWeb, Chrome Web Store Stats, ExtensionMonitor"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Openstatus MCP Health Checker",
+    "description": "Test MCP servers like a real AI client, not just a ping",
+    "doc_link": "https://docs.google.com/document/d/1aHKagQIBXNsz46o6jbf05LTmdDaNwQQRWwD_iGcvldw/edit?usp=drivesdk",
+    "competitors": "Pingdom, New Relic, DataDog"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Wingbits AI",
+    "description": "AI agents for real-time aircraft monitoring and alerts",
+    "doc_link": "https://docs.google.com/document/d/1TDL_TBmYybk-XpPRQYPZNFb60l_S_6t0w3kom9oAIwQ/edit?usp=drivesdk",
+    "competitors": "FlightAware, Aireon, RadarBox"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Wandesk",
+    "description": "Build Your Own AI Desktop",
+    "doc_link": "https://docs.google.com/document/d/1n8o4xRi3i1IeCxov-i1gGaX5s6qEnZ8Cp4Hcn2tnWu8/edit?usp=drivesdk",
+    "competitors": "Rainmeter, Wallpaper Engine, Microsoft PowerToys"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Integuru",
+    "description": "Generate fast, reliable APIs for any platform. No browsers",
+    "doc_link": "https://docs.google.com/document/d/1GoOMCUnI_N7pYNGgjTWUjK9GpbvxL4oltazs2zEeOKo/edit?usp=drivesdk",
+    "competitors": "Postman, Swagger/OpenAPI, Insomnia"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Agent A by Ahrefs",
+    "description": "The AI Marketing Agent Powered by Ahrefs Data",
+    "doc_link": "https://docs.google.com/document/d/1uR7bOp8xAF49H8QmztYlQUxnSOibz4pBOrCoszUtUrc/edit?usp=drivesdk",
+    "competitors": "SEMrush, BrightEdge, Conductor"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Ava 2.0",
+    "description": "Your AI BDR that runs outbound sales autonomously",
+    "doc_link": "https://docs.google.com/document/d/1GhpOtg2ip506Agy6xCYwHYBdGwG24M3F2UL7cAW5Gf4/edit?usp=drivesdk",
+    "competitors": "Outreach, Apollo, Clay"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "MoDev",
+    "description": "The AI dev environment built for your phone.",
+    "doc_link": "https://docs.google.com/document/d/1Uq3jQW1zlbldpcMHsFaF8rHcOTgY2h7obvdDzICFx0E/edit?usp=drivesdk",
+    "competitors": "GitHub Codespaces, Replit Mobile, Termux"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "Product Hunt",
+    "name": "Hyper: Self-driving Company Brain",
+    "description": "Turn your AI agents from interns to veterans",
+    "doc_link": "https://docs.google.com/document/d/1BetN6-DMM92uWmkhjUXhdg1aFrtKqzEmOjdt9oZM2sk/edit?usp=drivesdk",
+    "competitors": "LangChain, AutoGPT, Microsoft Copilot Studio"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "GitHub",
+    "name": "FareedKhan-dev/train-llm-from-scratch",
+    "description": "A straightforward method for training your LLM, from downloading data to generating text.",
+    "doc_link": "https://docs.google.com/document/d/14ECpmGnPQE4JFg83ydFLD-dV6tNcPCbDnsjMdABBU0Q/edit?usp=drivesdk",
+    "competitors": "Hugging Face Transformers, OpenAI GPT Fine-tuning, LangChain"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "GitHub",
+    "name": "chen08209/FlClash",
+    "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+    "doc_link": "https://docs.google.com/document/d/1nT3crv3p1VdPhABVUDG1ZXX3T0Uz6Br_KQt0vniL3zE/edit?usp=drivesdk",
+    "competitors": "Clash for Windows, ClashX, Shadowrocket"
+  },
+  {
+    "date": "2026-05-31",
+    "channel": "GitHub",
+    "name": "dreammis/social-auto-upload",
+    "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
+    "doc_link": "https://docs.google.com/document/d/1nPsCZiq9pdF3praQfwEFoP_2vTz4uV8gZ96qF3bnWjs/edit?usp=drivesdk",
+    "competitors": "易媒助手, 新榜编辑器, 飞瓜数据"
   }
 ]
