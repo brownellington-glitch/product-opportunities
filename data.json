@@ -12726,5 +12726,125 @@
     "description": "自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili",
     "doc_link": "https://docs.google.com/document/d/1nPsCZiq9pdF3praQfwEFoP_2vTz4uV8gZ96qF3bnWjs/edit?usp=drivesdk",
     "competitors": "易媒助手, 新榜编辑器, 飞瓜数据"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "Web Clipper for NotebookLM",
+    "description": "Your ultimate NotebookLM's Chrome Extension",
+    "doc_link": "https://docs.google.com/document/d/1fBJRiHh5vokGBV4WSwM0SQ6eYl_lErBizlxqpJbWmcc/edit?usp=drivesdk",
+    "competitors": "Web Clipper, Evernote Web Clipper, Notion Web Clipper"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "Marqly 5.0",
+    "description": "Your AI-powered bookmark manager",
+    "doc_link": "https://docs.google.com/document/d/1c6xvgZ1FLgvzoCpiry5sVm1gCfvFVlPeWu4tP2taxAc/edit?usp=drivesdk",
+    "competitors": "Raindrop.io, Pocket, Pinboard"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "Oura Ring 5",
+    "description": "The world’s smallest smart ring, now even better",
+    "doc_link": "https://docs.google.com/document/d/1Mf1dq9lAgdoHzBnyQXKMzra7GQQV8JO7ndb9NrjzeWE/edit?usp=drivesdk",
+    "competitors": "Samsung Galaxy Ring, Circular Ring, Motiv Ring"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "Clipto",
+    "description": "Fully local, natural language search over terabytes of media",
+    "doc_link": "https://docs.google.com/document/d/1HrDqlOLK80gCs5rYWxwoapjS2cWayxPPfJ_WKbabIRs/edit?usp=drivesdk",
+    "competitors": "Adobe Bridge, Google Photos, Everything Search"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "Second Brain for AI",
+    "description": "Persistent memory for Claude, ChatGPT & Cursor. Free.",
+    "doc_link": "https://docs.google.com/document/d/1k766ZWCbDWmOamqQvQxY26lvoAqZo8L-t0Nze1bSyys/edit?usp=drivesdk",
+    "competitors": "Notion AI, Mem.ai, Obsidian"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "TabTasker",
+    "description": "Zero servers. Total privacy. Your new favorite toolbox.",
+    "doc_link": "https://docs.google.com/document/d/1oMmY2NV4Gysa72W_YBs1Mj5ApNSZn0MB3UAwDNNK46Y/edit?usp=drivesdk",
+    "competitors": "Notion, Obsidian, Logseq"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "Coffee Piano",
+    "description": "Browser music and piano studio with visual harmony tools",
+    "doc_link": "https://docs.google.com/document/d/1QaeJi8PbV-fBe6s7ZSmNYTyigZC3_mTXhzMQclgzrmU/edit?usp=drivesdk",
+    "competitors": "BandLab, Flowkey, Chrome Music Lab"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "PromptLayer",
+    "description": "Trace AI requests, workflows, and costs in one timeline",
+    "doc_link": "https://docs.google.com/document/d/13sWIiveM0ueVjWNdSgratwwQgFGPzS5jTilrfz0umMM/edit?usp=drivesdk",
+    "competitors": "Weights & Biases, LangSmith, Helicone"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "Linear Diffs",
+    "description": "A new way to review PRs, directly inside Linear",
+    "doc_link": "https://docs.google.com/document/d/1ZwSiiqb5D6AMxlIzBVGYwmtEw7MfGEVus4W8WJiyrIg/edit?usp=drivesdk",
+    "competitors": "GitHub PR Review, GitLab Merge Requests, Atlassian Crucible"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "Product Hunt",
+    "name": "MCP Bridge by Appfactor",
+    "description": "Connect any API to any AI agent",
+    "doc_link": "https://docs.google.com/document/d/1lwLWfGvuCuvjnWD3mghe1drVrtbTkHdcSDPM5HSM3FY/edit?usp=drivesdk",
+    "competitors": "Zapier, Bubble, Integromat (Make)"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "GitHub",
+    "name": "nesquena/hermes-webui",
+    "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
+    "doc_link": "https://docs.google.com/document/d/1pBV1yDTmoHQZ_N3l6be-MEUvMB8M4obMedBjSS_1LYM/edit?usp=drivesdk",
+    "competitors": "AutoGPT, LangChain Serve, Gradio"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "GitHub",
+    "name": "supermemoryai/supermemory",
+    "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+    "doc_link": "https://docs.google.com/document/d/1iK5DVTYzOsECA4wE_aPui3-82DzoqM2Gv15UNAP3pM0/edit?usp=drivesdk",
+    "competitors": "Pinecone, Weaviate, Chroma"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "GitHub",
+    "name": "emmabostian/developer-portfolios",
+    "description": "A list of developer portfolios for your inspiration",
+    "doc_link": "https://docs.google.com/document/d/1Ys6sToza9aa2zQYxNTL4KdXiNQnBpKtSJAjJ0JahXBw/edit?usp=drivesdk",
+    "competitors": "Dribbble, Behance, CodePen"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "GitHub",
+    "name": "nicobailon/pi-subagents",
+    "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
+    "doc_link": "https://docs.google.com/document/d/1Ks_i5VxxdaqXg6MFHe1gbPobIsrWwqyH5raSDbm6AeM/edit?usp=drivesdk",
+    "competitors": "LangChain Agents, AutoGPT, Microsoft Semantic Kernel"
+  },
+  {
+    "date": "2026-06-01",
+    "channel": "GitHub",
+    "name": "github/docs",
+    "description": "The open-source repo for docs.github.com",
+    "doc_link": "https://docs.google.com/document/d/12eRcbV3aBlwX5SW-O79Nrdb_RCs3ie21BM63kpfOZ2E/edit?usp=drivesdk",
+    "competitors": "GitBook, Notion, Confluence"
   }
 ]
