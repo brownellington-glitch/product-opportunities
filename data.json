@@ -12846,5 +12846,109 @@
     "description": "The open-source repo for docs.github.com",
     "doc_link": "https://docs.google.com/document/d/12eRcbV3aBlwX5SW-O79Nrdb_RCs3ie21BM63kpfOZ2E/edit?usp=drivesdk",
     "competitors": "GitBook, Notion, Confluence"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Paint By JSON | Figma API Client",
+    "description": "Real API data in your mockups made as easy as lorem ipsum.",
+    "doc_link": "https://docs.google.com/document/d/10ifcv1YC_4NPvAhdQuIS1TxFwZPuIM1LmBryAVEQeyc/edit?usp=drivesdk",
+    "competitors": "Figma Plugins - Content Reel, Craft by InVision, Mockplus iDoc"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "R0Y OMNI 1.0",
+    "description": "Generate more accurate investment dashboards and reports",
+    "doc_link": "https://docs.google.com/document/d/1B3WA3cyyI1_kJS21NptqaYegNZwAaE9spVVqMMuSRKw/edit?usp=drivesdk",
+    "competitors": "Bloomberg Terminal, Morningstar Direct, YCharts"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Stella",
+    "description": "Local natural language search across all your files",
+    "doc_link": "https://docs.google.com/document/d/1YkDLgn4p0WtJy0zHIVCJ07bc8jI1KFe4iWbDkaRG9Bs/edit?usp=drivesdk",
+    "competitors": "Everything, Alfred, Recoll"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Tabstack Web Research",
+    "description": "Run a research agent with cited answers in a single API call",
+    "doc_link": "https://docs.google.com/document/d/1nqSbXuaeUY3Zyr04RKaJOmFmhLtG-vnBbQX6j48GJZc/edit?usp=drivesdk",
+    "competitors": "Perplexity AI, You.com, Metaphor Systems"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Skylive",
+    "description": "Never miss a celestial event, anywhere on Earth",
+    "doc_link": "https://docs.google.com/document/d/13ahKONNaEGwS-9H-2chHsR0XTsiwgGrDTXDL2-VwHpQ/edit?usp=drivesdk",
+    "competitors": "SkySafari, Star Walk 2, TimeAndDate Astronomy"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Tokenwise",
+    "description": "A smart LLM proxy that shows where you're overpaying",
+    "doc_link": "https://docs.google.com/document/d/1yDmYycYRFIKOoDuVZ_3CXEkz0ndO1O7qPSN5K16yKpk/edit?usp=drivesdk",
+    "competitors": "LangSmith, Helicone, Portkey"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Open Caffeine",
+    "description": "Keep your Mac awake",
+    "doc_link": "https://docs.google.com/document/d/1a9MqGZ0QBYnuszVmQJBCSCVjMtjIGTcGyAB9cR_N_Qk/edit?usp=drivesdk",
+    "competitors": "Amphetamine, Caffeinated, KeepingYouAwake"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Trippple Club",
+    "description": "Advertise together on Meta Ads and pay 3x less",
+    "doc_link": "https://docs.google.com/document/d/1t3WO_rRORalwDnVdXOHVGJIAQOqya4mAi5jMTzVyUXU/edit?usp=drivesdk",
+    "competitors": "AdEspresso, Hootsuite Ads, Revealbot"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "Product Hunt",
+    "name": "Presentify",
+    "description": "Take your presentation skills to the next level",
+    "doc_link": "https://docs.google.com/document/d/1Vuf4bsX6TakICXLo75xqiXjIgfcAvT3m79SpiKbKKgY/edit?usp=drivesdk",
+    "competitors": "Prezi, Mmhmm, Deckset"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "GitHub",
+    "name": "pbakaus/impeccable",
+    "description": "The design language that makes your AI harness better at design.",
+    "doc_link": "https://docs.google.com/document/d/1f8gG0dr2BeCdNB6WVqffGVYyOAxo1HysziBK7oYUFWQ/edit?usp=drivesdk",
+    "competitors": "Design Tokens Studio, Figma Variables, Style Dictionary"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "GitHub",
+    "name": "godotengine/godot",
+    "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "doc_link": "https://docs.google.com/document/d/1YqpgDnIoriPLREh-hIX4txzyjVOqlLTT4AEmdFPkucQ/edit?usp=drivesdk",
+    "competitors": "Unity, Unreal Engine, GameMaker Studio"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "GitHub",
+    "name": "dmtrKovalenko/fff",
+    "description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS",
+    "doc_link": "https://docs.google.com/document/d/18_U-qDEhLIDFs23GK8NRuPzssUoLYkoKelvIae4MKYw/edit?usp=drivesdk",
+    "competitors": "ripgrep, fzf, fd"
+  },
+  {
+    "date": "2026-06-02",
+    "channel": "GitHub",
+    "name": "stefan-jansen/machine-learning-for-trading",
+    "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "doc_link": "https://docs.google.com/document/d/1M8l1Hhi2ge-E6kzJ4Da4YIEnzYBQJhts0_rfkCXMPIc/edit?usp=drivesdk",
+    "competitors": "QuantConnect, Zipline, Backtrader"
   }
 ]
