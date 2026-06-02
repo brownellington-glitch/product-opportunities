@@ -12950,5 +12950,117 @@
     "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
     "doc_link": "https://docs.google.com/document/d/1M8l1Hhi2ge-E6kzJ4Da4YIEnzYBQJhts0_rfkCXMPIc/edit?usp=drivesdk",
     "competitors": "QuantConnect, Zipline, Backtrader"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "Sortail",
+    "description": "Self-learning one-click inbox cleanup for Apple Mail",
+    "doc_link": "https://docs.google.com/document/d/1Z0qtwedUdlR1ynFo-dyW4rj0FQ9WiUEta_WpZKoHdDI/edit?usp=drivesdk",
+    "competitors": "SaneBox, Unroll.Me, Clean Email"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "findloc.ai",
+    "description": "Make your business citable by ChatGPT, Claude & Perplexity",
+    "doc_link": "https://docs.google.com/document/d/1oLnU0wEnCrp7Xcpq-DHCVKtjbw6LtxT670_tbv27Y2U/edit?usp=drivesdk",
+    "competitors": "BrightLocal, Yext, Reputation.com"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "Galleroo",
+    "description": "Turn your Google Drive into a stunning client gallery",
+    "doc_link": "https://docs.google.com/document/d/1aGzTVNETMhxjHfUlLR42lzYV9ZlrLSWo6hPuZ_xIpNc/edit?usp=drivesdk",
+    "competitors": "Pixieset, Pic-Time, SmugMug"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "Moxie Docs",
+    "description": "Living docs + MCP context for your GitHub repos",
+    "doc_link": "https://docs.google.com/document/d/1TgD1cr1kLkOIyRNZYIiyrgtmNQwfOwB29OlSlxGmPXw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "ConnectWizard",
+    "description": "Unlock hidden App Store Connect analytics",
+    "doc_link": "https://docs.google.com/document/d/18tWtLrjx4AXWPHfvGG79jzkixm2lmwEEhtW5YBCQax8/edit?usp=drivesdk",
+    "competitors": "Sensor Tower, App Annie, AppFollow"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "Trovelo",
+    "description": "Plan and track your trips privately",
+    "doc_link": "https://docs.google.com/document/d/1MhdH6ISWwA_8D4GJPTy2-FQm5VKRrm8z9gIawiH-zEQ/edit?usp=drivesdk",
+    "competitors": "TripIt, Google Travel, Roadtrippers"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "Branda",
+    "description": "A fun new way to create & manage brands.",
+    "doc_link": "https://docs.google.com/document/d/1C_yMyfKXd4CqW_7MC6Z0n2z1D9iPdeiRj6FveWLW05Q/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "choclift",
+    "description": "Use iPhone to open apps, Apple Shortcuts and websites on Mac",
+    "doc_link": "https://docs.google.com/document/d/1qYxTUlTKrNeon_KM1n__G4YGjeO0eL5D-ALbsHgg2Vo/edit?usp=drivesdk",
+    "competitors": "Remote Desktop, Screens, TeamViewer"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "Brief",
+    "description": "Navigate your agents to product-market fit",
+    "doc_link": "https://docs.google.com/document/d/1JKUDkHyw7MbHe3ITwqSukRs0F9SOzCpquUTtdS0m81w/edit?usp=drivesdk",
+    "competitors": "Anthropic Claude, LangChain, AutoGPT"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "Product Hunt",
+    "name": "Enshittifier",
+    "description": "Chrome extension that replaces \"AI\" with 💩",
+    "doc_link": "https://docs.google.com/document/d/1TErVoPrShuyHaY-v_NzBwWSP9V8SQKS3KY9E6Bnq7Cg/edit?usp=drivesdk",
+    "competitors": "uBlock Origin, Word Replacer II, Text Replacer"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "GitHub",
+    "name": "chopratejas/headroom",
+    "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, s",
+    "doc_link": "https://docs.google.com/document/d/14gZTU8hN5jFzPkcNsKAI9BpBtD3K7TiCdf3ubU12H7U/edit?usp=drivesdk",
+    "competitors": "LangChain TextSplitters, Cohere Rerank API, OpenAI Function Calling"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "GitHub",
+    "name": "reconurge/flowsint",
+    "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity",
+    "doc_link": "https://docs.google.com/document/d/1lKdrtJfLNvh3y1arKwVBKLBUExlpQ-K_S208abKVxx8/edit?usp=drivesdk",
+    "competitors": "Maltego, IBM i2 Analyst's Notebook, Palantir Gotham"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "GitHub",
+    "name": "Open-LLM-VTuber/Open-LLM-VTuber",
+    "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face runnin",
+    "doc_link": "https://docs.google.com/document/d/1LHctVmhh_sx-ZmBRHHPaTKI8fFwf4l0HvREfiVemFOw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-03",
+    "channel": "GitHub",
+    "name": "jamwithai/production-agentic-rag-course",
+    "description": "",
+    "doc_link": "https://docs.google.com/document/d/1DXCiliGklyoJjVto4WRwhdjZcrNVlmmK-iH2GRKRRrE/edit?usp=drivesdk",
+    "competitors": "LangChain官方文档, DeepLearning.AI RAG课程, Pinecone Learning Hub"
   }
 ]
