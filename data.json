@@ -13062,5 +13062,109 @@
     "description": "",
     "doc_link": "https://docs.google.com/document/d/1DXCiliGklyoJjVto4WRwhdjZcrNVlmmK-iH2GRKRRrE/edit?usp=drivesdk",
     "competitors": "LangChain官方文档, DeepLearning.AI RAG课程, Pinecone Learning Hub"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "InsForge Backend Branching",
+    "description": "Git style branching for your backend",
+    "doc_link": "https://docs.google.com/document/d/1OAwSFYT_WG9L-Cgd2KbCxthJLFk4CB3hDXe7iTqTJa4/edit?usp=drivesdk",
+    "competitors": "Argo Rollouts, Harness, Flagger"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "superlog",
+    "description": "Make your product bug-free",
+    "doc_link": "https://docs.google.com/document/d/1jGp0yYIAmvGstsdeYOlfQ6JgKHX1h7g9hfIpyroPmvY/edit?usp=drivesdk",
+    "competitors": "Bugsnag, Sentry, TestRail"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "Spectron",
+    "description": "Agent memory you can trust",
+    "doc_link": "https://docs.google.com/document/d/16YL1zK9Mjinf9QCyDGVrWh0gTFIXvVkuhX3ZOZqBxsw/edit?usp=drivesdk",
+    "competitors": "Pinecone, Mem0, Weaviate"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "Walkable",
+    "description": "Safety-first walking navigation to walk the safest routes",
+    "doc_link": "https://docs.google.com/document/d/1QhHm7dXVEFHf07p8x4GhrT8VipsoqJVEHV9AN92UCJE/edit?usp=drivesdk",
+    "competitors": "Citizen, SafeTrek, Noonlight"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "TaskGPT",
+    "description": "Voice agent for MacOS",
+    "doc_link": "https://docs.google.com/document/d/191pg0yfdazDjZFKz6U0hQ5gDxS7dkp_7x66KH5avEbQ/edit?usp=drivesdk",
+    "competitors": "Siri, Dragon Professional, Otter.ai"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "Elentaria",
+    "description": "Your GTM: from diagnosis to execution",
+    "doc_link": "https://docs.google.com/document/d/1iJ-3shOzhCO5ets7RrkBeV45JVY25xJ5K3_xehrBTaw/edit?usp=drivesdk",
+    "competitors": "Klenty, Outreach, HubSpot"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "Dispatch",
+    "description": "Your app launch hub with ASO audit, keywords, and ads",
+    "doc_link": "https://docs.google.com/document/d/1GSkDXOHNv96DIOwr09chHNVUKqJT132bD2LnWlnrp9M/edit?usp=drivesdk",
+    "competitors": "App Annie, Sensor Tower, Mobile Action"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "Brand Context API",
+    "description": "Ship AI that stays on-brand",
+    "doc_link": "https://docs.google.com/document/d/1HrH6Ft8dT2dJyvLggNkNjJqAoOm9H40LZ1IF6f4rwmQ/edit?usp=drivesdk",
+    "competitors": "Frontify, Jasper Brand Voice, Canva Brand Kit"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "Linkeezy",
+    "description": "LinkedIn inbox and feeds without the chaos.",
+    "doc_link": "https://docs.google.com/document/d/1CE1-UhQDJzQKdAgJbPC-vmWC07fXzFSCb3BUaFK8C9g/edit?usp=drivesdk",
+    "competitors": "Crystal, Dux-Soup, Sales Navigator"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "Product Hunt",
+    "name": "Franz 6",
+    "description": "All your messaging apps in one window — with private AI",
+    "doc_link": "https://docs.google.com/document/d/1mGW3zQaZ1P5MIzeyqORr0i90YKd6IQMNfdRXZASuC70/edit?usp=drivesdk",
+    "competitors": "Rambox, Station, Wavebox"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "GitHub",
+    "name": "HKUDS/Vibe-Trading",
+    "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+    "doc_link": "https://docs.google.com/document/d/1u2a_t-yyzMt8iCJQNmE05GHHzyuNJl1Z_OnjSr3mSQw/edit?usp=drivesdk",
+    "competitors": "eToro CopyTrader, Alpaca Trading API, 3Commas"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "GitHub",
+    "name": "lyogavin/airllm",
+    "description": "AirLLM 70B inference with single 4GB GPU",
+    "doc_link": "https://docs.google.com/document/d/1Lm4T3GbfltBecQT0RRTsTS0cOQfDnEY_ZRmsQq8DXkg/edit?usp=drivesdk",
+    "competitors": "llama.cpp, DeepSpeed Inference, vLLM"
+  },
+  {
+    "date": "2026-06-04",
+    "channel": "GitHub",
+    "name": "aquasecurity/trivy",
+    "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories,",
+    "doc_link": "https://docs.google.com/document/d/1zdGhe_VfBXHbaQLDeJ90D3zMl69H5WROyR0U7lI1iXw/edit?usp=drivesdk",
+    "competitors": "Snyk, Anchore, Clair"
   }
 ]
