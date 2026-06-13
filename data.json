@@ -14126,5 +14126,101 @@
     "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services",
     "doc_link": "https://docs.google.com/document/d/1hmuAs2mdpbj1UKS-ox03JX_lqDn6gB1PexYpsSQ_Ouo/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "NomNak",
+    "description": "Find restaurants through people you trust",
+    "doc_link": "https://docs.google.com/document/d/1GETIvc6oXyoYyF_5-vM88TM095uNdbkcTAvOIGkEyU0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "Prometheus by Firecrawl",
+    "description": "A Forward Deployed Agent for web data.",
+    "doc_link": "https://docs.google.com/document/d/1o5R7ZB2PbrR5ObZBbzPO4iTAlS13e9xWYOfCsAvrUD0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "Kimi K2.7 Code",
+    "description": "Kimi’s most capable coding model yet",
+    "doc_link": "https://docs.google.com/document/d/1tOTzvlnXI100TSY3K00xYG0MdA1xuzh0Y9pCY0RFlpk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "Vercel Drop",
+    "description": "Drop it. It's live.",
+    "doc_link": "https://docs.google.com/document/d/1tOC0Mcsm0aVHXGdk1qrkg3yK5N8WYQ8V30W1BeN8xnk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "CakewordAI",
+    "description": "Point at anything to learn its name in any language",
+    "doc_link": "https://docs.google.com/document/d/1IdDO9f-AL_jZumQKAOpmXsM4Ix3-QpecZ9hSX9fGuaE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "Avatars in ElevenCreative",
+    "description": "A dedicated entry point for talking-head video",
+    "doc_link": "https://docs.google.com/document/d/1NEwq6l_tLB9vf_UyJhMnJuKoxOgPD5OjS9p3F-hUW1I/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "Pond",
+    "description": "Fundraising, GTM, and bounties for startups",
+    "doc_link": "https://docs.google.com/document/d/1XgavrtEZsV_p5dRIYm0iFasgrWXGqDaxRrqfFe3d16w/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "Bob's CLI",
+    "description": "A local-first AI coding CLI that adapts to you",
+    "doc_link": "https://docs.google.com/document/d/1mXZ2oaIRZ92GujwCbUKEB-LJlAY5830ZoXkcU3yq_zU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "Meet Warren 3.0",
+    "description": "Your voice-supported AI financial planning partner",
+    "doc_link": "https://docs.google.com/document/d/1vwcpPa7ha-MdNDPi5f87W08U2eYlpQ_M8n1anTsEmcs/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "Product Hunt",
+    "name": "HyperSleep",
+    "description": "Block social media until you've actually slept",
+    "doc_link": "https://docs.google.com/document/d/1wmDsdQqGeCLiws65QUwa-LENEZFjYk2lXucXmlf1Mc8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "GitHub",
+    "name": "andrewyng/aisuite",
+    "description": "Simple, unified interface to multiple Generative AI providers",
+    "doc_link": "https://docs.google.com/document/d/1NDn2shSrSTzMjxTouXVvA42I82vTKiILB8cW8X5HYI0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-14",
+    "channel": "GitHub",
+    "name": "swc-project/swc",
+    "description": "Rust-based platform for the Web",
+    "doc_link": "https://docs.google.com/document/d/1p4sA2ezwr3Qk6OPXH90vHHAyZ6SD1gf76KgZW8HfznA/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
