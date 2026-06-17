@@ -14478,5 +14478,149 @@
     "description": "Fast, easy and reliable testing for anything that runs in a browser.",
     "doc_link": "https://docs.google.com/document/d/1emVXs7-Q10P7tMbwU9RAJdfLupGBRv1t2TPFQm2jK1c/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "NotchSpace",
+    "description": "Turn your Mac notch into an intelligent active workspace",
+    "doc_link": "https://docs.google.com/document/d/1kU5sIUHCQJhgxse6mCe8yVgHmuZJrtCo8Sufm-EVKrI/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Dualora",
+    "description": "Record in both 16:9 and 9:16 at the same time",
+    "doc_link": "https://docs.google.com/document/d/1VC9nYBlCU9LPwbjTWYxyzof6HNtDCKi0FJGnF0kF5y0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Snapchat SPECS",
+    "description": "Powerful computer built into lightweight see-through glasses",
+    "doc_link": "https://docs.google.com/document/d/1t-qStkIVrSlsdF4cagpmhAwdbdotTG_rPDHmxxpLUkM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Spanly",
+    "description": "See what AI agents do inside your MCP server",
+    "doc_link": "https://docs.google.com/document/d/1ouxe62DuIdQSHToGAhNVJfgNssNKjx5GOsmUpUGHvTw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Quartz",
+    "description": "AI email client built for focus. Runs locally on your Mac",
+    "doc_link": "https://docs.google.com/document/d/1PqYXIaZefU8CvOKwbRxazCcLWp4UaG6cP2ngOR-xz8Q/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Framer 3.0",
+    "description": "With Agents, Branching, Community, and an all-new design",
+    "doc_link": "https://docs.google.com/document/d/1pc-Kkb1qTe59JkFUSgs8aqNsP8KFIXC--KtBNlov5Q8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Wario Synth",
+    "description": "Transform songs into retro Gameboy-style game console music",
+    "doc_link": "https://docs.google.com/document/d/1SaDnvp56s-neTMQtoRG0-wevGvM6xoE4nOl6vC5EEPs/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Docfarm",
+    "description": "Host, share, and track everything your AI builds",
+    "doc_link": "https://docs.google.com/document/d/1KtXpSJ-AAezf7jbCoxkF1B9pAQJfomwTfZYcXz1uGs0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Daemons by Charlie Labs",
+    "description": "Keep PRs, issues, CI, and docs moving with AI agents",
+    "doc_link": "https://docs.google.com/document/d/1ycFHyb_ZSap7WXFSdXT5QWHC0VkFxrJxLtnKcMlu13E/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "Product Hunt",
+    "name": "Android 17",
+    "description": "Android becomes an intelligence system",
+    "doc_link": "https://docs.google.com/document/d/1-ytY36J-FH_e2xqonQq-OdDEuMZ9DmHW2w-Gx0eM2QE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "DeusData/codebase-memory-mcp",
+    "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph —",
+    "doc_link": "https://docs.google.com/document/d/1gw6k4en0VhEx_Nr_SAffPMRG1pcXPu7qVzX2KivcFnM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "nautechsystems/nautilus_trader",
+    "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+    "doc_link": "https://docs.google.com/document/d/1BMXgpzhxTKb7H7WdRPLwGWYWSLjN252Hd1GqcbP4uBY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "calesthio/OpenMontage",
+    "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skill",
+    "doc_link": "https://docs.google.com/document/d/1hAczP7Kr1WcO6c2efPrL4xnECFCfA2xilxcB95dVm_M/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "makeplane/plane",
+    "description": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management ",
+    "doc_link": "https://docs.google.com/document/d/1dN2W6PZP4q2Iz10m9onrW0QORkOB_4wG_zdZbnnt9XQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "yairm210/Unciv",
+    "description": "Open-source Android/Desktop remake of Civ V",
+    "doc_link": "https://docs.google.com/document/d/187xRJ9uPR85_FQ7I0ePn3ut7lXWCqcrLMOFztsk743U/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "continuedev/continue",
+    "description": "open-source coding agent",
+    "doc_link": "https://docs.google.com/document/d/1LxXzdato2OKxF6PTqY5AKmQpINCYdGYwHk0KZn56XgA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "alexzhang13/rlm",
+    "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various san",
+    "doc_link": "https://docs.google.com/document/d/1QXiwQfXkGbj6nydqjxw5GehAzTa-3YrPkE0uN3nObEE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-18",
+    "channel": "GitHub",
+    "name": "RocketChat/Rocket.Chat",
+    "description": "The Secure CommsOS™ for mission-critical operations",
+    "doc_link": "https://docs.google.com/document/d/1Rdf9eL2sAJ9O1g6VAxpDGsrUc87ohGTxAxAW7RJ3BYM/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
