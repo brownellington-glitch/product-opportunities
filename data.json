@@ -14766,5 +14766,109 @@
     "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on ",
     "doc_link": "https://docs.google.com/document/d/1SEOBWncatHXoULHKmdKBpgWZkYB1eHIa8MutFHhe1uA/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Zernio WhatsApp API",
+    "description": "One API for WhatsApp: messaging, calling, and AI agents",
+    "doc_link": "https://docs.google.com/document/d/1vhHX7gknSEaZfsPW1gUOpR9NgSqtZgOW6DK7Oc6ZzrQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Claude Code Artifacts",
+    "description": "Preview and share your coding work live as it happens",
+    "doc_link": "https://docs.google.com/document/d/1FMa85vYE0pE6f03FNQoZTxssS5AKagYbMM5A4sg7Voo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "MeshPilot",
+    "description": "Your AI workspace for terminals, tasks, and agents",
+    "doc_link": "https://docs.google.com/document/d/14oYiV0gbB83Al1vVqHEpFtADdJI4MvopQWui4ShrXhM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Snap Deck HQ",
+    "description": "Everything you need in one native macOS command bar",
+    "doc_link": "https://docs.google.com/document/d/1XEmHGbdjUXN5oGdXWckwoSKqFhfPX2H6vD_Np3hEf74/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Screen Ruler",
+    "description": "Edit anything on the web with change tracking",
+    "doc_link": "https://docs.google.com/document/d/1xuOZq3oBg9ASRT8Lpg8Iccl__bDvp8YEriHzs1g3O4U/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Mutter AI Dictation",
+    "description": "Private AI dictation that lets you operate offline.",
+    "doc_link": "https://docs.google.com/document/d/1kEk9LZm6MA5IXQG4T7J5cZLyW_aMtLwmkCd46f-_PQk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Darkmoon",
+    "description": "Autonomous penetration testing platform",
+    "doc_link": "https://docs.google.com/document/d/1y3azuBucIeCrBMzv6OqGb6NuBOtQTTXARMOBFjY1-4Y/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Firecrawl Research Index",
+    "description": "An index for agents pushing the frontier of AI/ML research",
+    "doc_link": "https://docs.google.com/document/d/1OQ-O2tmrsf4NbCQw2nVmTmE0TDqkNJ2gXZ32Bh7kAzY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Foglamp",
+    "description": "Ship AI agents you can actually see",
+    "doc_link": "https://docs.google.com/document/d/1qFu7b7yFNfG4LdX0wxfSst09GMPRzgo3euo2-_KD_UI/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "Product Hunt",
+    "name": "Blazly Backlinker",
+    "description": "Automate your entire backlink generation",
+    "doc_link": "https://docs.google.com/document/d/1iFiar0GwNzDjvcU2AC7XqoRNoI_fJe2pUdDb9AZb0zw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "GitHub",
+    "name": "palmier-io/palmier-pro",
+    "description": "macOS video editor built for AI",
+    "doc_link": "https://docs.google.com/document/d/10Iyqonec8MF5PbUQzQOhsIawWx-N5XrfDSkuOGUcAUE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "GitHub",
+    "name": "aishwaryanr/awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much mo",
+    "doc_link": "https://docs.google.com/document/d/1sxijm048n7TQtglUJnjiu_QKjnnzEPKZnRvmrdYabr0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-06-20",
+    "channel": "GitHub",
+    "name": "BuilderIO/agent-native",
+    "description": "A framework for building agent-native applications.",
+    "doc_link": "https://docs.google.com/document/d/1jMhILYrClEfb3fPYHgrjEhioDcldvJVlHdIM_zq2Fzg/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
