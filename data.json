@@ -16334,5 +16334,133 @@
     "description": "Action for checking out a repo",
     "doc_link": "https://docs.google.com/document/d/1ONQ-ZNLH5G5lM1gmINVdhzXiFfI1S1VOoHvXOdC2084/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Tamamon",
+    "description": "A desktop pet that grows as you code with Claude Code",
+    "doc_link": "https://docs.google.com/document/d/1JTuF7ELsq5G0m2aN6dIdf9t5BfshdlK1-AqtBe_5Qa4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Glaze by Raycast",
+    "description": "Create your own Mac apps by chatting with AI",
+    "doc_link": "https://docs.google.com/document/d/14dikcxy_ep5HAGfdLDh2tiApqxe_gKHeAfwhR4UBvq4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Goals from Loops",
+    "description": "Measure whether a campaign drove the desired outcome",
+    "doc_link": "https://docs.google.com/document/d/19zToPeGJ9UwcQGroy-hREYCqs-NfPTHqrnMRnA0Wwkk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "nxt",
+    "description": "Talk to your to do list and get what's next",
+    "doc_link": "https://docs.google.com/document/d/1LFXKvdrrxhQrp8iFK2fjlG6NJDcngAs6qAPXgaO7d4I/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Osloq",
+    "description": "An AI agent that reproduces GitHub issues for you",
+    "doc_link": "https://docs.google.com/document/d/17GcZgAMHyqYr8Lvg37EN-Cime5U7WWnj4MVf-Zr5Reo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Vox",
+    "description": "Talk to GitHub Copilot out loud",
+    "doc_link": "https://docs.google.com/document/d/1kroKd1nQNAtVSFJsKYPHD3o2iaC-zm4LU6aN2mWC37g/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Archify",
+    "description": "understand software",
+    "doc_link": "https://docs.google.com/document/d/169ECi2WbULEiql5fuaEacaJ3yLlNjUtrxbF73RiqGWc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Macuse",
+    "description": "Give Your AI Superpowers on macOS",
+    "doc_link": "https://docs.google.com/document/d/1O3F09NGi-iPaoWg4b2vM_Y7LibOWvOkgE4Uv3Z8vBFQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Solaris",
+    "description": "Your company’s AI adoption and upskilling platform",
+    "doc_link": "https://docs.google.com/document/d/1zBrA_SxK-7JnE8FCp9m0Qs94OA7aHIlBiMzjCy6tfo8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "Product Hunt",
+    "name": "Macro",
+    "description": "Unifies your work into one app with shared memory",
+    "doc_link": "https://docs.google.com/document/d/1RK64IRkLDKLqleehC2gKQQA8LPcpiTDA45nM9eUI58g/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "GitHub",
+    "name": "safishamsi/graphify",
+    "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any fol",
+    "doc_link": "https://docs.google.com/document/d/1Wd5753u21wF43VLRa8KSqfMZR7ovS5K_ZELZnItQgs4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "GitHub",
+    "name": "rommapp/romm",
+    "description": "A beautiful, powerful, self-hosted rom manager and player.",
+    "doc_link": "https://docs.google.com/document/d/1eKUvhkKUOPtTYdgTsVIFh-zvLW-PmNF4vZlrhK3l3WQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "GitHub",
+    "name": "supabase/supabase",
+    "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your we",
+    "doc_link": "https://docs.google.com/document/d/1cnMsoBQSqlaY_v9h3Yh33rSwMQUnke0d7J6EH79G7xM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "GitHub",
+    "name": "elastic/elasticsearch",
+    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+    "doc_link": "https://docs.google.com/document/d/16EG74lNvC6TEHeOi9YuIVCp70hmBswE-Pu2cjwIuKao/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "GitHub",
+    "name": "apache/maven",
+    "description": "Apache Maven core",
+    "doc_link": "https://docs.google.com/document/d/1ddAhOjWHpsJr4rkoHtAcFVuynE_okBNNuj8VpEQKypE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-04",
+    "channel": "GitHub",
+    "name": "ansible/ansible",
+    "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier",
+    "doc_link": "https://docs.google.com/document/d/1sp_bWxUz2gXKKZC1mdPGed8PbnIwhXzim9N2tcG4nJQ/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
