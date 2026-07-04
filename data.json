@@ -16462,5 +16462,101 @@
     "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier",
     "doc_link": "https://docs.google.com/document/d/1sp_bWxUz2gXKKZC1mdPGed8PbnIwhXzim9N2tcG4nJQ/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Product Hunt",
+    "name": "CentryAI",
+    "description": "Subscription tracker built by someone who forgot 11 of them",
+    "doc_link": "https://docs.google.com/document/d/19u-B4mTESwM4gG-4JqwwbxteSCc7tK03Uu79VPwkHlw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Product Hunt",
+    "name": "Termi Protocol",
+    "description": "Watch your AI coding agents build, live in 3D",
+    "doc_link": "https://docs.google.com/document/d/1kR95nicu-rzb435DtcyT_JRChg9rDQosFu_aSXwtJgs/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Product Hunt",
+    "name": "PhoneDeck",
+    "description": "Turn your iPhone into a free Mac controller",
+    "doc_link": "https://docs.google.com/document/d/1-IxyR1ZlRZBDxSsLV78GSlVar-dTfI8e_dqMycsKo7w/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Product Hunt",
+    "name": "Vida",
+    "description": "Clone yourself. Let AI do the work before you ask",
+    "doc_link": "https://docs.google.com/document/d/1lNYzjedtLqN55jBMyNgcwx8M9gVEL6ywG7MPcQKpzYE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Product Hunt",
+    "name": "ChecklistFox",
+    "description": "AI checklist maker for beautiful pdfs, free & instant",
+    "doc_link": "https://docs.google.com/document/d/1Obn3l5AtOqcN1mOHxWHUBwdtZ5kTDa4CFBIinaWj5vE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Product Hunt",
+    "name": "Retrace",
+    "description": "Debug AI agents by replaying and forking runs",
+    "doc_link": "https://docs.google.com/document/d/1JyjlRRou_FmhJ9EOEvPlcGC4TllzEmR8e2U3KueaPL4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "Product Hunt",
+    "name": "scritty",
+    "description": "Shared, searchable memory for every AI coding agent",
+    "doc_link": "https://docs.google.com/document/d/11s8r-_kRUBZyT1l8ru5C8ooUEDwg2VN-46fErgJYuj0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "GitHub",
+    "name": "Zackriya-Solutions/meetily",
+    "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diar",
+    "doc_link": "https://docs.google.com/document/d/1gS7k1s8eRIXOueA6ZiHdsR5yDP_S0VF1BKliz8CVftc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "GitHub",
+    "name": "chthollyphile/folia-major",
+    "description": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+    "doc_link": "https://docs.google.com/document/d/1omM909UE2dIjkIrC3BmPTYvD31JnLJVT70OvmVziU_o/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "GitHub",
+    "name": "alirezarezvani/claude-skills",
+    "description": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, custo",
+    "doc_link": "https://docs.google.com/document/d/14659Km9KXxxvDoJGRKXCSv62qQMFDIDBWh6iw85-SOU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "GitHub",
+    "name": "CoplayDev/unity-mcp",
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manag",
+    "doc_link": "https://docs.google.com/document/d/10bVDUnQN5SOc-bUhYx5Oae_gNmLh9jdmYudzCGxOCC8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-05",
+    "channel": "GitHub",
+    "name": "crynta/terax-ai",
+    "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+    "doc_link": "https://docs.google.com/document/d/15SQndWsgGCoJ5TGYq-NEOJZv0I9i3HwX4qrQCcM0_vk/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
