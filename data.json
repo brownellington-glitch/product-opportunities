@@ -16558,5 +16558,85 @@
     "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
     "doc_link": "https://docs.google.com/document/d/15SQndWsgGCoJ5TGYq-NEOJZv0I9i3HwX4qrQCcM0_vk/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "MentionDrop MCP",
+    "description": "Give your AI agent live market signals",
+    "doc_link": "https://docs.google.com/document/d/1ho3yb-utmMRPyMg02DSyBvVr_5H1nwJ6RUHUK0kW4jw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "Toku Reader",
+    "description": "Read & listen to native Japanese and Chinese, tap any word",
+    "doc_link": "https://docs.google.com/document/d/12VPp_fM_Ux10rqn_SOpl6WOTZAllrC55tDIwL6vsmYQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "Pennen",
+    "description": "One quiet handwritten page a day. No feed, no AI.",
+    "doc_link": "https://docs.google.com/document/d/1cFJ2zOsmFe2v7L5s6939gdFKJvBCPrBz3CxMF6qYhWU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "WorkBuddy",
+    "description": "Produce sharpened results faster with a team of AI experts",
+    "doc_link": "https://docs.google.com/document/d/1-By_rRcN9KbklNLsr2B5YrGtEVnV3uFNbsfiOT_DKg0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "DocsAlot",
+    "description": "Documentation that works for both humans and AI systems",
+    "doc_link": "https://docs.google.com/document/d/1nOSjB62eKM8FWUNA63j7NXFbDkZFHJa8P5gZnH_5Otk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "CircleChat",
+    "description": "Give your AI agents a slack, a task board, and a boss",
+    "doc_link": "https://docs.google.com/document/d/1EEdYRah4o-FA8iGUavuVTkiAg2XMx7GRH8cfEuBFVjE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "TryCase",
+    "description": "Disposable test environments for AI coding agents",
+    "doc_link": "https://docs.google.com/document/d/1jSnYHew6dOj1x_lj3Pvx1PCqtYQu1XWoxpkzgUZApRY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "Product Hunt",
+    "name": "Endl",
+    "description": "A global operating account for fiat, stablecoins, and cards.",
+    "doc_link": "https://docs.google.com/document/d/1kR2nkrUAiVBAyNeVI9GFRolRNynz4w-ssSyzebvSN_o/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "GitHub",
+    "name": "hesreallyhim/awesome-claude-code",
+    "description": "A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the",
+    "doc_link": "https://docs.google.com/document/d/1m2xLm9ByhjEy8HpJpj0IHGWEvJqikGXgy5rE3fTvqM4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-06",
+    "channel": "GitHub",
+    "name": "steipete/CodexBar",
+    "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+    "doc_link": "https://docs.google.com/document/d/170R9gacpNlZuldG2zsi0r8KudWTubJYW7_DyWGNZpaI/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
