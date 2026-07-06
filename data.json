@@ -16638,5 +16638,117 @@
     "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
     "doc_link": "https://docs.google.com/document/d/170R9gacpNlZuldG2zsi0r8KudWTubJYW7_DyWGNZpaI/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "AirKaren",
+    "description": "AI that fights customer service for you",
+    "doc_link": "https://docs.google.com/document/d/1xDR1rwfbcmiiPKBSQmvmHzAMogIxZyG9JVm49xsPwRs/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "CodeMote",
+    "description": "Claude Code, Codex, any CLI agent. Driven from your iPhone",
+    "doc_link": "https://docs.google.com/document/d/1Wa3et-lkJhAiHq0Ksx8mdlrXVAujBNoB2-lpfAH6RnA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "Typeahead 2.0",
+    "description": "Private AI autocomplete for every app on your Mac",
+    "doc_link": "https://docs.google.com/document/d/1Y35ityNcvpSPDTyh-B861AZjowReMNBzTBf0keFc-EI/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "Stanley Studio",
+    "description": "The AI video editor you hire that edits like a human",
+    "doc_link": "https://docs.google.com/document/d/1200rkV8qmtq_aXbKAG7O6MgYBCiVUrUZ0N1uxZnr0GU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "Octolens",
+    "description": "Social listening for the agent era",
+    "doc_link": "https://docs.google.com/document/d/1WjN3qprbhYGffZmcDUki2-ywv-sUVu6tfeQJ3VvDZYQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "Sunrise",
+    "description": "A real planner for Google Tasks",
+    "doc_link": "https://docs.google.com/document/d/1WZb0TH878-CWxjUSNJyQfte8nSO1-p1ZGAELOsRG9a8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "Cadence",
+    "description": "Record once, send confidently",
+    "doc_link": "https://docs.google.com/document/d/1lvkoTGQ6V_rVg_8Gdw9p6Lf7gyz1KH1DZQpEpqrZuj4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "Mozaik",
+    "description": "TypeScript runtime for self-organizing AI agents",
+    "doc_link": "https://docs.google.com/document/d/1BDJBzWeg4-lnA1e1F47liCj0vOI-OoVJKGNypyS09NY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "AnySearch",
+    "description": "Real-time structured search trusted by agents and developers",
+    "doc_link": "https://docs.google.com/document/d/1IXhURPQYblWtHONIxc4v01a2Pm_pi2B_4UOC-VVBkHk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "Product Hunt",
+    "name": "Nixmac",
+    "description": "Nix-darwin that speaks plain English",
+    "doc_link": "https://docs.google.com/document/d/13TAbhc-1Ra06rHRP7dpk1oSbXCpEHiovI1aNCKlznak/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "GitHub",
+    "name": "bradautomates/claude-video",
+    "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it",
+    "doc_link": "https://docs.google.com/document/d/1xYe1VAZPYKcg2B4gAp7PEWvzCcr_0eMKfjljMFGIvCE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "GitHub",
+    "name": "sindresorhus/awesome",
+    "description": "😎 Awesome lists about all kinds of interesting topics",
+    "doc_link": "https://docs.google.com/document/d/1KH5Z6RolMahPITIEz_VFaossZrr2-FhO1Q_kkQeLIuM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "GitHub",
+    "name": "gastownhall/gastown",
+    "description": "Gas Town - multi-agent workspace manager",
+    "doc_link": "https://docs.google.com/document/d/1WhRPPROFsNIGIgmvzIzRLXsX7RDdtaupGKgEbv4JAqA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-07",
+    "channel": "GitHub",
+    "name": "karakeep-app/karakeep",
+    "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging an",
+    "doc_link": "https://docs.google.com/document/d/130Kz8Vx2MKbd7g7ZX3nh6U4EmHpBj3oZNRflyCMLNl0/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
