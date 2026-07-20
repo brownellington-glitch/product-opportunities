@@ -18166,5 +18166,133 @@
     "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
     "doc_link": "https://docs.google.com/document/d/1Q9cW406myeyBG7TACxqXZa9fs0pXIXcUfJogZZeHYrY/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Scriptyard",
+    "description": "A free visual story development workspace",
+    "doc_link": "https://docs.google.com/document/d/1BbdNgLyDx19Gl36a4_Yjpjn8eHPG85q8ITNBkoTwhx8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Creed",
+    "description": "Your personal context file for every agent.",
+    "doc_link": "https://docs.google.com/document/d/1fVRtK5VzJz7ScySXeGqFJG6zJaXt9zDFiQriYxL84dQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Inkling",
+    "description": "Open weights 975B multimodal model built for fine-tuning",
+    "doc_link": "https://docs.google.com/document/d/1Nir4WDB8BXGonJOzyBnjDP4frobJtQES54Q5t5Cq8_k/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Kogvio",
+    "description": "Understand anything online without leaving the page.",
+    "doc_link": "https://docs.google.com/document/d/1BSs1V1rSSoEYf3I9ymAOGY8UdArc4ZB8dDGRNwaKpRU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "LnkFlow",
+    "description": "Agentic click tracking that shows what grows your business",
+    "doc_link": "https://docs.google.com/document/d/16k94KADZQMRA8Ou6hkGfsEp4t0ErDVVddJ0s03oKjl8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Backbeat Forge",
+    "description": "Turn drum audio into a score you can actually edit",
+    "doc_link": "https://docs.google.com/document/d/1PPFGrjQMD8NXEF4Tao204y2HuAymynamZlYH1djGMtQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Deck",
+    "description": "The most capable AI assistant with its own inbox",
+    "doc_link": "https://docs.google.com/document/d/1DR2XqKCrIWuG2bScYhozJyWiROflhkna_X0Q_3AUBp0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Skippr AI",
+    "description": "The live AI employee inside your product, serving every user",
+    "doc_link": "https://docs.google.com/document/d/1YRdnoMWCQictuLLeP73OgAuTf9LTucBuR7gitGLfQdo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Autoplot",
+    "description": "Unify data analysis and plotting in one powerful workspace",
+    "doc_link": "https://docs.google.com/document/d/1t42zoQT42jdAXi4lk0pOXGPNBs1-374Rge0ZcXsN4U0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "Product Hunt",
+    "name": "Nautis",
+    "description": "The AI-native Operating System for founders.",
+    "doc_link": "https://docs.google.com/document/d/1aTxkdBuNlThFVRTApOttO2ojINSfRfFOdT31PtZIqYo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "GitHub",
+    "name": "oblien/openship",
+    "description": "Self-hosted deployment platform",
+    "doc_link": "https://docs.google.com/document/d/1BWyL3vY4hlx8YgBUZCyJwm2yFo6uPTQfQ8G_iAgrwJA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "GitHub",
+    "name": "microsoft/Ontology-Playground",
+    "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue",
+    "doc_link": "https://docs.google.com/document/d/1e5oamBsC-1QPa4L8HmHgYVy4fVbCiaI8vcIJSFNUxvA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "GitHub",
+    "name": "tokio-rs/topcoat",
+    "description": "A batteries-included framework for building web apps",
+    "doc_link": "https://docs.google.com/document/d/1FTQDigskqpPws4SB1emV3X4FJ4ZLlkAg6A-_ZzpYq-k/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "GitHub",
+    "name": "handy-computer/transcribe.cpp",
+    "description": "ggml speech-to-text inference for 16+ model families",
+    "doc_link": "https://docs.google.com/document/d/1ygb66wVM_PwcDKge6HrCqu6r3c5xOPp_oBsXsSpszN8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "GitHub",
+    "name": "moonshine-ai/moonshine",
+    "description": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents a",
+    "doc_link": "https://docs.google.com/document/d/1yxXpVNVTPZHhOex1iY_k8c3Xhh73h8ENcOstuybbjJk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-21",
+    "channel": "GitHub",
+    "name": "PrefectHQ/fastmcp",
+    "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+    "doc_link": "https://docs.google.com/document/d/1ZDi6czM70tF2C2GtNwFiNot84HE-1EQYTCPmGuBrCvg/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
