@@ -18294,5 +18294,165 @@
     "description": "🚀 The fast, Pythonic way to build MCP servers and clients.",
     "doc_link": "https://docs.google.com/document/d/1ZDi6czM70tF2C2GtNwFiNot84HE-1EQYTCPmGuBrCvg/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "CreateOS Sandbox",
+    "description": "Instant, hardware Isolated Sandboxes for AI agents",
+    "doc_link": "https://docs.google.com/document/d/1R7I52kYWjrj-5qQC8BdeC-Lc0qRWLiL0AHPUPXh0uC8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "Manifest",
+    "description": "Turn any webpage into an action manifest for AI agents",
+    "doc_link": "https://docs.google.com/document/d/1SpWdr9_W5qMcYnAJgMi8akJY2apED_W63R8hYfAKOXE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "Lev8",
+    "description": "Find, research, and reach the right people",
+    "doc_link": "https://docs.google.com/document/d/1AMYmgVU3CEIiGeEt2sUQfDVuc9Mp5q89dMC2eKplOMc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "ditto.site",
+    "description": "Clone any website into clean code. Free & open source",
+    "doc_link": "https://docs.google.com/document/d/1OsrYWPq1xkY1AigdrlUTFI1ShFs39BvoZB137IslJvM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "Phantomstory",
+    "description": "Launch a third-party blog to win AEO with just two clicks",
+    "doc_link": "https://docs.google.com/document/d/14pdDcPy2BDQStSI0uolE38tZ2UV7c6QVBcMwalQ_ThA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "Rerun",
+    "description": "The easiest way to build AI agents for all your tasks",
+    "doc_link": "https://docs.google.com/document/d/1hOqVbi-3gHTFWKImmi0wkviRn6i3C5PKkA0nDIdT4nQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "CartAI",
+    "description": "The AI agent that handles checkout.",
+    "doc_link": "https://docs.google.com/document/d/1vEZXke0WME2i0K-uMDYB0zEGGoTJFWF4i6QimprzC00/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "Jockey by TwelveLabs",
+    "description": "The video AI agent that understands your whole library",
+    "doc_link": "https://docs.google.com/document/d/1FH6VbdoTrJZ2EVxmdohcbltdBwzab_Eoe019x3sZFzE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "BUD",
+    "description": "Voice-first canvas for sketchnoting and whiteboarding",
+    "doc_link": "https://docs.google.com/document/d/1XjbVA7s-WRk8oV3vON44dE2BGddVUSTIdohhvegfVsw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "Product Hunt",
+    "name": "Tidy",
+    "description": "Your Mac tidies itself: screenshots, installers, Downloads",
+    "doc_link": "https://docs.google.com/document/d/1kjERULBfH0c5b1ZERHZWY-2No1B7i8uUT32c9xBaGrc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "bojieli/ai-agent-book",
+    "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+    "doc_link": "https://docs.google.com/document/d/1OSCDIepazj8jZkMLXEb2zt8Q0_65irgmJ1lOnihx-1g/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "ayghri/i-have-adhd",
+    "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+    "doc_link": "https://docs.google.com/document/d/1UVvLxeXG4CCZG-OsDkCnFZjiY5dhiAYr7kQ78cw47us/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "schollz/croc",
+    "description": "Easily and securely send things from one computer to another 🐊 📦",
+    "doc_link": "https://docs.google.com/document/d/1HIxLxPUZVlARDXH1seY1gljn203TP1x4MvICDxRUD9o/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "earthtojake/text-to-cad",
+    "description": "A collection of agent skills for CAD, robotics and hardware design",
+    "doc_link": "https://docs.google.com/document/d/1iCUI47cyt5sLOIB6KLr_xY9swM-L56GMjtHi3Zai38w/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "DioxusLabs/dioxus",
+    "description": "Fullstack app framework for web, desktop, and mobile.",
+    "doc_link": "https://docs.google.com/document/d/1RLwbWdZGLAVezOZE7hVM7yz-qEO6LgpxKoY0zEj9Avs/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "AlexsJones/llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "doc_link": "https://docs.google.com/document/d/1TRk0Pj093eC2aIBc0-sf_-xmpT_zZWaWjrdAGwcpH1Y/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "hyprwm/Hyprland",
+    "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacr",
+    "doc_link": "https://docs.google.com/document/d/1YKilAFdt0s1xVywfFB8mAmZ6x4dPr8aIYCcyOMEyTbk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "dottxt-ai/outlines",
+    "description": "Structured Outputs",
+    "doc_link": "https://docs.google.com/document/d/1j3MztFwbOavSl1wy8vSlvQUrdckwSIWxzfjjfigHTHw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "tradesdontlie/tradingview-mcp",
+    "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for persona",
+    "doc_link": "https://docs.google.com/document/d/1n2vJNYAu7OgaEXnOfq8nmFopwSSC69kH7glxYLVePK4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-22",
+    "channel": "GitHub",
+    "name": "langchain-ai/open_deep_research",
+    "description": "",
+    "doc_link": "https://docs.google.com/document/d/1pFp1jWAQk6xVy_-qjJ9rmJ5dRMuu2SGXyxL6PX5BjsI/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
