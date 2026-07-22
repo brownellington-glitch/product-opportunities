@@ -18454,5 +18454,109 @@
     "description": "",
     "doc_link": "https://docs.google.com/document/d/1pFp1jWAQk6xVy_-qjJ9rmJ5dRMuu2SGXyxL6PX5BjsI/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "Arkor",
+    "description": "Fine-tune and Deploy Open-weight Models in TypeScript",
+    "doc_link": "https://docs.google.com/document/d/13lITk_xVfdW-6lcKpyr_nyPYHAXzw_WjCLGoUVyGVJc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "Humalike x Hermes",
+    "description": "Social intelligence plugin for Hermes Agent",
+    "doc_link": "https://docs.google.com/document/d/1JgwcnPa7F_zkl3y0LWwcNaBdevtqDsBwbDj39ohn-mQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "Kastra",
+    "description": "Runtime authorization for Claude, Cursor, Codex and OpenClaw",
+    "doc_link": "https://docs.google.com/document/d/1UkW13hJ2wBi_5EWJnxMPI1FDpLUAGvULCz_omkA8T08/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "Redential",
+    "description": "A developer credential that proves what you built",
+    "doc_link": "https://docs.google.com/document/d/1pY77wQ1ELKnl62awX2WJcz1i4UMFn0WitGvnzJxndvY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "box",
+    "description": "Simple computers for agent w/ full VMs",
+    "doc_link": "https://docs.google.com/document/d/1QWpEWR4SautSfOxmPY0vmix96jCcZTFtZrNp5Wh_GDw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "Remote OpenClaw",
+    "description": "13,000+ MCP servers, skills & plugins for AI coding agents",
+    "doc_link": "https://docs.google.com/document/d/1HaM_jKs1bE7VWSfSyavxPVQ5B8lwrnBzFfpkJGOI30I/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "AI Agents in Chat",
+    "description": "Your Chat UI Just Got an AI Roommate",
+    "doc_link": "https://docs.google.com/document/d/1TWW33A8jwTc_NQgTrJzmIp8-mFNmp5eWBZJRk_5F7mo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "Product Hunt",
+    "name": "MonoCloud for Startups",
+    "description": "One identity layer for your customers, APIs, and agents",
+    "doc_link": "https://docs.google.com/document/d/1CVFaStU52eVHjmnMAEWCM7lPGxUDUfczY1_AWPv0pH4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "GitHub",
+    "name": "agegr/pi-web",
+    "description": "Web UI for the pi coding agent",
+    "doc_link": "https://docs.google.com/document/d/1EDA0zG-7JBaje3v3qrLM_uQeCPt5fJjtjQBUhMgxMZ8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "GitHub",
+    "name": "likec4/likec4",
+    "description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams fr",
+    "doc_link": "https://docs.google.com/document/d/1RoCqntwaKyCjcBtLGNTB5XUrMDKctcxWQiuV1_ECREU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "GitHub",
+    "name": "ComposioHQ/awesome-claude-skills",
+    "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+    "doc_link": "https://docs.google.com/document/d/125Sgt6CWMD4D21zj7zNNV_xQDng-6xt8BUrZGLcXr88/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "GitHub",
+    "name": "Pumpkin-MC/Pumpkin",
+    "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+    "doc_link": "https://docs.google.com/document/d/1vmLEgU1FU4oUZ9JoWNF_UjwgQ9mGvzlMjcSYkJlnfzU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-07-23",
+    "channel": "GitHub",
+    "name": "dreamhunter2333/cloudflare_temp_email",
+    "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+    "doc_link": "https://docs.google.com/document/d/1OVN3w24uX4v9veXzEu-XHnrHGEqejrNLQHWW9qehRpw/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
