@@ -20942,5 +20942,101 @@
     "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for bui",
     "doc_link": "https://docs.google.com/document/d/11cOg31oakGq9GhiiHiDvXmFNovp13rcZd1NRRf2E8yQ/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "Attyn",
+    "description": "Bringing intelligence to your cursor",
+    "doc_link": "https://docs.google.com/document/d/1e6lnwp9-vNa2BrfoarEaC9FqOkYn3kh4NGuo-2BifA4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "nenspace",
+    "description": "the lo-fi of LLMs: your mind, made larger",
+    "doc_link": "https://docs.google.com/document/d/1OvzQaEcOOSsyU2_jMDCTwGdWZI6recIqChXJ9nk1cac/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "Big Mike",
+    "description": "Your favorite uncle who knows sports & bets, on iMessage",
+    "doc_link": "https://docs.google.com/document/d/1ylGoHzslrbyEhm8NvlOrPeixCrLGejAAhsgb3MG8ocM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "Chronock",
+    "description": "Scheduling and calendar sync, all in one",
+    "doc_link": "https://docs.google.com/document/d/1g6V9MaphNOGubqBDWAZGxp4wlzFFB2Lc3SF9EH31MXA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "Joy",
+    "description": "A Mac menu bar app that throws confetti for your wins",
+    "doc_link": "https://docs.google.com/document/d/1wDn1fCbHfNSxpRO1D4DHy45dRgZZAshntgn9oW-mq7E/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "Zetik",
+    "description": "A chief of staff in your pocket",
+    "doc_link": "https://docs.google.com/document/d/1SSc9dKbnR8Hpbiaa_AtDly3EnmAtKWSffHftpZMzOpY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "FileRouter",
+    "description": "Take control of files and editors",
+    "doc_link": "https://docs.google.com/document/d/1owSsjjg1VfgBB7rKnVbcqSZ-eC2YkX1OcXcjZ9u85a0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "GLM-5.3",
+    "description": "Coding leap from scaled post-training on the same base",
+    "doc_link": "https://docs.google.com/document/d/1UFhs0_jRzJlk61C2-M22kmu9_EoF0DfJQLwBsNZHRuU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "Inferock Bench",
+    "description": "An independent receipt for every LLM API call",
+    "doc_link": "https://docs.google.com/document/d/1mAuIQMhb9L42OI_s2IcWJ143DfyUjX4QqHc9WrMgWcY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "Product Hunt",
+    "name": "Clamshell",
+    "description": "Close your MacBook. Keep the work running.",
+    "doc_link": "https://docs.google.com/document/d/1Lh3IM4z-ohiSBGM_DhqCk2sGGAmZKZyCtwgW4ImJ730/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "GitHub",
+    "name": "cordiverse/cordis",
+    "description": "Meta-Framework of Spatiotemporal Composability",
+    "doc_link": "https://docs.google.com/document/d/189uOiJgyXbnO_NFrshTprfiXjVhv0kP4RDJnshv6rYo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-16",
+    "channel": "GitHub",
+    "name": "MakazhanAlpamys/Soup",
+    "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+    "doc_link": "https://docs.google.com/document/d/125ZUQIchtyX8RR_LxcxmLuOYDHeE3zlTVMJjYLsJtFc/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
