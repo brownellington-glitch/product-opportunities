@@ -21038,5 +21038,77 @@
     "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
     "doc_link": "https://docs.google.com/document/d/125ZUQIchtyX8RR_LxcxmLuOYDHeE3zlTVMJjYLsJtFc/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "Product Hunt",
+    "name": "Expeditione",
+    "description": "The Interactive 3D Encyclopedia",
+    "doc_link": "https://docs.google.com/document/d/1Gj01U7tJDXJDUXCOrUx7E0-iu3byj-uL0pjq3IlGr4Y/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "Product Hunt",
+    "name": "HarnessRouter Community Edition",
+    "description": "Open-source unified interface for agent harnesses",
+    "doc_link": "https://docs.google.com/document/d/1WVfuSBdfeJpG2jvXDmNCDo8L07loE8rsmxd_BBNFexQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "Product Hunt",
+    "name": "AirAlarm",
+    "description": "Wake at the end of your sleep cycle",
+    "doc_link": "https://docs.google.com/document/d/10Ue3uVN6jqGmJA4q1audxOLvd-ecqTkSRQZRhuzSRSY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "Product Hunt",
+    "name": "CostLogic",
+    "description": "AI-powered construction takeoffs, estimates, and invoices",
+    "doc_link": "https://docs.google.com/document/d/1UR_ZZ_57AvGVKW7fBTiblRh6BeC207mLfAQlyckSHkI/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "Product Hunt",
+    "name": "Blume",
+    "description": "AI-ready, Markdown-first documentation framework",
+    "doc_link": "https://docs.google.com/document/d/1Ak8X2zgNHAkJ_b1qge2OpLt_mLAhU8PitbqirFQk3Yg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "Product Hunt",
+    "name": "Talvo",
+    "description": "Connect 2,500+ European banks to track your spending",
+    "doc_link": "https://docs.google.com/document/d/1pEaxA9n2384-mVnVgPF-Y8TMbQL0tph71hbbIokBmgw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "Product Hunt",
+    "name": "Compass Calendar",
+    "description": "The keyboard-first calendar to get organized quickly",
+    "doc_link": "https://docs.google.com/document/d/19-YFeaiileSD8gG7fu1Cnon3oNj72uUWVjVYKUaCaKM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "GitHub",
+    "name": "basecamp/omarchy",
+    "description": "Beautiful, Modern & Opinionated Linux",
+    "doc_link": "https://docs.google.com/document/d/1IfJNKGhRcamKME727MFmF0nxdpDoiM8jw27K_J2pOJc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-17",
+    "channel": "GitHub",
+    "name": "akitaonrails/ai-memory",
+    "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agen",
+    "doc_link": "https://docs.google.com/document/d/1MDwCK0QtmzS9LNf40pUo3MMuqiQBoX9KdYRnxbtRQrQ/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
