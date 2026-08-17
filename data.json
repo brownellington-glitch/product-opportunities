@@ -21110,5 +21110,93 @@
     "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agen",
     "doc_link": "https://docs.google.com/document/d/1MDwCK0QtmzS9LNf40pUo3MMuqiQBoX9KdYRnxbtRQrQ/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Omni by xpander",
+    "description": "Stop babysitting your AI agents",
+    "doc_link": "https://docs.google.com/document/d/1bbdv2PghjxxQr6L1Rc6xLJfVkUAdnQAfaVp7ArPYYEQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Bulbthings",
+    "description": "The AI platform to track and manage your physical assets",
+    "doc_link": "https://docs.google.com/document/d/16INBrqEwoNlf-YJLanTbjFRKz2fJScUYoEy65r7tkUE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Clears",
+    "description": "Move beyond AI coding to Agentic Software Delivery",
+    "doc_link": "https://docs.google.com/document/d/1TQ6q8fBvjPho3vgO-rF1Zn5M1hP18JZb5NMxachmJ2I/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "OpenTrade",
+    "description": "Open-source trading harness for Claude Code / Codex.",
+    "doc_link": "https://docs.google.com/document/d/1QCPXHlpsuePyzAr-bCyTgQRZR4O2ILbVmMmLlObgXOE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Replay QA for Teams",
+    "description": "Autonomous QA for teams who ship faster than they can verify",
+    "doc_link": "https://docs.google.com/document/d/1b8HBMdxxcSshhlUeJCVV2uWhpWJ8wV0kE1mu6Nr8al0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Vendo",
+    "description": "Let your users build their own features inside your product",
+    "doc_link": "https://docs.google.com/document/d/15X9HJ2T08ztC23CwgeaUnTJRdnEdq5Bp6Ytz0YcQvMg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Blender Agent Bridge",
+    "description": "Open-source MCP bridge for Blender AI workflows",
+    "doc_link": "https://docs.google.com/document/d/1I-iccKhP134SDyfwnxqetgUiE_kndQ3BJMAUzFOLLPQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "TinyFish",
+    "description": "The web operating layer for AI agents",
+    "doc_link": "https://docs.google.com/document/d/1k7eWSgRdTHhwcOalW5iO1WNRkFUsqdmbqKxJLKDWzUY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Hansel by Seedling",
+    "description": "Your email, your server, your keys so you're not locked out",
+    "doc_link": "https://docs.google.com/document/d/1Gnqi0-hCikJTr7l_2k8-YWvE7B8FKLXg1MStJGeOvgc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "Product Hunt",
+    "name": "Scholé Scenarios",
+    "description": "Learn by doing",
+    "doc_link": "https://docs.google.com/document/d/1a3H9Q7GM8QGGVeM1dh0g7mb0dVpCjapajkKkP0riWX0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-08-18",
+    "channel": "GitHub",
+    "name": "agalwood/Motrix",
+    "description": "A full-featured download manager.",
+    "doc_link": "https://docs.google.com/document/d/1wYKw4Dhn4i3kJCMxkU-6ALpKYE0YhZbvm77gbFLxvF0/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
