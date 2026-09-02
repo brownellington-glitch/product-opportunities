@@ -22670,5 +22670,133 @@
     "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web ",
     "doc_link": "https://docs.google.com/document/d/1pwFPIzyvJCFTlizN6hiCw2q2o5aAzSXA4W92JyD4Xes/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Parasocial",
+    "description": "A fast, native podcast player for power listeners.",
+    "doc_link": "https://docs.google.com/document/d/1D8AUrLELttSbpOQHTv1ZzZmYxt9VfHNE6METWfcw8U4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "CleanShot 5.0 with Studio Mode",
+    "description": "Mac-native app for screenshots, recordings and collaboration",
+    "doc_link": "https://docs.google.com/document/d/1Wa7H8JPBJjA-VrYHsrFzmliouXu0GWi9s4Lru7FpKOo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Browzer",
+    "description": "Put your technical content on autopilot",
+    "doc_link": "https://docs.google.com/document/d/1QFaCA5Y0lhNE_te4bd-1KrXtdEcLKoDNB2ZOo26ewEo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Dial",
+    "description": "Give your AI agent a real phone number in 10 seconds",
+    "doc_link": "https://docs.google.com/document/d/17mUgdM19rqn2JjLC6DccjvyLCaXyat4iBOhyqkg_LOc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "HydraDB OSS",
+    "description": "Now open source: the fastest, cheapest graph DB",
+    "doc_link": "https://docs.google.com/document/d/1mSGrjqrEmJInw8-4NpVG2eo4kq8d8wWl1QSBtAQGpoY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Porte",
+    "description": "Control your local Grok sessions from your phone",
+    "doc_link": "https://docs.google.com/document/d/1GdBXW68x77Zq7VUiSDWPtd8IvuvC2Es1dmCPPa0UcKY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Dyson CameraJet",
+    "description": "Precision-floss between teeth while you brush",
+    "doc_link": "https://docs.google.com/document/d/1Hhg2A8aU_rP9EJaj927z7djhaQ6iV8NzDxM9tpQe-3o/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Doop",
+    "description": "Design with AI agents - live on the same canvas",
+    "doc_link": "https://docs.google.com/document/d/1W-SxA7GD4UWtsBBdW2DgfLsibhN7FgSjH_EvoVSGF-I/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Articos",
+    "description": "Launch with confidence, not gut instinct",
+    "doc_link": "https://docs.google.com/document/d/1IWRastwtUN8AFomrn6g7k-qVJVhYtvS5yETLZTAfXlg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "Product Hunt",
+    "name": "Basedash AI Sources",
+    "description": "Trust every AI answer by seeing what built it",
+    "doc_link": "https://docs.google.com/document/d/15hYDwoHlA_lg2F6SXr7ZrPHOn7QZHoTrksBMQ5Z0h3s/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "GitHub",
+    "name": "blader/humanizer",
+    "description": "Agent skill that removes signs of AI-generated writing from text",
+    "doc_link": "https://docs.google.com/document/d/1huDQpMrwGSlvwoSrGS0WtdeFw05Lc9B2KW061TAsejI/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "GitHub",
+    "name": "sngyai/Sequoia-X",
+    "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+    "doc_link": "https://docs.google.com/document/d/1xKb2GmLh2d83AcFegwasItkhxFoFWkJOR_fksXTmoHg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "GitHub",
+    "name": "vercel-labs/portless",
+    "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+    "doc_link": "https://docs.google.com/document/d/1hJhL1BOG1ydPpy9QQhtFFQ_7j6tnL72zHuE8VE5IHUQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "GitHub",
+    "name": "zyronon/TypeWords",
+    "description": "Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步；",
+    "doc_link": "https://docs.google.com/document/d/1Xyk4l6ybkNLKSZeycdkIn2yJ-FNdmmHYpyyL7F5tquM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "GitHub",
+    "name": "superlinked/sie",
+    "description": "Open-source inference server and production cluster for all the models your agent needs.",
+    "doc_link": "https://docs.google.com/document/d/1RlWidxbDIN0W4Zi9OvZECxFTkSlaqFoC8Eps0RNEB08/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-03",
+    "channel": "GitHub",
+    "name": "fmtlib/fmt",
+    "description": "A modern formatting library",
+    "doc_link": "https://docs.google.com/document/d/1S0MNUP8f-VfWxfopF6hygjKOAu5ZAsWGDVknSs4Pp1c/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
