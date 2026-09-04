@@ -22886,5 +22886,109 @@
     "description": "Open source inference server that runs the best local models for your hardware, plugged into the age",
     "doc_link": "https://docs.google.com/document/d/1Lh4j7-t7laTsTSMv132xVIJX53x_b0SFjBv8MGrWeiM/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "Chalked for Mac",
+    "description": "Your replies ready with your work's full context",
+    "doc_link": "https://docs.google.com/document/d/1F6DOLLZQmPgqBdfMXft_qWzawsH2I4b1GJK4N6GVwAk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "Clockwork",
+    "description": "The calendar where your AI agents show up for work",
+    "doc_link": "https://docs.google.com/document/d/105reAcf1cIhQY8aFieCNMD0hY1m1cEjqO38cdEz9dWc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "Offline JS Playground",
+    "description": "Write, run, and test JavaScript snippets & JSON offline",
+    "doc_link": "https://docs.google.com/document/d/1lF6EuqYSPxws9nmVPiKhmkISbof8r-lXH6e9VpFkkZw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "GPT-6 Astra",
+    "description": "OpenAI's most capable model for end-to-end work",
+    "doc_link": "https://docs.google.com/document/d/1HYM30UacaYgN8tKUBFfVXP4gSc84UT2khk9jtl-iE7c/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "myAIcademy",
+    "description": "Learn AI skills for your specific role and team",
+    "doc_link": "https://docs.google.com/document/d/1pTyf03DrRKVp3mPiOlkcUboda2XEuKuR62JqiHoiaHo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "WeatherNext 3",
+    "description": "Our most advanced and accurate global weather AI model",
+    "doc_link": "https://docs.google.com/document/d/1ruVTj_d3ojx_j-uDblu_YcKWsZLQLEN_UFY2iJ86F7Q/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "cmmnts",
+    "description": "Add a powerful comment section to any website",
+    "doc_link": "https://docs.google.com/document/d/1S7VmYFcW_ZgYoksdO1EnF8R_CyOaim6L4cAjaEK2x1c/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "Google Gemini 3.8 Flash and Cyber",
+    "description": "Next-gen Gemini for agents, reasoning, and cyber security",
+    "doc_link": "https://docs.google.com/document/d/1dXWFEJKwbVFP7-grMO02WD-d1yOYCgZgz1vXB0tqvCk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "sidebranch",
+    "description": "Easy git-based visual diffing",
+    "doc_link": "https://docs.google.com/document/d/1QZgZBOfa5ZmK1BYyu6BlGeAZ5AERL5Q0waTMY7_wozU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "Product Hunt",
+    "name": "Compliance by TwelveLabs",
+    "description": "Video compliance review powered by rules you control",
+    "doc_link": "https://docs.google.com/document/d/1417RSHcLS2PzwJw5mPTgz7tkukKZCMdM6ypMu1bwI6o/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "GitHub",
+    "name": "clshortfuse/renodx",
+    "description": "Renovation Engine for DirectX Games",
+    "doc_link": "https://docs.google.com/document/d/1tzbrMIWwhPjiHxaz4j4yvu6slAQI3UyruVDBg8iFzVM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "GitHub",
+    "name": "bikini/exploitarium",
+    "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes",
+    "doc_link": "https://docs.google.com/document/d/1kMjJylxuKraezG6DCUnmAwWRw32YKMVo9bLjY8zX8-g/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-05",
+    "channel": "GitHub",
+    "name": "radixark/miles",
+    "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked",
+    "doc_link": "https://docs.google.com/document/d/1o3CWz7Asy944R7HeaS_0t8Py5CKtz4Cc-j-Lkq7G-r4/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
