@@ -22990,5 +22990,93 @@
     "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked",
     "doc_link": "https://docs.google.com/document/d/1o3CWz7Asy944R7HeaS_0t8Py5CKtz4Cc-j-Lkq7G-r4/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "Hyperprobe",
+    "description": "Lets your AI agents debug production without redeploying",
+    "doc_link": "https://docs.google.com/document/d/1CfLR-_Hcc_8vTz1Sgrz9JLO78mvs4cp79LVPr7gSBNE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "GitWarren",
+    "description": "Review code with your coding agents before committing",
+    "doc_link": "https://docs.google.com/document/d/1g5RdIlrzTmxYzwums7VQ_1ZcelMnLcZHmIgFY6ybMBU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "Queuebrick",
+    "description": "The Letterboxd alternative",
+    "doc_link": "https://docs.google.com/document/d/1bPXwOwTmYVm-yHXhfcsgwZqBJRtCGjcTb_xIMPzNrc0/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "Reflexio",
+    "description": "Behavioral learning that makes AI agents better over time",
+    "doc_link": "https://docs.google.com/document/d/1IORr4sGTKvR43fK6ueNq56q_asyBWh3tY30oyA8fETE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "at8pm",
+    "description": "Your honest journal",
+    "doc_link": "https://docs.google.com/document/d/1NGHoNIee-cGwftjGKMiM_mFpX23CKWzFOwIJyHm7vvA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "Experiential Labs",
+    "description": "Open source AI gateway turning traffic into a better model",
+    "doc_link": "https://docs.google.com/document/d/1TWHGiG1vRcPCzNNFqezDqZSBxMQq8MDDrN9HYRd8Df4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "CommuteBar",
+    "description": "Live commute times in your menu bar",
+    "doc_link": "https://docs.google.com/document/d/1CHDiispgLg-LY7ZZBIuNwCUEQvbHy3328cqxC_JJpI8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "BrickForgerAI",
+    "description": "Turn any prompt into a brick set you can actually build",
+    "doc_link": "https://docs.google.com/document/d/1UU_v3hbc8A9a76lxCirapEYyIRjztZ6YiLxPT8V3i7E/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "PostBox",
+    "description": "Stage and post designs from your mac",
+    "doc_link": "https://docs.google.com/document/d/1BVMkwMk8i0aKgl_43GIYMNYhBsc63Us7BHa9IuXAnqY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "Product Hunt",
+    "name": "dif.sh",
+    "description": "Markdown feature flags your coding agent installs for you",
+    "doc_link": "https://docs.google.com/document/d/1gfxqZQOFUSbLQppglOKfmm1LnhG4eoNNTQDzfa8Nifg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-06",
+    "channel": "GitHub",
+    "name": "BraveOPotato/FckSignups",
+    "description": "A list of tools that are open-source, in-browser, and require no-signups!",
+    "doc_link": "https://docs.google.com/document/d/1nQsuFz_vzxc8SvqDLkTN232QUYC_TA3HQwuc2oDkHV0/edit?usp=drivesdk",
+    "competitors": "待调研"
   }
 ]
