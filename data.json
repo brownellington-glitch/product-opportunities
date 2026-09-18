@@ -23078,5 +23078,1397 @@
     "description": "A list of tools that are open-source, in-browser, and require no-signups!",
     "doc_link": "https://docs.google.com/document/d/1nQsuFz_vzxc8SvqDLkTN232QUYC_TA3HQwuc2oDkHV0/edit?usp=drivesdk",
     "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "Kit by Speakeasy",
+    "description": "Your coding agent runtime. Claude but fast, cheap, concise.",
+    "doc_link": "https://docs.google.com/document/d/1R-ufv4ox6ve5XYQZotrO_dtxvjmTGXjyGQ5zf_t6hfg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "Notify.domains",
+    "description": "Know the moment a domain opportunity appears",
+    "doc_link": "https://docs.google.com/document/d/1ruVjf8SmTGbGOadpB3sgudq6zr_5b6EQLi8lQqhRbyo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "AI Toolbox 3.0",
+    "description": "Search, organize and export every AI chat in one place",
+    "doc_link": "https://docs.google.com/document/d/18jouxhUL1Yj_FUfiuXpsspgA1639-JRitj2b4Z34xmU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "Agentic Video Understanding in Gemini",
+    "description": "Agentic video analysis for faster, smarter Gemini insights",
+    "doc_link": "https://docs.google.com/document/d/1nA-z4WKTW1VUy-XCRRwDtZeMzJLY60Xe0Njr-LwILas/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "H3 Max by fal",
+    "description": "fal's post-trained MiniMax H3 for quality video production",
+    "doc_link": "https://docs.google.com/document/d/1Jjv4xN8WwwEf9s39i232w4GDXwM8K7jHDoZkfcZdY7E/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "Tadata",
+    "description": "The AI employee in Slack that reads the room.",
+    "doc_link": "https://docs.google.com/document/d/12aKDe7WXC8UPhccUoF4nHD9O_Wi8eYhyQpfOt1q0yZo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "DocsAlot Visual Editor",
+    "description": "Create beautiful docs, by typing. No AI required.",
+    "doc_link": "https://docs.google.com/document/d/1T9z4lT3OYggEFW-ApsxJgbctFukyxP9on_PR-g9QG0Q/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "Retold",
+    "description": "Turn family voices into hand-drawn story films",
+    "doc_link": "https://docs.google.com/document/d/11mUBi31whXxmcq2ZNGRtp_-UDMJ-JLjmizry4CzSpss/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "Product Hunt",
+    "name": "TrackMCP",
+    "description": "Google Analytics for MCP Servers",
+    "doc_link": "https://docs.google.com/document/d/13_osOxzGgZe30YfQmC82k3OI7awEx1k2tKsQu87mDF8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "GitHub",
+    "name": "OpenWhispr/openwhispr",
+    "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-fi",
+    "doc_link": "https://docs.google.com/document/d/123nZ13kozZsOJwclZuS5ge1ui0jqZXD71_2fURhRQMw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "GitHub",
+    "name": "aipoch/open-science",
+    "description": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macO",
+    "doc_link": "https://docs.google.com/document/d/1Vf5DndTDes7_-aQG3YqUoBdWqaP0Eiw2Z5F0ybUg-2A/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "GitHub",
+    "name": "The-Swarm-Corporation/AutoHedge",
+    "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and",
+    "doc_link": "https://docs.google.com/document/d/1VIIb4YJT5F-lH0nBZpJyLRoqrA3FadIX-xZbzAOdQow/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "GitHub",
+    "name": "Stremio/stremio-web",
+    "description": "Stremio - Freedom to Stream",
+    "doc_link": "https://docs.google.com/document/d/1vvbIVI6guMumM_mR-_688FCnU7yerRNlgRO8gHkbTGM/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-07",
+    "channel": "GitHub",
+    "name": "llvm/llvm-project",
+    "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+    "doc_link": "https://docs.google.com/document/d/1gHpApIRkb9Cvu2U6-njdqKuh5t7q1-w8BCqwjJq8gQU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Routines by Databox",
+    "description": "An AI Analyst that runs analysis and reports on a schedule",
+    "doc_link": "https://docs.google.com/document/d/1LV9eJgcgUS0tDIKdGvI37MVRra3grcPW7mPVj31jj6k/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Bloop",
+    "description": "Turn any Mac audio into a visual you can actually export",
+    "doc_link": "https://docs.google.com/document/d/1Jb_lSKRGIh1AQK4EYD3NrfcZjF-M-RSrrKfz27NTjhg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Nina by Antalpha",
+    "description": "Non-custodial AI Agent: research, predict & trade crypto",
+    "doc_link": "https://docs.google.com/document/d/1Iyod9YRP6buH9GanJJgA2Jbx1j4uSZ3m5U5h8NGBlBA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Remind",
+    "description": "Full-screen meeting reminders with AI briefings",
+    "doc_link": "https://docs.google.com/document/d/1fmZg-nTzQ-Nu3XiRGw9BMljayJb3ozMdAOis8wLdPDQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Airuncode",
+    "description": "Run multiple local coding agents on your machine",
+    "doc_link": "https://docs.google.com/document/d/1Tf9zeKOhbwH3Vo8AR_LUtevjKL5-OW1bzKVVkGO7uD8/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Clipnote",
+    "description": "Save your AI conversations so they persist after closing tab",
+    "doc_link": "https://docs.google.com/document/d/1ixjERyfl3vQcAKEms4k8ptUJPsLu2Wos4j0WPMftKMY/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Tucky",
+    "description": "Notes docked to your screen edge, with an AI agent inside",
+    "doc_link": "https://docs.google.com/document/d/1h5am7vpa7kwaVTUaOcJzjg3xdeTlDYfImoBvEs-rY9Q/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Scriptly",
+    "description": "An iOS teleprompter app controlled by your voice",
+    "doc_link": "https://docs.google.com/document/d/1jO2IYTcyJ0mhE3kuVocrSrsL3cuAvIsR3vhYH28QTZc/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "PR Lens by Coldtea.ai",
+    "description": "See code through a new lens",
+    "doc_link": "https://docs.google.com/document/d/1PU-bZFFytuNUzgqfgxd4SNNXg5qUSvEcZy8Rd2VEBKQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "Product Hunt",
+    "name": "Assist",
+    "description": "Voice annotate your Mac, get screenshots + clipboard manager",
+    "doc_link": "https://docs.google.com/document/d/196Jhr92LV295WWDOApiGl5_xpA5cC9Urv7AbNis-r5w/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "GitHub",
+    "name": "MoonTechLab/LunaTV",
+    "description": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+    "doc_link": "https://docs.google.com/document/d/1BIM-ZtE00kOb6XK_GDvPIqLxyjNeLvxqZrzEop9UGHA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "GitHub",
+    "name": "jo-inc/camofox-browser",
+    "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-i",
+    "doc_link": "https://docs.google.com/document/d/1JQW8tUqNcs5pdY1IjrkCpJ2ouOxc4qhPsUSjKvfaWXU/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-08",
+    "channel": "GitHub",
+    "name": "lightpanda-io/browser",
+    "description": "Lightpanda: the headless browser designed for AI and automation",
+    "doc_link": "https://docs.google.com/document/d/1pmZIsKAYTJaTkcA94fG8is6kkYLkmlBoI8F71zttvTw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "bonds",
+    "description": "AI messenger that builds shared apps inside your group chats",
+    "doc_link": "https://docs.google.com/document/d/1hChS0A09cFsHCZ7DrMZf1DiEGBpfvgbuxIbnEiHGxDs/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "OpenMarket",
+    "description": "Multi-agent marketplace where proof decides who wins",
+    "doc_link": "https://docs.google.com/document/d/1UtnTmjNgnB6ABszqlan1ohw6bsiCntR1nNvDjfXp3iE/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "Tables.so",
+    "description": "AI that finds, qualifies and enriches your next customer",
+    "doc_link": "https://docs.google.com/document/d/1y8Efi0HnxPl2egNl02IlL6M9djOOXDQmWX963uxbFPo/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "Dictantor",
+    "description": "Record meetings and transcribe privately on Apple devices",
+    "doc_link": "https://docs.google.com/document/d/1eVGWH6XMdc3Ptjk_6z7aZUbmXjaif9vi6vKBt--TDy4/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "Relaticle",
+    "description": "Open-source CRM with approval-gated AI writes",
+    "doc_link": "https://docs.google.com/document/d/1CQYpyU0cvNMsnOM8Et8i2fG6sF_8HfyFBjy1gDqkn-Y/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "Switch",
+    "description": "Bring any AI agent into Slack, Teams & Discord",
+    "doc_link": "https://docs.google.com/document/d/1YYvOOUHYukL4RVv8u5giqVUvnC-LCgaZHDwpfyV56Pg/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "Catenary",
+    "description": "Spatial canvas IDE for AI coding agents",
+    "doc_link": "https://docs.google.com/document/d/1mRQaI_GnUZfpFfMnUcrp6aVTm82oHe4YZTArfIC84JA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "Jupitrr Cut",
+    "description": "Open source app for recording vids with a teleprompter",
+    "doc_link": "https://docs.google.com/document/d/1eyVc1uEEtD48QTTY600q9YTti5J0sgcmZ0rCGbftvBQ/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "AppGacha",
+    "description": "Turn a sentence into a tiny desktop app",
+    "doc_link": "https://docs.google.com/document/d/113a-zOjQdJrr3-bY_TmcmybCDHs4Ft1z1PUxpJKLEJw/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "Product Hunt",
+    "name": "Nametag",
+    "description": "Your social memory to never forget a name and person again",
+    "doc_link": "https://docs.google.com/document/d/1lO0t41VnL2ZJni7naL826OwT_G9wwFje42u-q0v6ymA/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-09",
+    "channel": "GitHub",
+    "name": "viarotel-org/escrcpy",
+    "description": "📱 Display and control your Android device graphically with scrcpy.",
+    "doc_link": "https://docs.google.com/document/d/1m55YJ2cGTkaGqvI9C055ccO66uNDwHyyxumz-baxCSk/edit?usp=drivesdk",
+    "competitors": "待调研"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "DuckFightClub",
+    "description": "Train your MicroDuck and win the Golden Beak Belt",
+    "doc_link": "https://docs.google.com/document/d/16zmURqIcwkvJd7SOIgwtGYe6MBCVivUjijDp7WFR1pc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "Frigade Assist API",
+    "description": "Give your AI agent guides that show users where to click",
+    "doc_link": "https://docs.google.com/document/d/1nJbrUbLhtMqtrm7GG9aCDyxMifJaFdR0o-RZ-PDTTuA/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "AdScope",
+    "description": "Understand your ad performance in seconds",
+    "doc_link": "https://docs.google.com/document/d/12yUi9znAvNsxxsSqP32Nc0kR-ASg4-WlJhjkZit-rZQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "Basedash in Español Français & Português",
+    "description": "Work with your data in your language",
+    "doc_link": "https://docs.google.com/document/d/1APOQnfVNNgfRp4GU5re095-5jWq7nFUhBs0vstRNy88/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "Type.com",
+    "description": "A shared workspace for Claude, Codex, and your team",
+    "doc_link": "https://docs.google.com/document/d/1eTs98W4u9wUXJOGYJkIuZXFm2Pa_yVig1PtXqWqS4KQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "49agents IDE",
+    "description": "2D IDE for running agents across projects without fatigue",
+    "doc_link": "https://docs.google.com/document/d/1lHmspvEbJzqSM7Kn1v5OOH4jEtc1tafG5sIeQEG88_k/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "Ass Auction",
+    "description": "Brands outbid each other to put their logo on my ass",
+    "doc_link": "https://docs.google.com/document/d/1U7u4LbxLPJzeKnhDVecWjsIl_nP0jYKMCy1rHyTFkI0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "ChatGPT Images 2.5",
+    "description": "Sharper visuals, faster flow, better creative control",
+    "doc_link": "https://docs.google.com/document/d/1MZ7GVLz1aTyumW-24BOQQiyFdtzxEQ1Oi2JLI00_iw0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "WorkID.ai",
+    "description": "Where verified talent meets opportunity. Hire with trust!",
+    "doc_link": "https://docs.google.com/document/d/1vyqQAJAr66Z8ye8hqSCXZbaiAKJQmAwYcDcruL-6QZM/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "Product Hunt",
+    "name": "GoModel",
+    "description": "Open-source OpenRouter",
+    "doc_link": "https://docs.google.com/document/d/1K_Xkfh6LMrpy_aiIHWqz7j2M3ldr-GDhCblWyZ608OM/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "GitHub",
+    "name": "liquidslr/system-design-notes",
+    "description": "Notes of the book System Desgin Interview - An Insider's Guide",
+    "doc_link": "https://docs.google.com/document/d/1uFMai80B_7o9bGwNnVTIxC6X_yr3v2nxvk8VVXpqe6o/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "GitHub",
+    "name": "Tencent/teamai-cli",
+    "description": "Make Every Team AI Native",
+    "doc_link": "https://docs.google.com/document/d/1G5Gz1X4h4dcaos2tNLb06Kh1YyUSRitqpkYfsLTgCMA/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-10",
+    "channel": "GitHub",
+    "name": "vastsa/PI-Desktop",
+    "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable",
+    "doc_link": "https://docs.google.com/document/d/1jSZa-Hjn2bkHCvJ69I-wkqTaz8-TU04lKwUJnUa2ZEU/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Mock Magic: Video Presets",
+    "description": "Use saved presets to quickly get a branded device video",
+    "doc_link": "https://docs.google.com/document/d/1rcnun0EgF5VakEefTU7EANxN6FgJgwJPVCNWU-8Za2Y/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Wealthfolio",
+    "description": "Private, local-first personal finance",
+    "doc_link": "https://docs.google.com/document/d/1swr_GyqtRbXbRiL8YJ9a6Lay72GDBUwMl8-PI9Kfp7Q/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Athenic AI",
+    "description": "Beat the market with 90+ datasets and AI made for analysis",
+    "doc_link": "https://docs.google.com/document/d/1kxoW3_4y-W5VzzzwJ2jvCkuc_LmCKc3PaVmKjiX57Pw/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Gojo",
+    "description": "Local dictation and everyday Mac tools in your notch",
+    "doc_link": "https://docs.google.com/document/d/1_zdM4YnYKZzO4UeIbyuXI7ucPp5EaYgLfnJx_tSN4Bs/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Speechmark",
+    "description": "Private, on-device meeting notes for Mac",
+    "doc_link": "https://docs.google.com/document/d/1At_Lvhk_W9OBYJpggXw_3TG7Cdd7bQUvtC4QtS_4hb8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Live Captions by Subanana",
+    "description": "Your whole audience follows, in their own language",
+    "doc_link": "https://docs.google.com/document/d/1zcmEkNP0pv0lFyN-syqmFsDGBPGMZyPyXOKihYlge7Y/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Drive",
+    "description": "Vehicle telemetry for your next weekend drive with LPR alert",
+    "doc_link": "https://docs.google.com/document/d/1HjYQXfcLyMUEyZWopddC3A7_XU7bITk-VqvGgNICkL4/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Viso Now",
+    "description": "Build computer vision applications with AI",
+    "doc_link": "https://docs.google.com/document/d/1IpS-XRkl1iLXsrR9OzJKlI4r_QWUjmw-lkdSB_X23e8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "hob",
+    "description": "The professional workspace for your whole agent stack",
+    "doc_link": "https://docs.google.com/document/d/1KvUH8YAP7Sc2QSZjN59oGfQs0fWIApeakm9rtRRv4zk/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "Product Hunt",
+    "name": "Modeinspect",
+    "description": "99 Days Free AI Credits - Design product UI in your codebase",
+    "doc_link": "https://docs.google.com/document/d/1wRC5lUapKwAwIKN-zYUOvv4mtq8bwatyi18CU4AGxn4/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "GitHub",
+    "name": "alsk1992/CloddsBot",
+    "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, B",
+    "doc_link": "https://docs.google.com/document/d/15zQpLkLhFIUmrzqbAkEAeKse2ptmfjsOBAsuAjI_pdk/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "GitHub",
+    "name": "JustVugg/colibri",
+    "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk.",
+    "doc_link": "https://docs.google.com/document/d/1a-q0eWRAZLSNks7YPMUTiPB9ANQjNc0RF_qmiETtU8o/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "GitHub",
+    "name": "nashsu/llm_wiki",
+    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interl",
+    "doc_link": "https://docs.google.com/document/d/1EOyWf5hP6MsoJENWSGd2vP8Clv3KXtoLSxZ4zd7LfYI/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-11",
+    "channel": "GitHub",
+    "name": "armory3d/armorpaint",
+    "description": "Graphics Creation Tools",
+    "doc_link": "https://docs.google.com/document/d/1Iydx9TkhPD4yHVDSev1jxKnfVwJc0n8oSAQ0gnUxCrs/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Loqua",
+    "description": "Speak naturally and move from thoughts to being done",
+    "doc_link": "https://docs.google.com/document/d/1dftrQuL06pzsQoTz7HAh3KCkM9t2NYTPlkJ-ziEZreI/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Raycast 2.0",
+    "description": "The next generation of Raycast is here",
+    "doc_link": "https://docs.google.com/document/d/1VGvcyf_ORHNcxyd7a6NltrY9RTHa3yQ2l3NmwWRENfo/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Wisry",
+    "description": "Clone the ads already winning in your market, at scale",
+    "doc_link": "https://docs.google.com/document/d/1O1NT0NUKEcgqY8s4XkdYHU_82S5jjbseyI0O3b25GnQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Cadenya",
+    "description": "A hosted agentic loop to bring agentic possibilities to life",
+    "doc_link": "https://docs.google.com/document/d/1FuBdf5uw90PfNNcIfOWWFZ8kpIh2SY467vqaJYeFrcY/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "chat-recall",
+    "description": "Ctrl+F for every conversation you've had with an AI",
+    "doc_link": "https://docs.google.com/document/d/1c9g5_3WeGwdUxVr60LmgFMOQ-eohmoobIWLWFFk5akA/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Sliick",
+    "description": "Free 3D mockups for your screenshots and videos",
+    "doc_link": "https://docs.google.com/document/d/118q5K91Px13_J_mlnBaakicGAG6wJuwY21R-Brp3m-s/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Spaces",
+    "description": "One shared space where your team and AI agents work",
+    "doc_link": "https://docs.google.com/document/d/1QN5LQinDc2x9PA_60BUGuivZaL730Lsxw7HQnoXyI8g/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Anysite.io",
+    "description": "Build and enrich B2B lists by chatting to your agent",
+    "doc_link": "https://docs.google.com/document/d/1LOKIFZ34w1x4kmReLBT3qwQIHHcblLP9hdbVwcjXRME/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "LiveGrid",
+    "description": "Watch multiple live streams at once, never miss a thing",
+    "doc_link": "https://docs.google.com/document/d/1V7HV4J-F16gCc9M8NYQVSAnTzzgZL5ZH24cDAD63tcg/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "Product Hunt",
+    "name": "Formesign",
+    "description": "Add legally binding signature to your Google Form",
+    "doc_link": "https://docs.google.com/document/d/1fN3YJnf-IqEfIVAI5OVyhQA0XjANzae9nA1YQF5UNIE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "GitHub",
+    "name": "p1neappleXpress/OpenFlux",
+    "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+    "doc_link": "https://docs.google.com/document/d/1KNMXSY1fw4qO3QdeQ-FKGppoU_ZUhwgwM-002A7vWB8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "GitHub",
+    "name": "Sonarr/Sonarr",
+    "description": "Smart PVR for newsgroup and bittorrent users.",
+    "doc_link": "https://docs.google.com/document/d/1tZqaxokZBf73LRNUoxujHRAFAR7gstG84KWaG2RfdXQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "GitHub",
+    "name": "alphaXiv/OpenResearch",
+    "description": "Run parallel research agents with any model",
+    "doc_link": "https://docs.google.com/document/d/1GxOe4Kl8H-Vjf52S1gDRZAwhft8LEo1gDRQBFMaJWN8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "GitHub",
+    "name": "jihe520/MathModelAgent",
+    "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,",
+    "doc_link": "https://docs.google.com/document/d/1J_E9QvczBfkUXQ3qx-6c5OwksP8VNaNkV-xC6ZsqQrc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "GitHub",
+    "name": "melgarafael/DeskcommCRM",
+    "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative ",
+    "doc_link": "https://docs.google.com/document/d/1yw7YxQKJOC4PFXJuog7D2XaqtYLtDsoZANAlJGU2N2M/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "GitHub",
+    "name": "jordan-gibbs/hyperresearch",
+    "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a per",
+    "doc_link": "https://docs.google.com/document/d/1ulkaP_1_ZyXCD76UG-7e_NPkKNfYGoPOkJtpe_jXNUE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-12",
+    "channel": "GitHub",
+    "name": "nab138/iloader",
+    "description": "User friendly sideloader",
+    "doc_link": "https://docs.google.com/document/d/118OR3IGnWl-SnJPDvNveAU0xlRhHG7JmFbJAouG6EiE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "LinkFlick",
+    "description": "Stop re-pairing your Magic Keyboard between Macs",
+    "doc_link": "https://docs.google.com/document/d/1eZlxUFip-AmsGtX4v3tn6l6-QfTDen3C3s14d7rAAxg/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "SUDARI",
+    "description": "A pixel otter desktop pet that reacts to how you work",
+    "doc_link": "https://docs.google.com/document/d/1yc1CSCOGRTFe5O4BLmSNm1wIRC0q5aRG69jiaAzhn8I/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "Wokyintosh",
+    "description": "Turn a spare Mac display into a retro system dashboard!",
+    "doc_link": "https://docs.google.com/document/d/1L7x7hgoS2zIDyUUfkwq4iei_ummtHHvWV-khaXjXBc8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "Marked Share",
+    "description": "Markdown and TextBundle editing, review, and sharing",
+    "doc_link": "https://docs.google.com/document/d/1SWqC70KjvlCXEuGIPkasFQ_bK1rSpRh3w-V8_Fq3BtU/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "Calerto for Mac",
+    "description": "Full-screen meeting alerts for your Mac",
+    "doc_link": "https://docs.google.com/document/d/1q5fi9uPZOk7nrrNDuGiaKPHbXHhV4Vo9jmfqXh7LLQ8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "Relic",
+    "description": "A private, synced vault of everything you copy",
+    "doc_link": "https://docs.google.com/document/d/1-oQuuzadzNSDgaPVa_Ei6VC7L_IdiDTOEJqKTdzetiA/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "QApilot MCP for Android",
+    "description": "Android app testing inside your coding agent",
+    "doc_link": "https://docs.google.com/document/d/1P7Fthig_Qj_ncyQHI4CEvENmJUGJo_vHlhS2E0l4Ca4/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "Cortex",
+    "description": "Turn API specs into docs, SDKs, and MCP servers",
+    "doc_link": "https://docs.google.com/document/d/1d1USDz9mXHiggX9wjkwlS_L8W8TMVI8OwgMP4f6gaO0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "VoxelWall",
+    "description": "Music-reactive live wallpapers for Mac",
+    "doc_link": "https://docs.google.com/document/d/1V1MKoiGmyz7Nxb2-ukY8weslnOR9xTeNQayhApJ067I/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "Product Hunt",
+    "name": "Kabza",
+    "description": "Take over a real city map with your friends",
+    "doc_link": "https://docs.google.com/document/d/1ZOMkBY2jtDL_P7Mqdy3wNjwXs4UTzAwPduB1yC-6r_0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "GitHub",
+    "name": "yuliskov/SmartTube",
+    "description": "Browse media content with your own rules on Android TV",
+    "doc_link": "https://docs.google.com/document/d/1R5npV0hkyWFd4g-tm6mmfc6yEihc3nMRDeUWHGB9L08/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "GitHub",
+    "name": "multimodal-art-projection/YuE",
+    "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+    "doc_link": "https://docs.google.com/document/d/1OIi6im6lj7kofykGx6ecDbOwcboEvTHmAI7v1GicdWY/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "GitHub",
+    "name": "SnailSploit/Claude-Red",
+    "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. ",
+    "doc_link": "https://docs.google.com/document/d/1Q3M9lzq3O6zIPL6d0UoN6kMIoiVX-_dTZn0OyZBPNEM/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-13",
+    "channel": "GitHub",
+    "name": "max-sixty/worktrunk",
+    "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+    "doc_link": "https://docs.google.com/document/d/1Sf-nVQChOay-5E9a_9Fo5luwWc4begOM1gL0fV2U3Pk/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "Clipwise",
+    "description": "Save any page to Notion",
+    "doc_link": "https://docs.google.com/document/d/1iP7l-3BNke0EdWQjQtNZOTnnpeZo8t1BBHtbIsMm-1s/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "SHIUI",
+    "description": "Hinomaru Ink Web UI Kit in Japanese Hinomaru style",
+    "doc_link": "https://docs.google.com/document/d/1WG3CDByJLc3FEQmMS-U-P9jtyJqKTWANSYpsS1JJsh4/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "Visiby",
+    "description": "Track and grow your visibility across AI search",
+    "doc_link": "https://docs.google.com/document/d/1pyDWpVrX1klyTpFOok9vYWKN3hj5yunERw7ypUsT9d8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "Neopress",
+    "description": "Build and grow your website by chatting with AI",
+    "doc_link": "https://docs.google.com/document/d/1cyhIZ09otai3ckpNwnxEX3w5IHWDeMF9sQiW19dKpX0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "Kirokune",
+    "description": "Keep work incident notes on your iPhone, without an account",
+    "doc_link": "https://docs.google.com/document/d/1fFwFsnIARIJVYzGAKNHoYDhIdDzYYFFK7RW4CNDXbYw/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "Epilude Notetaker",
+    "description": "100% private meeting notes",
+    "doc_link": "https://docs.google.com/document/d/16RS-CahT39ARNkQJMt8rWKtVyUD2qvHgeunQ5jhaFl4/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "Resurf",
+    "description": "A Personal Context App",
+    "doc_link": "https://docs.google.com/document/d/1J_NnVhckcEEcOiZKBkuah-5eyaGVwl3BCfwFjy0giJE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "ScreenCursor",
+    "description": "Screen recorder with auto zoom effects",
+    "doc_link": "https://docs.google.com/document/d/16zpNc_7-eQaHOEQP9ZYTiMPP4AALJLGcV6PbuCgeVFA/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "GhostWriter by MyHandler",
+    "description": "Two taps and it's already written",
+    "doc_link": "https://docs.google.com/document/d/1ymUzFcZqRCzgcZI4FBmFOL33xPkoxJyAUCN_yc_mhsc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "Product Hunt",
+    "name": "Cognition's SWE-2",
+    "description": "Cognition's coding model, 64% cheaper than Fable 5.1",
+    "doc_link": "https://docs.google.com/document/d/14kCB2hvcEiL3T1m7uNBK9ZmTXSAjm9aCYKEPxQh_B4U/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "GitHub",
+    "name": "tonhowtf/omniget",
+    "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Fre",
+    "doc_link": "https://docs.google.com/document/d/1PaACr-UElNG6Ebgbs3x4QvZcl_zHQp3DC83fzG7RD-E/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "GitHub",
+    "name": "jiji262/douyin-downloader",
+    "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress displa",
+    "doc_link": "https://docs.google.com/document/d/12sp_VzhjcAMKfMZi9uu52KA-6GYbYB2J6fNDaZU6L3U/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "GitHub",
+    "name": "Swordfish90/cool-retro-term",
+    "description": "A good looking terminal emulator which mimics the old cathode display...",
+    "doc_link": "https://docs.google.com/document/d/1ix2iWqDOb_e4YyrJ8bgd1vUJCQaaJCCl-Yy5rcYa2rg/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-14",
+    "channel": "GitHub",
+    "name": "ever-co/ever-gauzy",
+    "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) -https://gauzy.co",
+    "doc_link": "https://docs.google.com/document/d/1ocIoMQZlGnBjVgq9JILX8syP07Rd8RCkyYRpGx_ZCp0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "OVO",
+    "description": "Play music from files, iCloud & streams across Apple devices",
+    "doc_link": "https://docs.google.com/document/d/1jo4iFbaD_Xsy6zWLmcY6pLvKAoZFw4nDoS0a6YjjVWI/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "appdesigns",
+    "description": "Design amazing appstore screenshots for free",
+    "doc_link": "https://docs.google.com/document/d/11oi8thN5EfF_yMoAo4SkC1BS5fuYZS6rqM8JldeGFhU/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "Slashy Assistant",
+    "description": "The AI assistant that does email for you",
+    "doc_link": "https://docs.google.com/document/d/1V-gQsWzO_c8mYxl8YEM3ww44Ww_0lgfbP1sWcaPtW6g/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "Naoma AI Demo Agent V2",
+    "description": "Turns website traffic into booked, qualified meetings",
+    "doc_link": "https://docs.google.com/document/d/1aJ6L9IVXAM8i3IMxScNtyX2CNYSJSaX-lxUFjODgx_Y/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "Oats",
+    "description": "Free, open-source, and on device meeting notetaker",
+    "doc_link": "https://docs.google.com/document/d/1e39tNo88CAgUzWhJ9VF32FzZF9CvnVE8iXSNimUSHOU/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "Juggler",
+    "description": "A visual AI coding harness",
+    "doc_link": "https://docs.google.com/document/d/1MP4Q6iVqDH2Jw0CgMTYqJo_acMlZ9chXwMlnMrK9Brk/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "Image to ASCII",
+    "description": "Make ASCII art for READMEs, Discord & creative visuals",
+    "doc_link": "https://docs.google.com/document/d/1V2jtLmobCnGnZRF6YyUgEpi86Us6NAINqsUlt4N9g1o/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "OzBrain",
+    "description": "Your knowledge shared with every AI agent & any teammate",
+    "doc_link": "https://docs.google.com/document/d/18maDvi21DYFQG7NLKUjybvj6POTMhJ-1spMLCT_rKR8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "LLMagnet",
+    "description": "Make your WordPress site visible to AI",
+    "doc_link": "https://docs.google.com/document/d/1-QShaRFsOqx1SNhpQ3PzBWtkjeeJ2IYyKzYVZX2RHh0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "Product Hunt",
+    "name": "Aside",
+    "description": "AI browser that actually gets work done for you",
+    "doc_link": "https://docs.google.com/document/d/1P0EsrglWwRj1ABQuBCEGLddjTb89w8Tu28RLbD8SRqc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "GitHub",
+    "name": "peetzweg/opendisplay",
+    "description": "Free, open-source Sidecar/Duet alternative — use your iPhone or iPad as a true second monitor for yo",
+    "doc_link": "https://docs.google.com/document/d/1f9nXZ0iOCoePNSkh6OHeMPTbmNVj1KELVaJaO4Ah6p8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-15",
+    "channel": "GitHub",
+    "name": "rlaope/oh-my-hermes",
+    "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model op",
+    "doc_link": "https://docs.google.com/document/d/1BgHpuaHKMVFrpM_-QuuagCzDbbhAcL0H-HFfKAbm2zE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "siift",
+    "description": "Turn AI noise into better business decisions",
+    "doc_link": "https://docs.google.com/document/d/1MQKiNPbfQ6c2CFca7mW_nruaeZJpD8bDHcaHk_XWlQo/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "OpenAI Agents API",
+    "description": "Cloud agents, run on OpenAI's Codex harness",
+    "doc_link": "https://docs.google.com/document/d/1jafVos0ym5LF-LBYsPC5HB-rYIjvLoLXhnc3ePN0jqo/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Grimo AI",
+    "description": "Say it once and all tasks, calendar and notes are sorted",
+    "doc_link": "https://docs.google.com/document/d/1szB1UQcEv4Mxs0h2p-sgTcTxY3DHt2rIyUIxa1r0SyE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Fifi",
+    "description": "An alarm that calls you, and reads you your day",
+    "doc_link": "https://docs.google.com/document/d/1OrP6Kh5g60YCLNL0acZabrcZZl4_nv7RqHFf4dxfs-M/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Portfolio Frame",
+    "description": "Frame, annotate, and export screenshots that look designed",
+    "doc_link": "https://docs.google.com/document/d/18TlpYAf4JbNqzjfDdtJPf5CWhGzO5MgJ093n3-uVNN0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Anthropologic",
+    "description": "The zero distance consumer research platform.",
+    "doc_link": "https://docs.google.com/document/d/1QQPWqm6C0it4lSx4fDKOoYM_8aB19Br1FQeJAHwgQAY/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Idlen",
+    "description": "Earn while you work with AI in any IDE or browser",
+    "doc_link": "https://docs.google.com/document/d/1ZGzMf2OSAZtTEqURojVD_azmlAVipARV1doTVv7bmjQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Workshopy.io",
+    "description": "Turn a Markdown file into a live, trackable workshop",
+    "doc_link": "https://docs.google.com/document/d/1JGEMrRDdxDsM447Edqtez3rdjTGsa03DRfWAsiLQaAE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Mailyte",
+    "description": "Email for your team, your app, and your customers.",
+    "doc_link": "https://docs.google.com/document/d/1pX6-hDz8nUaOzTm1_4P9iQ178o1hlTox6VNVjlORTuE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "Product Hunt",
+    "name": "Buddy AI Access (MCP)",
+    "description": "Your agent needs more than your repo",
+    "doc_link": "https://docs.google.com/document/d/1LF1xv52g6i6J-xQBlDbPQF9Gu5vPeTmmQBPg_c_ZsLM/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "GitHub",
+    "name": "Homebrew/BrewUI",
+    "description": "📺 Homebrew's official macOS GUI",
+    "doc_link": "https://docs.google.com/document/d/1MRZSvSXg9TAk5e3tmsQQRfNx7UPi7Zy3hXrsTB3mG1Q/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "GitHub",
+    "name": "danny-avila/LibreChat",
+    "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses AP",
+    "doc_link": "https://docs.google.com/document/d/1Bf8WYXhf0Js1UQiE77udMWn1EzL9T9cKR3BOemLUV-c/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-16",
+    "channel": "GitHub",
+    "name": "MG1937/ASC",
+    "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+    "doc_link": "https://docs.google.com/document/d/1sMHByTZnRYywDik27VcldmeOcEMFwKO-q2moB6FaJmk/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "CreatorHat",
+    "description": "YouTube SEO tools for Safari featuring Apple Intelligence",
+    "doc_link": "https://docs.google.com/document/d/1Jr7G-bFrqgmit-Izq_nXBpfq5_kQPBoAz6lK09e2pdc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "flat.social",
+    "description": "Absurdly delightful 3D spaces where remote teams hang out",
+    "doc_link": "https://docs.google.com/document/d/1vpTASxkP4wkpp96vykwBV3HBaIGNnjr_sr5EfV3czRE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "Convo",
+    "description": "The AI copilot for people who sell",
+    "doc_link": "https://docs.google.com/document/d/1ULhas2uUBDrcKzgJNIDiTNhKKIvBy9HgRYVnLRlnB24/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "Project Feed",
+    "description": "Project management with built-in file review",
+    "doc_link": "https://docs.google.com/document/d/1ODArV939Z8yjiJmgymH9LCg0ofOFoRHe8fWXZn3EgbY/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "Twigg",
+    "description": "The context layer you never have to build",
+    "doc_link": "https://docs.google.com/document/d/14_TKKkiL-djEw0t4g0NdejoK2_4eGPxBWsKEnuECiu0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "Thread",
+    "description": "AI journal that connects your thoughts into something bigger",
+    "doc_link": "https://docs.google.com/document/d/11V3eBT6GVAO2fzX4OTW_Q2drHgyNaZPnnBFPavEqEUs/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "Expand Board for macOS",
+    "description": "Expand ideas, concepts, and plans across limitless boards",
+    "doc_link": "https://docs.google.com/document/d/1YalbeLtCG-xcyDx9P1XIhaLKbmHjHjUXEqPHWXXrbfQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "CAT ME app",
+    "description": "See yourself or your friends as cats",
+    "doc_link": "https://docs.google.com/document/d/1YcoOnWcOYdBHHXvOpXs0fO9pU6WpMXMqgoEMOJaSejw/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "Toki Coordination",
+    "description": "Your personal assistant to schedule + follow up on meetings",
+    "doc_link": "https://docs.google.com/document/d/1Q_G5wlfnoxmTZqTfnDtJKntU2SEhKS_JvL1It0eo5rc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "Product Hunt",
+    "name": "Gemini 3.8 & 3.8 Live Extended Thinking",
+    "description": "Our most advanced Gemini Audio models yet",
+    "doc_link": "https://docs.google.com/document/d/1A2dF3Vp5TJzTi4LCBAW-a1SjBg_I49FW1gSOHELpKeg/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "GitHub",
+    "name": "cloudflare/security-audit-skill",
+    "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable f",
+    "doc_link": "https://docs.google.com/document/d/1c2knDpsuuUTFWIC9RXyZvUieS18fLwIv8-4FXeXTJa0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "GitHub",
+    "name": "Tencent/WeKnora",
+    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning",
+    "doc_link": "https://docs.google.com/document/d/1FV-Z1vuhL8b8Dl83UVyFq35KQKGb7toZNgj5vISG6xc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-17",
+    "channel": "GitHub",
+    "name": "abue-ammar/tinycast",
+    "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+    "doc_link": "https://docs.google.com/document/d/1anIl2yxllfIpwp0igKjkWZiW3T47ixY6Jgu-CY9fwSU/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "MacSentinel",
+    "description": "Find what’s slowing your Mac then clean it safely",
+    "doc_link": "https://docs.google.com/document/d/1Gq-8WF9M8yTY-uZ-gQn8M4efYjGqvrhDG2M8pgpokxk/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "QuietHint®",
+    "description": "The meeting assistant that stays on your Mac",
+    "doc_link": "https://docs.google.com/document/d/1KSKZE_3zzMNy7hTJB7IRPsrHJasMiC6OpCoSJDDPMAc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "AskDeck",
+    "description": "Call an AI to get a PowerPoint and a narrated video back",
+    "doc_link": "https://docs.google.com/document/d/14zzi0DLH50DaUZx4IAYBuICNC-fQmiEl4YwfYi-FEns/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "The Forge by Bob's Workshop",
+    "description": "Describe your idea & your team builds, deploys & operates it",
+    "doc_link": "https://docs.google.com/document/d/1Y858dFWiRYrNdcuHL9RPuje5FNutmEPKeOFH_BHXPtg/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "Opyt",
+    "description": "Turn what you follow on X and Substack into a knowledge base",
+    "doc_link": "https://docs.google.com/document/d/12tCa9ZXvTZcE6BIFcd5-mcJOvH6vR5mQUUpFJ1nN8cE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "Ever Beyond: Space Conquest",
+    "description": "Tactical Battles & Idle Merge",
+    "doc_link": "https://docs.google.com/document/d/11S1Q8eum46Xlw9RZnaUsEWMiPod0Oy4m-E22Xre0f9s/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "Compute:Arena",
+    "description": "Community submitted benchmarks for Local AI",
+    "doc_link": "https://docs.google.com/document/d/12nlzxUWE9ohpj4tWKGUtWjDgvUgmqvIW6wFPAbvoWp0/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "Blanc",
+    "description": "A minimal browser with a floating island for a toolbar",
+    "doc_link": "https://docs.google.com/document/d/1FIS8yIhLnt2xskmRARN-CgkwOz-C_ZKRnlFjCzwAASM/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "Axiom",
+    "description": "The modern machine data platform",
+    "doc_link": "https://docs.google.com/document/d/1P-1AN5QPSv7pryv-N4x6yld52BaZgNQqHQBQG28TYgI/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "Product Hunt",
+    "name": "Die With Me",
+    "description": "AIM buddy list for your friends’ Claude Code and Codex usage",
+    "doc_link": "https://docs.google.com/document/d/16kaS6QnIAQjCv74lN5Ny3-lv4yOseSNfIjJG3UrpUGM/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "GitHub",
+    "name": "Tencent/BrowserSkill",
+    "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for b",
+    "doc_link": "https://docs.google.com/document/d/1n_G5qGcalf5fBRT5pojKhfTwwaoA3hlGUPkSo534xRc/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "GitHub",
+    "name": "TencentCloud/Octop",
+    "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+    "doc_link": "https://docs.google.com/document/d/1LVctISfoKBO-PK9QVnKlexNADQTsp2KTk9MFtEGzJz8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "GitHub",
+    "name": "coder/coder",
+    "description": "Secure environments for developers and their agents",
+    "doc_link": "https://docs.google.com/document/d/1aq1hcE9dDGJQ9PsXh9XzVe_0ctJpdJSl59zf2CSSg1M/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-18",
+    "channel": "GitHub",
+    "name": "cilium/cilium",
+    "description": "eBPF-based Networking, Security, and Observability",
+    "doc_link": "https://docs.google.com/document/d/1-m-gzAL_h5q5ptvh5Wp_u53DMM96lXctnTm8OuJG_Cs/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "NM Signals",
+    "description": "Make your website work better for people and AI",
+    "doc_link": "https://docs.google.com/document/d/1EfyXTHVZ8PJ_p2bbRvrUdQuaBaKDczxr0kyylO2SK5I/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "Edgee Codex Compressor V2",
+    "description": "Use Codex at 35.6% lower costs",
+    "doc_link": "https://docs.google.com/document/d/1mq4guOEQw9imMMcSVsS3fccyOHYsVTMvMfDpE0AGEkU/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "Keysake",
+    "description": "Learn English as you type Chinese",
+    "doc_link": "https://docs.google.com/document/d/1zzWnw6NFzD9fJ83AurVCz7pmYaoU3m1-2YKTC48CMlE/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "cubicles.lol",
+    "description": "A metaverse for builders, side projects, and bad driving",
+    "doc_link": "https://docs.google.com/document/d/1B64d3fDhSrm4HqhFNk0_Tg4-DckoLQox6bFNcpUNk4E/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "citizen404",
+    "description": "The AGI runs the world with GPT-6 Astra. Hunt citizen404!",
+    "doc_link": "https://docs.google.com/document/d/1wTy0jz-yfMad5-uIFI9Dh7eHuicqqpe0u_jA2ssakNI/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "Ami AI",
+    "description": "Lovable for getting customers",
+    "doc_link": "https://docs.google.com/document/d/161vHPMA4Tnd-tsZqUU7XgUwZaka0gdSxWIvBc60bi5o/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "ProductBridge",
+    "description": "AI-native customer support and feedback agent",
+    "doc_link": "https://docs.google.com/document/d/1jg-XV0Ht6bWVAnoY84lUeqCYfLZi9v-b2cwYSOrzHHY/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "Ari by Ariso",
+    "description": "AI bar raiser for the most ambitious teams",
+    "doc_link": "https://docs.google.com/document/d/1Ud6SSRSPP8aZ_Gns09FqUndsKbxefgJWspo6LArf-74/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "MosMos",
+    "description": "Voice writing that works before, during, and after meetings",
+    "doc_link": "https://docs.google.com/document/d/1497VEVMz9eCq9H7SRoWFs4t8lCTHfnKYZXjf-BNzq5I/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "Product Hunt",
+    "name": "Eggshell",
+    "description": "Local memory for AI agents to reuse work, spend fewer tokens",
+    "doc_link": "https://docs.google.com/document/d/1eERIkFxQgY6sKu3YUVXhbAtwSKLh6F9U_UouFCXG8N4/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "GitHub",
+    "name": "ankitects/anki",
+    "description": "Anki is a smart spaced repetition flashcard program",
+    "doc_link": "https://docs.google.com/document/d/19pjaGkUqPP8TDPXigsZ2nxYzIcv2W7khqnh_qJixLrM/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-19",
+    "channel": "GitHub",
+    "name": "ahmedkhaleel2004/gitdiagram",
+    "description": "Free, simple, fast interactive diagrams for any GitHub repository",
+    "doc_link": "https://docs.google.com/document/d/1PZgBQSxJqBUPB3gsqeI8uOoh1pE69VUUfiZqhJNF6bQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
   }
 ]
