@@ -24686,5 +24686,101 @@
     "description": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
     "doc_link": "https://docs.google.com/document/d/1rF_mQOCzdGcA-IzlUuc-gkGwQ3U2QAVOBKxJESgc4NU/edit?usp=drivesdk",
     "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "Jevtown",
+    "description": "10,000 AI readers react to your post before you publish it",
+    "doc_link": "https://docs.google.com/document/d/16tNraaiyBF4XxUzrD9UJrqRV3tfCBbT-zp_XapKPAyY/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "Supacut",
+    "description": "Quickly turn interview footage into a rough cut",
+    "doc_link": "https://docs.google.com/document/d/1gYNjCJcWDZuT_olaGtEt-apBqur4vQHsk0U9Km7EwN8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "PostSider",
+    "description": "Social media scheduling platform for humans and agents",
+    "doc_link": "https://docs.google.com/document/d/1My0lAmZytwKnY4NRPQ8PfcFLfK_FexWiYoM9hsuuchA/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "Cronhq",
+    "description": "Cron jobs that actually run",
+    "doc_link": "https://docs.google.com/document/d/1v0bpWIewvMdlvUZ9ISipcarY98GCI2ZK8ySyAY9YvLU/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "Flicka",
+    "description": "Launch-ready product demos, from a Chrome extension",
+    "doc_link": "https://docs.google.com/document/d/10qD75TGvSFneu9ulPVUn5QRNiKVMsGEf1VZIdvpkK94/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "Turfs",
+    "description": "Keep content across your Mac organized in defined areas",
+    "doc_link": "https://docs.google.com/document/d/14w4006rYbjkdBEbSpiJCdfGwkqhK203FdQliVbKlqmQ/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "slop-grader",
+    "description": "Jev-AI CLI tool that evaluates text against custom rulesets",
+    "doc_link": "https://docs.google.com/document/d/1h_tR2-BVkL92umWbDezm17h2l4ZeTlqknltfArsyyag/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "Gradio Workflow",
+    "description": "connect nodes to build AI pipelines, powered by Hugging Face",
+    "doc_link": "https://docs.google.com/document/d/1zoTpmUEKdXlX6XnOS8WS07yiMtxLyTST7CkFj3DCUc4/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "CC",
+    "description": "Shared agent that helps keep your family in sync",
+    "doc_link": "https://docs.google.com/document/d/1STGHHOGNYh1HlUJQZivJhc48m3spwKV_JhhK4rtedNA/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "Product Hunt",
+    "name": "AI Creative Insights by Decode",
+    "description": "Predict which ad wins before you spend on media",
+    "doc_link": "https://docs.google.com/document/d/1LfBQgqKYOdMNUHkY_nvzjjB4IxsTdh-rKBnrDt2jks8/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "GitHub",
+    "name": "zhouxiaoka/autoclip",
+    "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+    "doc_link": "https://docs.google.com/document/d/1c3isiFcu-Ie78QiQqHe15XtcH1l12XZDVmrgbg0Nd0Y/edit?usp=drivesdk",
+    "competitors": "尚未获取"
+  },
+  {
+    "date": "2026-09-22",
+    "channel": "GitHub",
+    "name": "mvt-project/mvt",
+    "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find",
+    "doc_link": "https://docs.google.com/document/d/1fW6oRxXvS1mHMkOs-XPfOPX5lUPbNOx7o4XuWCtgpJw/edit?usp=drivesdk",
+    "competitors": "尚未获取"
   }
 ]
